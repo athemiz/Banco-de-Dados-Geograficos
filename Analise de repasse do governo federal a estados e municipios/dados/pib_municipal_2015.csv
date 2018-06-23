@@ -1,0 +1,5570 @@
+1;172392;Abadia de Goiás;GO
+2;165008;Abadia dos Dourados;MG
+3;289099;Abadiânia;GO
+4;341150;Abaeté;MG
+5;1197439;Abaetetuba;PA
+6;64192;Abaiara;CE
+7;55191;Abaíra;BA
+8;120170;Abaré;BA
+9;147388;Abatiá;PR
+10;62966;Abdon Batista;SC
+11;66964;Abel Figueiredo;PA
+12;568172;Abelardo Luz;SC
+13;181234;Abre Campo;MG
+14;1325017;Abreu e Lima;PE
+15;37293;Abreulândia;TO
+16;32012;Acaiaca;MG
+17;2027416;Açailândia;MA
+18;116942;Acajutiba;BA
+19;642964;Acará;PA
+20;115541;Acarape;CE
+21;556839;Acaraú;CE
+22;110769;Acari;RN
+23;41577;Acauã;PI
+24;240454;Aceguá;RS
+25;348566;Acopiara;CE
+26;57334;Acorizal;MT
+27;211982;Acrelândia;AC
+28;520396;Acreúna;GO
+29;877023;Açu;RN
+30;81720;Açucena;MG
+31;907878;Adamantina;SP
+32;30166;Adelândia;GO
+33;73563;Adolfo;SP
+34;166973;Adrianópolis;PR
+35;160357;Adustina;BA
+36;364636;Afogados da Ingazeira;PE
+37;74887;Afonso Bezerra;RN
+38;398377;Afonso Cláudio;ES
+39;36268;Afonso Cunha;MA
+40;143400;Afrânio;PE
+41;326352;Afuá;PA
+42;197560;Agrestina;PE
+43;28525;Agricolândia;PI
+44;237744;Agrolândia;SC
+45;127919;Agronômica;SC
+46;380012;Água Azul do Norte;PA
+47;117998;Água Boa;MG
+48;798362;Água Boa;MT
+49;116091;Água Branca;AL
+50;69607;Água Branca;PB
+51;153370;Água Branca;PI
+52;880144;Água Clara;MS
+53;89193;Água Comprida;MG
+54;273319;Água Doce;SC
+55;59418;Água Doce do Maranhão;MA
+56;137411;Água Doce do Norte;ES
+57;107046;Água Fria;BA
+58;201809;Água Fria de Goiás;GO
+59;45381;Água Limpa;GO
+60;24299;Água Nova;RN
+61;220656;Água Preta;PE
+62;264789;Água Santa;RS
+63;747429;Aguaí;SP
+64;49069;Aguanil;MG
+65;285207;Águas Belas;PE
+66;137150;Águas da Prata;SP
+67;87010;Águas de Chapecó;SC
+68;438819;Águas de Lindóia;SP
+69;121002;Águas de Santa Bárbara;SP
+70;123274;Águas de São Pedro;SP
+71;197580;Águas Formosas;MG
+72;73379;Águas Frias;SC
+73;1542997;Águas Lindas de Goiás;GO
+74;136657;Águas Mornas;SC
+75;168703;Águas Vermelhas;MG
+76;428887;Agudo;RS
+77;2052882;Agudos;SP
+78;154194;Agudos do Sul;PR
+79;161631;Águia Branca;ES
+80;40203;Aguiar;PB
+81;109268;Aguiarnópolis;TO
+82;460405;Aimorés;MG
+83;52052;Aiquara;BA
+84;106002;Aiuaba;CE
+85;76297;Aiuruoca;MG
+86;238161;Ajuricaba;RS
+87;30202;Alagoa;MG
+88;224176;Alagoa Grande;PB
+89;256641;Alagoa Nova;PB
+90;91328;Alagoinha;PB
+91;112314;Alagoinha;PE
+92;45020;Alagoinha do Piauí;PI
+93;2736933;Alagoinhas;BA
+94;84529;Alambari;SP
+95;76631;Albertina;MG
+96;108069;Alcântara;MA
+97;59221;Alcântaras;CE
+98;37115;Alcantil;PB
+99;161727;Alcinópolis;MS
+100;234939;Alcobaça;BA
+101;209153;Aldeias Altas;MA
+102;93915;Alecrim;RS
+103;432459;Alegre;ES
+104;1819793;Alegrete;RS
+105;31748;Alegrete do Piauí;PI
+106;92562;Alegria;RS
+107;812562;Além Paraíba;MG
+108;513035;Alenquer;PA
+109;112814;Alexandria;RN
+110;730529;Alexânia;GO
+111;2126719;Alfenas;MG
+112;295731;Alfredo Chaves;ES
+113;71703;Alfredo Marcondes;SP
+114;81192;Alfredo Vasconcelos;MG
+115;192025;Alfredo Wagner;SC
+116;22975;Algodão de Jandaíra;PB
+117;720155;Alhandra;PB
+118;264819;Aliança;PE
+119;73120;Aliança do Tocantins;TO
+120;57990;Almadina;BA
+121;119843;Almas;TO
+122;634541;Almeirim;PA
+123;459641;Almenara;MG
+124;34375;Almino Afonso;RN
+125;1253517;Almirante Tamandaré;PR
+126;121281;Almirante Tamandaré do Sul;RS
+127;35906;Aloândia;GO
+128;65914;Alpercata;MG
+129;535276;Alpestre;RS
+130;302074;Alpinópolis;MG
+131;1261321;Alta Floresta;MT
+132;421042;Alta Floresta D'Oeste;RO
+133;85556;Altair;SP
+134;3220115;Altamira;PA
+135;60292;Altamira do Maranhão;MA
+136;63816;Altamira do Paraná;PR
+137;43678;Altaneira;CE
+138;178871;Alterosa;MG
+139;135918;Altinho;PE
+140;376541;Altinópolis;SP
+141;223632;Alto Alegre;RR
+142;56692;Alto Alegre;RS
+143;84111;Alto Alegre;SP
+144;202695;Alto Alegre do Maranhão;MA
+145;146062;Alto Alegre do Pindaré;MA
+146;212703;Alto Alegre dos Parecis;RO
+147;790146;Alto Araguaia;MT
+148;48315;Alto Bela Vista;SC
+149;84509;Alto Boa Vista;MT
+150;73193;Alto Caparaó;MG
+151;445667;Alto do Rodrigues;RN
+152;76754;Alto Feliz;RS
+153;455373;Alto Garças;MT
+154;520614;Alto Horizonte;GO
+155;109266;Alto Jequitibá;MG
+156;80008;Alto Longá;PI
+157;89327;Alto Paraguai;MT
+158;64492;Alto Paraíso;PR
+159;256284;Alto Paraíso;RO
+160;138658;Alto Paraíso de Goiás;GO
+161;265819;Alto Paraná;PR
+162;311166;Alto Parnaíba;MA
+163;241826;Alto Piquiri;PR
+164;118803;Alto Rio Doce;MG
+165;80643;Alto Rio Novo;ES
+166;129324;Alto Santo;CE
+167;943326;Alto Taquari;MT
+168;288828;Altônia;PR
+169;301812;Altos;PI
+170;1809665;Alumínio;SP
+171;102300;Alvarães;AM
+172;36825;Alvarenga;MG
+173;87859;Álvares Florence;SP
+174;419984;Álvares Machado;SP
+175;47148;Álvaro de Carvalho;SP
+176;42335;Alvinlândia;SP
+177;234955;Alvinópolis;MG
+178;2345101;Alvorada;RS
+179;231914;Alvorada;TO
+180;50404;Alvorada de Minas;MG
+181;59265;Alvorada do Gurguéia;PI
+182;108906;Alvorada do Norte;GO
+183;224475;Alvorada do Sul;PR
+184;221056;Alvorada D'Oeste;RO
+185;133941;Amajari;RR
+186;784670;Amambai;MS
+187;133948;Amapá;AP
+188;39247;Amapá do Maranhão;MA
+189;89963;Amaporã;PR
+190;168617;Amaraji;PE
+191;86263;Amaral Ferrador;RS
+192;50756;Amaralina;GO
+193;119657;Amarante;PI
+194;252247;Amarante do Maranhão;MA
+195;316574;Amargosa;BA
+196;66408;Amaturá;AM
+197;264509;Amélia Rodrigues;BA
+198;103780;América Dourada;BA
+199;10101729;Americana;SP
+200;73403;Americano do Brasil;GO
+201;743189;Américo Brasiliense;SP
+202;84601;Américo de Campos;SP
+203;87036;Ametista do Sul;RS
+204;318872;Amontada;CE
+205;53354;Amorinópolis;GO
+206;20246;Amparo;PB
+207;3608997;Amparo;SP
+208;27141;Amparo de São Francisco;SE
+209;41506;Amparo do Serra;MG
+210;488292;Ampére;PR
+211;125026;Anadia;AL
+212;157280;Anagé;BA
+213;72146;Anahy;PR
+214;177632;Anajás;PA
+215;141217;Anajatuba;MA
+216;128672;Analândia;SP
+217;83576;Anamã;AM
+218;90913;Ananás;TO
+219;6236496;Ananindeua;PA
+220;13301497;Anápolis;GO
+221;303230;Anapu;PA
+222;105998;Anapurus;MA
+223;394230;Anastácio;MS
+224;184053;Anaurilândia;MS
+225;2758914;Anchieta;ES
+226;119432;Anchieta;SC
+227;88313;Andaraí;BA
+228;599548;Andirá;PR
+229;135677;Andorinha;BA
+230;785159;Andradas;MG
+231;2057927;Andradina;SP
+232;106101;André da Rocha;RS
+233;184019;Andrelândia;MG
+234;871229;Angatuba;SP
+235;67620;Angelândia;MG
+236;538032;Angélica;MS
+237;94043;Angelim;PE
+238;103063;Angelina;SC
+239;126413;Angical;BA
+240;46592;Angical do Piauí;PI
+241;41562;Angico;TO
+242;107329;Angicos;RN
+243;7663878;Angra dos Reis;RJ
+244;60984;Anguera;BA
+245;81924;Ângulo;PR
+246;16119;Anhanguera;GO
+247;99084;Anhembi;SP
+248;58874;Anhumas;SP
+249;363644;Anicuns;GO
+250;61502;Anísio de Abreu;PI
+251;116452;Anita Garibaldi;SC
+252;52391;Anitápolis;SC
+253;154516;Anori;AM
+254;175180;Anta Gorda;RS
+255;99466;Antas;BA
+256;384240;Antonina;PR
+257;47831;Antonina do Norte;CE
+258;52134;Antônio Almeida;PI
+259;97966;Antônio Cardoso;BA
+260;125297;Antônio Carlos;MG
+261;566440;Antônio Carlos;SC
+262;152683;Antônio Dias;MG
+263;63868;Antônio Gonçalves;BA
+264;191645;Antônio João;MS
+265;45892;Antônio Martins;RN
+266;161897;Antônio Olinto;PR
+267;480886;Antônio Prado;RS
+268;19627;Antônio Prado de Minas;MG
+269;70309;Aparecida;PB
+270;929139;Aparecida;SP
+271;11518675;Aparecida de Goiânia;GO
+272;69456;Aparecida do Rio Doce;GO
+273;71235;Aparecida do Rio Negro;TO
+274;801610;Aparecida do Taboado;MS
+275;87305;Aparecida d'Oeste;SP
+276;155695;Aperibé;RJ
+277;80656;Apiacá;ES
+278;134126;Apiacás;MT
+279;760318;Apiaí;SP
+280;91160;Apicum-Açu;MA
+281;414328;Apiúna;SC
+282;423106;Apodi;RN
+283;111560;Aporá;BA
+284;234157;Aporé;GO
+285;57183;Apuarema;BA
+286;2905716;Apucarana;PR
+287;205220;Apuí;AM
+288;86830;Apuiarés;CE
+289;205983;Aquidabã;SE
+290;807376;Aquidauana;MS
+291;1826728;Aquiraz;CE
+292;105299;Arabutã;SC
+293;137067;Araçagi;PB
+294;38681;Araçaí;MG
+295;15672677;Aracaju;SE
+296;1693232;Araçariguama;SP
+297;262627;Araçás;BA
+298;1162090;Aracati;CE
+299;85839;Aracatu;BA
+300;6235918;Araçatuba;SP
+301;367987;Araci;BA
+302;20026;Aracitaba;MG
+303;175654;Aracoiaba;CE
+304;114628;Araçoiaba;PE
+305;577420;Araçoiaba da Serra;SP
+306;5312677;Aracruz;ES
+307;47272;Araçu;GO
+308;363724;Araçuaí;MG
+309;213006;Aragarças;GO
+310;98799;Aragoiânia;GO
+311;58593;Aragominas;TO
+312;74756;Araguacema;TO
+313;157989;Araguaçu;TO
+314;62944;Araguaiana;MT
+315;3442024;Araguaína;TO
+316;16951;Araguainha;MT
+317;63711;Araguanã;MA
+318;58911;Araguanã;TO
+319;115917;Araguapaz;GO
+320;3696961;Araguari;MG
+321;329834;Araguatins;TO
+322;217759;Araioses;MA
+323;457096;Aral Moreira;MS
+324;74282;Aramari;BA
+325;130019;Arambaré;RS
+326;180643;Arame;MA
+327;112473;Aramina;SP
+328;81479;Arandu;SP
+329;44015;Arantina;MG
+330;24214;Arapeí;SP
+331;3918754;Arapiraca;AL
+332;96410;Arapoema;TO
+333;71725;Araponga;MG
+334;3888254;Arapongas;PR
+335;1332907;Araporã;MG
+336;1030461;Arapoti;PR
+337;100007;Arapuá;MG
+338;94947;Arapuã;PR
+339;370515;Araputanga;MT
+340;2764906;Araquari;SC
+341;84325;Arara;PB
+342;1563382;Araranguá;SC
+343;8405366;Araraquara;SP
+344;4640379;Araras;SP
+345;60504;Ararendá;CE
+346;202456;Arari;MA
+347;143245;Araricá;RS
+348;150208;Araripe;CE
+349;757099;Araripina;PE
+350;2170917;Araruama;RJ
+351;138871;Araruna;PB
+352;426466;Araruna;PR
+353;98994;Arataca;BA
+354;928213;Aratiba;RS
+355;83580;Aratuba;CE
+356;63554;Aratuípe;BA
+357;104401;Arauá;SE
+358;13952249;Araucária;PR
+359;237726;Araújos;MG
+360;4878822;Araxá;MG
+361;231389;Arceburgo;MG
+362;42851;Arco-Íris;SP
+363;1244153;Arcos;MG
+364;802665;Arcoverde;PE
+365;200179;Areado;MG
+366;295171;Areal;RJ
+367;137331;Arealva;SP
+368;193409;Areia;PB
+369;662157;Areia Branca;RN
+370;158798;Areia Branca;SE
+371;15162;Areia de Baraúnas;PB
+372;50275;Areial;PB
+373;36822;Areias;SP
+374;113418;Areiópolis;SP
+375;170423;Arenápolis;MT
+376;93215;Arenópolis;GO
+377;223504;Arês;RN
+378;25964;Argirita;MG
+379;42846;Aricanduva;MG
+380;197938;Arinos;MG
+381;593551;Aripuanã;MT
+382;2025529;Ariquemes;RO
+383;586079;Ariranha;SP
+384;75633;Ariranha do Ivaí;PR
+385;2295255;Armação dos Búzios;RJ
+386;162822;Armazém;SC
+387;46124;Arneiroz;CE
+388;40243;Aroazes;PI
+389;131090;Aroeiras;PB
+390;15539;Aroeiras do Itaim;PI
+391;27534;Arraial;PI
+392;803628;Arraial do Cabo;RJ
+393;128267;Arraias;TO
+394;938683;Arroio do Meio;RS
+395;44477;Arroio do Padre;RS
+396;183899;Arroio do Sal;RS
+397;298346;Arroio do Tigre;RS
+398;226846;Arroio dos Ratos;RS
+399;508663;Arroio Grande;RS
+400;80836;Arroio Trinta;SC
+401;960169;Artur Nogueira;SP
+402;160066;Aruanã;GO
+403;4874536;Arujá;SP
+404;96326;Arvoredo;SC
+405;223872;Arvorezinha;RS
+406;152527;Ascurra;SC
+407;20575;Aspásia;SP
+408;412725;Assaí;PR
+409;161550;Assaré;CE
+410;2789341;Assis;SP
+411;74687;Assis Brasil;AC
+412;994568;Assis Chateaubriand;PR
+413;31771;Assunção;PB
+414;40463;Assunção do Piauí;PI
+415;263639;Astolfo Dutra;MG
+416;595714;Astorga;PR
+417;493152;Atalaia;AL
+418;114257;Atalaia;PR
+419;143421;Atalaia do Norte;AM
+420;87690;Atalanta;SC
+421;143107;Ataléia;MG
+422;5290300;Atibaia;SP
+423;251714;Atílio Vivacqua;ES
+424;189485;Augustinópolis;TO
+425;288960;Augusto Corrêa;PA
+426;58782;Augusto de Lima;MG
+427;261207;Augusto Pestana;RS
+428;74323;Augusto Severo;RN
+429;89533;Áurea;RS
+430;106719;Aurelino Leal;BA
+431;269593;Auriflama;SP
+432;54727;Aurilândia;GO
+433;169238;Aurora;CE
+434;149969;Aurora;SC
+435;258513;Aurora do Pará;PA
+436;37405;Aurora do Tocantins;TO
+437;264873;Autazes;AM
+438;249446;Avaí;SP
+439;192942;Avanhandava;SP
+440;2211726;Avaré;SP
+441;98740;Aveiro;PA
+442;65086;Avelino Lopes;PI
+443;47811;Avelinópolis;GO
+444;61791;Axixá;MA
+445;91931;Axixá do Tocantins;TO
+446;91910;Babaçulândia;TO
+447;1019263;Bacabal;MA
+448;281761;Bacabeira;MA
+449;84749;Bacuri;MA
+450;28796;Bacurituba;MA
+451;314613;Bady Bassitt;SP
+452;239844;Baependi;MG
+453;2563713;Bagé;RS
+454;147697;Bagre;PA
+455;70877;Baía da Traição;PB
+456;144093;Baía Formosa;RN
+457;117158;Baianópolis;BA
+458;308882;Baião;PA
+459;132901;Baixa Grande;BA
+460;559407;Baixa Grande do Ribeiro;PI
+461;39861;Baixio;CE
+462;603725;Baixo Guandu;ES
+463;38708;Balbinos;SP
+464;79846;Baldim;MG
+465;65258;Baliza;GO
+466;131309;Balneário Arroio do Silva;SC
+467;164020;Balneário Barra do Sul;SC
+468;4799561;Balneário Camboriú;SC
+469;124738;Balneário Gaivota;SC
+470;521517;Balneário Piçarras;SC
+471;186497;Balneário Pinhal;RS
+472;183798;Balneário Rincão;SC
+473;614069;Balsa Nova;PR
+474;159997;Bálsamo;SP
+475;2629706;Balsas;MA
+476;478919;Bambuí;MG
+477;135470;Banabuiú;CE
+478;184707;Bananal;SP
+479;197687;Bananeiras;PB
+480;40561;Bandeira;MG
+481;58999;Bandeira do Sul;MG
+482;57170;Bandeirante;SC
+483;287181;Bandeirantes;MS
+484;598830;Bandeirantes;PR
+485;86733;Bandeirantes do Tocantins;TO
+486;68527;Bannach;PA
+487;76114;Banzaê;BA
+488;190608;Barão;RS
+489;71389;Barão de Antonina;SP
+490;777624;Barão de Cocais;MG
+491;167740;Barão de Cotegipe;RS
+492;175608;Barão de Grajaú;MA
+493;76822;Barão de Melgaço;MT
+494;42568;Barão de Monte Alto;MG
+495;97128;Barão do Triunfo;RS
+496;34651;Baraúna;PB
+497;571753;Baraúna;RN
+498;2370207;Barbacena;MG
+499;706555;Barbalha;CE
+500;87620;Barbosa;SP
+501;194915;Barbosa Ferraz;PR
+502;5520848;Barcarena;PA
+503;30552;Barcelona;RN
+504;151583;Barcelos;AM
+505;919359;Bariri;SP
+506;332643;Barra;BA
+507;34138;Barra Bonita;SC
+508;1298925;Barra Bonita;SP
+509;226808;Barra da Estiva;BA
+510;26216;Barra D'Alcântara;PI
+511;84559;Barra de Guabiraba;PE
+512;108435;Barra de Santa Rosa;PB
+513;62677;Barra de Santana;PB
+514;135112;Barra de Santo Antônio;AL
+515;826884;Barra de São Francisco;ES
+516;144225;Barra de São Miguel;AL
+517;41906;Barra de São Miguel;PB
+518;1036912;Barra do Bugres;MT
+519;71191;Barra do Chapéu;SP
+520;442603;Barra do Choça;BA
+521;552419;Barra do Corda;MA
+522;1554804;Barra do Garças;MT
+523;38141;Barra do Guarita;RS
+524;74911;Barra do Jacaré;PR
+525;86340;Barra do Mendes;BA
+526;48783;Barra do Ouro;TO
+527;1923475;Barra do Piraí;RJ
+528;184239;Barra do Quaraí;RS
+529;295407;Barra do Ribeiro;RS
+530;42167;Barra do Rio Azul;RS
+531;64725;Barra do Rocha;BA
+532;79666;Barra do Turvo;SP
+533;370489;Barra dos Coqueiros;SE
+534;104471;Barra Funda;RS
+535;51945;Barra Longa;MG
+536;4996770;Barra Mansa;RJ
+537;1260840;Barra Velha;SC
+538;229271;Barracão;PR
+539;170595;Barracão;RS
+540;307971;Barras;PI
+541;135434;Barreira;CE
+542;3716479;Barreiras;BA
+543;21702;Barreiras do Piauí;PI
+544;205900;Barreirinha;AM
+545;390773;Barreirinhas;MA
+546;392584;Barreiros;PE
+547;3796947;Barretos;SP
+548;437227;Barrinha;SP
+549;148950;Barro;CE
+550;79433;Barro Alto;BA
+551;605006;Barro Alto;GO
+552;55233;Barro Duro;PI
+553;54925;Barro Preto;BA
+554;192184;Barrocas;BA
+555;61090;Barrolândia;TO
+556;97258;Barroquinha;CE
+557;160623;Barros Cassal;RS
+558;345888;Barroso;MG
+559;47793106;Barueri;SP
+560;946776;Bastos;SP
+561;617136;Bataguassu;MS
+562;147109;Batalha;AL
+563;149514;Batalha;PI
+564;1513698;Batatais;SP
+565;297881;Batayporã;MS
+566;327259;Baturité;CE
+567;12705640;Bauru;SP
+568;1137272;Bayeux;PB
+569;2803970;Bebedouro;SP
+570;620406;Beberibe;CE
+571;186983;Bela Cruz;CE
+572;418227;Bela Vista;MS
+573;60455;Bela Vista da Caroba;PR
+574;835397;Bela Vista de Goiás;GO
+575;166129;Bela Vista de Minas;MG
+576;61494;Bela Vista do Maranhão;MA
+577;431559;Bela Vista do Paraíso;PR
+578;28731;Bela Vista do Piauí;PI
+579;134990;Bela Vista do Toldo;SC
+580;36434;Belágua;MA
+581;35793;Belém;AL
+582;29280972;Belém;PA
+583;148894;Belém;PB
+584;62662;Belém de Maria;PE
+585;55260;Belém do Brejo do Cruz;PB
+586;23181;Belém do Piauí;PI
+587;159759;Belém do São Francisco;PE
+588;7479539;Belford Roxo;RJ
+589;46829;Belmiro Braga;MG
+590;280860;Belmonte;BA
+591;46440;Belmonte;SC
+592;105485;Belo Campo;BA
+593;87364598;Belo Horizonte;MG
+594;1296130;Belo Jardim;PE
+595;70737;Belo Monte;AL
+596;1343598;Belo Oriente;MG
+597;113107;Belo Vale;MG
+598;133954;Belterra;PA
+599;56379;Beneditinos;PI
+600;34094;Benedito Leite;MA
+601;212988;Benedito Novo;SC
+602;1204062;Benevides;PA
+603;244941;Benjamin Constant;AM
+604;27085;Benjamin Constant do Sul;RS
+605;116146;Bento de Abreu;SP
+606;40153;Bento Fernandes;RN
+607;5253990;Bento Gonçalves;RS
+608;99147;Bequimão;MA
+609;90512;Berilo;MG
+610;37923;Berizal;MG
+611;25932;Bernardino Batista;PB
+612;187537;Bernardino de Campos;SP
+613;45451;Bernardo do Mearim;MA
+614;64779;Bernardo Sayão;TO
+615;1515129;Bertioga;SP
+616;43960;Bertolínia;PI
+617;35029;Bertópolis;MG
+618;125511;Beruri;AM
+619;69294;Betânia;PE
+620;37864;Betânia do Piauí;PI
+621;23904767;Betim;MG
+622;610372;Bezerros;PE
+623;30378;Bias Fortes;MG
+624;224177;Bicas;MG
+625;1453063;Biguaçu;SC
+626;155333;Bilac;SP
+627;34811;Biquinhas;MG
+628;2833555;Birigui;SP
+629;723190;Biritiba Mirim;SP
+630;100901;Biritinga;BA
+631;274503;Bituruna;PR
+632;15622353;Blumenau;SC
+633;235645;Boa Esperança;ES
+634;697259;Boa Esperança;MG
+635;160942;Boa Esperança;PR
+636;70346;Boa Esperança do Iguaçu;PR
+637;222215;Boa Esperança do Sul;SP
+638;37165;Boa Hora;PI
+639;94018;Boa Nova;BA
+640;38266;Boa Ventura;PB
+641;156416;Boa Ventura de São Roque;PR
+642;344983;Boa Viagem;CE
+643;123933;Boa Vista;PB
+644;7559301;Boa Vista;RR
+645;116533;Boa Vista da Aparecida;PR
+646;120463;Boa Vista das Missões;RS
+647;169708;Boa Vista do Buricá;RS
+648;180846;Boa Vista do Cadeado;RS
+649;53618;Boa Vista do Gurupi;MA
+650;141926;Boa Vista do Incra;RS
+651;101733;Boa Vista do Ramos;AM
+652;71412;Boa Vista do Sul;RS
+653;111180;Boa Vista do Tupim;BA
+654;296726;Boca da Mata;AL
+655;286187;Boca do Acre;AM
+656;32812;Bocaina;PI
+657;392172;Bocaina;SP
+658;46327;Bocaina de Minas;MG
+659;64426;Bocaina do Sul;SC
+660;700354;Bocaiúva;MG
+661;178165;Bocaiúva do Sul;PR
+662;35781;Bodó;RN
+663;230091;Bodocó;PE
+664;196867;Bodoquena;MS
+665;151762;Bofete;SP
+666;2650583;Boituva;SP
+667;432785;Bom Conselho;PE
+668;1047544;Bom Despacho;MG
+669;245863;Bom Jardim;MA
+670;248671;Bom Jardim;PE
+671;659967;Bom Jardim;RJ
+672;78313;Bom Jardim da Serra;SC
+673;136995;Bom Jardim de Goiás;GO
+674;109927;Bom Jardim de Minas;MG
+675;23543;Bom Jesus;PB
+676;644595;Bom Jesus;PI
+677;71161;Bom Jesus;RN
+678;282934;Bom Jesus;RS
+679;60908;Bom Jesus;SC
+680;773557;Bom Jesus da Lapa;BA
+681;88684;Bom Jesus da Penha;MG
+682;50945;Bom Jesus da Serra;BA
+683;236661;Bom Jesus das Selvas;MA
+684;617351;Bom Jesus de Goiás;GO
+685;66751;Bom Jesus do Amparo;MG
+686;207666;Bom Jesus do Araguaia;MT
+687;136325;Bom Jesus do Galho;MG
+688;661951;Bom Jesus do Itabapoana;RJ
+689;122257;Bom Jesus do Norte;ES
+690;41028;Bom Jesus do Oeste;SC
+691;61738;Bom Jesus do Sul;PR
+692;135101;Bom Jesus do Tocantins;PA
+693;60885;Bom Jesus do Tocantins;TO
+694;520562;Bom Jesus dos Perdões;SP
+695;80721;Bom Lugar;MA
+696;485261;Bom Princípio;RS
+697;34750;Bom Princípio do Piauí;PI
+698;48615;Bom Progresso;RS
+699;121244;Bom Repouso;MG
+700;231837;Bom Retiro;SC
+701;232625;Bom Retiro do Sul;RS
+702;302875;Bom Sucesso;MG
+703;34883;Bom Sucesso;PB
+704;103772;Bom Sucesso;PR
+705;50824;Bom Sucesso de Itararé;SP
+706;149229;Bom Sucesso do Sul;PR
+707;509010;Bombinhas;SC
+708;77462;Bonfim;MG
+709;335135;Bonfim;RR
+710;31295;Bonfim do Piauí;PI
+711;70202;Bonfinópolis;GO
+712;160129;Bonfinópolis de Minas;MG
+713;80066;Boninal;BA
+714;154033;Bonito;BA
+715;561974;Bonito;MS
+716;86342;Bonito;PA
+717;317884;Bonito;PE
+718;64112;Bonito de Minas;MG
+719;81651;Bonito de Santa Fé;PB
+720;87418;Bonópolis;GO
+721;168073;Boqueirão;PB
+722;102228;Boqueirão do Leão;RS
+723;34690;Boqueirão do Piauí;PI
+724;308596;Boquim;SE
+725;128928;Boquira;BA
+726;71778;Borá;SP
+727;256955;Boracéia;SP
+728;260501;Borba;AM
+729;52426;Borborema;PB
+730;322730;Borborema;SP
+731;290811;Borda da Mata;MG
+732;43443;Borebi;SP
+733;164142;Borrazópolis;PR
+734;239066;Bossoroca;RS
+735;241681;Botelhos;MG
+736;4043043;Botucatu;SP
+737;42809;Botumirim;MG
+738;78617;Botuporã;BA
+739;226337;Botuverá;SC
+740;95284;Bozano;RS
+741;975131;Braço do Norte;SC
+742;159921;Braço do Trombudo;SC
+743;72372;Braga;RS
+744;980346;Bragança;PA
+745;4907901;Bragança Paulista;SP
+746;163102;Braganey;PR
+747;75406;Branquinha;AL
+748;31343;Brás Pires;MG
+749;204741;Brasil Novo;PA
+750;568188;Brasilândia;MS
+751;183459;Brasilândia de Minas;MG
+752;149133;Brasilândia do Sul;PR
+753;39754;Brasilândia do Tocantins;TO
+754;385860;Brasiléia;AC
+755;42720;Brasileira;PI
+756;215613025;Brasília;DF
+757;267512;Brasília de Minas;MG
+758;639152;Brasnorte;MT
+759;70216;Braúna;SP
+760;123151;Braúnas;MG
+761;90593;Brazabrantes;GO
+762;162768;Brazópolis;MG
+763;93501;Brejão;PE
+764;197321;Brejetuba;ES
+765;48041;Brejinho;PE
+766;121364;Brejinho;RN
+767;95847;Brejinho de Nazaré;TO
+768;221854;Brejo;MA
+769;214703;Brejo Alegre;SP
+770;298578;Brejo da Madre de Deus;PE
+771;51925;Brejo de Areia;MA
+772;104521;Brejo do Cruz;PB
+773;27587;Brejo do Piauí;PI
+774;46323;Brejo dos Santos;PB
+775;66571;Brejo Grande;SE
+776;61840;Brejo Grande do Araguaia;PA
+777;582065;Brejo Santo;CE
+778;131757;Brejões;BA
+779;81016;Brejolândia;BA
+780;520799;Breu Branco;PA
+781;653951;Breves;PA
+782;99826;Britânia;GO
+783;80929;Brochier;RS
+784;496451;Brodowski;SP
+785;607358;Brotas;SP
+786;61865;Brotas de Macaúbas;BA
+787;1601362;Brumadinho;MG
+788;1150693;Brumado;BA
+789;63961;Brunópolis;SC
+790;5034195;Brusque;SC
+791;125723;Bueno Brandão;MG
+792;107397;Buenópolis;MG
+793;81115;Buenos Aires;PE
+794;216098;Buerarema;BA
+795;30311;Bugre;MG
+796;339706;Buíque;PE
+797;145973;Bujari;AC
+798;378471;Bujaru;PA
+799;345650;Buri;SP
+800;633054;Buritama;SP
+801;147951;Buriti;MA
+802;293990;Buriti Alegre;GO
+803;130377;Buriti Bravo;MA
+804;34344;Buriti de Goiás;GO
+805;76117;Buriti do Tocantins;TO
+806;134647;Buriti dos Lopes;PI
+807;43155;Buriti dos Montes;PI
+808;474700;Buriticupu;MA
+809;54769;Buritinópolis;GO
+810;112859;Buritirama;BA
+811;76124;Buritirana;MA
+812;601789;Buritis;MG
+813;518854;Buritis;RO
+814;294790;Buritizal;SP
+815;307798;Buritizeiro;MG
+816;408957;Butiá;RS
+817;135273;Caapiranga;AM
+818;374704;Caaporã;PB
+819;1066308;Caarapó;MS
+820;65121;Caatiba;BA
+821;43496;Cabaceiras;PB
+822;119266;Cabaceiras do Paraguaçu;BA
+823;203236;Cabeceira Grande;MG
+824;218672;Cabeceiras;GO
+825;51099;Cabeceiras do Piauí;PI
+826;2393482;Cabedelo;PB
+827;116590;Cabixi;RO
+828;7920120;Cabo de Santo Agostinho;PE
+829;10677333;Cabo Frio;RJ
+830;211142;Cabo Verde;MG
+831;74881;Cabrália Paulista;SP
+832;3900475;Cabreúva;SP
+833;318188;Cabrobó;PE
+834;2654379;Caçador;SC
+835;3547469;Caçapava;SP
+836;724965;Caçapava do Sul;RS
+837;125411;Cacaulândia;RO
+838;311002;Cacequi;RS
+839;1545823;Cáceres;MT
+840;448938;Cachoeira;BA
+841;258964;Cachoeira Alta;GO
+842;36456;Cachoeira da Prata;MG
+843;25836;Cachoeira de Goiás;GO
+844;228408;Cachoeira de Minas;MG
+845;97711;Cachoeira de Pajeú;MG
+846;159383;Cachoeira do Arari;PA
+847;151011;Cachoeira do Piriá;PA
+848;2123850;Cachoeira do Sul;RS
+849;102158;Cachoeira dos Índios;PB
+850;751864;Cachoeira Dourada;GO
+851;66814;Cachoeira Dourada;MG
+852;50440;Cachoeira Grande;MA
+853;530143;Cachoeira Paulista;SP
+854;978685;Cachoeiras de Macacu;RJ
+855;162159;Cachoeirinha;PE
+856;5983057;Cachoeirinha;RS
+857;22140;Cachoeirinha;TO
+858;4794299;Cachoeiro de Itapemirim;ES
+859;28217;Cacimba de Areia;PB
+860;105628;Cacimba de Dentro;PB
+861;44514;Cacimbas;PB
+862;79564;Cacimbinhas;AL
+863;86795;Cacique Doble;RS
+864;1807779;Cacoal;RO
+865;286045;Caconde;SP
+866;567692;Caçu;GO
+867;227389;Caculé;BA
+868;80907;Caém;BA
+869;198479;Caetanópolis;MG
+870;73396;Caetanos;BA
+871;569734;Caeté;MG
+872;194674;Caetés;PE
+873;726000;Caetité;BA
+874;138879;Cafarnaum;BA
+875;52510;Cafeara;PR
+876;1363782;Cafelândia;PR
+877;333985;Cafelândia;SP
+878;72568;Cafezal do Sul;PR
+879;50063;Caiabu;SP
+880;52943;Caiana;MG
+881;444384;Caiapônia;GO
+882;137991;Caibaté;RS
+883;171802;Caibi;SC
+884;55871;Caiçara;PB
+885;82666;Caiçara;RS
+886;49546;Caiçara do Norte;RN
+887;31315;Caiçara do Rio do Vento;RN
+888;1017096;Caicó;RN
+889;3074160;Caieiras;SP
+890;1201881;Cairu;BA
+891;72993;Caiuá;SP
+892;11584946;Cajamar;SP
+893;44135;Cajapió;MA
+894;89702;Cajari;MA
+895;1077824;Cajati;SP
+896;952698;Cajazeiras;PB
+897;21736;Cajazeiras do Piauí;PI
+898;25493;Cajazeirinhas;PB
+899;115903;Cajobi;SP
+900;140789;Cajueiro;AL
+901;65761;Cajueiro da Praia;PI
+902;52647;Cajuri;MG
+903;479734;Cajuru;SP
+904;92919;Calçado;PE
+905;133638;Calçoene;AP
+906;203478;Caldas;MG
+907;52245;Caldas Brandão;PB
+908;2217752;Caldas Novas;GO
+909;43828;Caldazinha;GO
+910;86580;Caldeirão Grande;BA
+911;50749;Caldeirão Grande do Piauí;PI
+912;120789;Califórnia;PR
+913;65895;Calmon;SC
+914;36909;Calumbi;PE
+915;266623;Camacan;BA
+916;20374786;Camaçari;BA
+917;38441;Camacho;MG
+918;51862;Camalaú;PB
+919;342657;Camamu;BA
+920;475381;Camanducaia;MG
+921;355079;Camapuã;MS
+922;1718252;Camaquã;RS
+923;1378728;Camaragibe;PE
+924;157308;Camargo;RS
+925;589401;Cambará;PR
+926;131037;Cambará do Sul;RS
+927;3540373;Cambé;PR
+928;166518;Cambira;PR
+929;1126989;Camboriú;SC
+930;283531;Cambuci;RJ
+931;866629;Cambuí;MG
+932;225019;Cambuquira;MG
+933;951575;Cametá;PA
+934;544562;Camocim;CE
+935;139206;Camocim de São Félix;PE
+936;37446;Campanário;MG
+937;301730;Campanha;MG
+938;55115;Campestre;AL
+939;308008;Campestre;MG
+940;125646;Campestre da Serra;RS
+941;50360;Campestre de Goiás;GO
+942;134080;Campestre do Maranhão;MA
+943;374944;Campina da Lagoa;PR
+944;122420;Campina das Missões;RS
+945;92416;Campina do Monte Alegre;SP
+946;75868;Campina do Simão;PR
+947;7978683;Campina Grande;PB
+948;1096972;Campina Grande do Sul;PR
+949;510501;Campina Verde;MG
+950;56417;Campinaçu;GO
+951;198600;Campinápolis;MT
+952;56400146;Campinas;SP
+953;36609;Campinas do Piauí;PI
+954;177335;Campinas do Sul;RS
+955;203670;Campinorte;GO
+956;397546;Campo Alegre;AL
+957;342858;Campo Alegre;SC
+958;311430;Campo Alegre de Goiás;GO
+959;183474;Campo Alegre de Lourdes;BA
+960;29086;Campo Alegre do Fidalgo;PI
+961;30741;Campo Azul;MG
+962;856711;Campo Belo;MG
+963;167553;Campo Belo do Sul;SC
+964;2600416;Campo Bom;RS
+965;143505;Campo Bonito;PR
+966;158123;Campo do Brito;SE
+967;135424;Campo do Meio;MG
+968;156585;Campo do Tenente;PR
+969;232555;Campo Erê;SC
+970;343762;Campo Florido;MG
+971;614466;Campo Formoso;BA
+972;69355;Campo Grande;AL
+973;24257415;Campo Grande;MS
+974;46361;Campo Grande do Piauí;PI
+975;3589828;Campo Largo;PR
+976;35557;Campo Largo do Piauí;PI
+977;83988;Campo Limpo de Goiás;GO
+978;1645831;Campo Limpo Paulista;SP
+979;322937;Campo Magro;PR
+980;460405;Campo Maior;PI
+981;3083696;Campo Mourão;PR
+982;177009;Campo Novo;RS
+983;223096;Campo Novo de Rondônia;RO
+984;2110505;Campo Novo do Parecis;MT
+985;69006;Campo Redondo;RN
+986;1918991;Campo Verde;MT
+987;271003;Campos Altos;MG
+988;246496;Campos Belos;GO
+989;82477;Campos Borges;RS
+990;973239;Campos de Júlio;MT
+991;1093067;Campos do Jordão;SP
+992;34216752;Campos dos Goytacazes;RJ
+993;346796;Campos Gerais;MG
+994;315451;Campos Lindos;TO
+995;1916102;Campos Novos;SC
+996;103241;Campos Novos Paulista;SP
+997;198885;Campos Sales;CE
+998;40833;Campos Verdes;GO
+999;222487;Camutanga;PE
+1000;61436;Cana Verde;MG
+1001;48403;Canaã;MG
+1002;3491231;Canaã dos Carajás;PA
+1003;91375;Canabrava do Norte;MT
+1004;294253;Cananéia;SP
+1005;87843;Canapi;AL
+1006;60572;Canápolis;BA
+1007;256049;Canápolis;MG
+1008;165888;Canarana;BA
+1009;967479;Canarana;MT
+1010;153282;Canas;SP
+1011;26578;Canavieira;PI
+1012;299946;Canavieiras;BA
+1013;52320;Candeal;BA
+1014;3385452;Candeias;BA
+1015;228626;Candeias;MG
+1016;397654;Candeias do Jamari;RO
+1017;666863;Candelária;RS
+1018;94669;Candiba;BA
+1019;263877;Cândido de Abreu;PR
+1020;187124;Cândido Godói;RS
+1021;104044;Cândido Mendes;MA
+1022;907640;Cândido Mota;SP
+1023;77776;Cândido Rodrigues;SP
+1024;170600;Cândido Sales;BA
+1025;269338;Candiota;RS
+1026;408187;Candói;PR
+1027;905715;Canela;RS
+1028;176416;Canelinha;SC
+1029;395242;Canguaretama;RN
+1030;946572;Canguçu;RS
+1031;45572;Canhoba;SE
+1032;172360;Canhotinho;PE
+1033;615832;Canindé;CE
+1034;1206382;Canindé de São Francisco;SE
+1035;113704;Canitar;SP
+1036;16244021;Canoas;RS
+1037;1456791;Canoinhas;SC
+1038;245250;Cansanção;BA
+1039;207969;Cantá;RR
+1040;43305;Cantagalo;MG
+1041;194203;Cantagalo;PR
+1042;1017269;Cantagalo;RJ
+1043;110309;Cantanhede;MA
+1044;180310;Canto do Buriti;PI
+1045;109432;Canudos;BA
+1046;40093;Canudos do Vale;RS
+1047;88034;Canutama;AM
+1048;960651;Capanema;PA
+1049;487292;Capanema;PR
+1050;82329;Capão Alto;SC
+1051;736824;Capão Bonito;SP
+1052;116508;Capão Bonito do Sul;RS
+1053;1199141;Capão da Canoa;RS
+1054;242805;Capão do Cipó;RS
+1055;521273;Capão do Leão;RS
+1056;67348;Caparaó;MG
+1057;157918;Capela;AL
+1058;388610;Capela;SE
+1059;179780;Capela de Santana;RS
+1060;265880;Capela do Alto;SP
+1061;82169;Capela do Alto Alegre;BA
+1062;42746;Capela Nova;MG
+1063;504979;Capelinha;MG
+1064;94858;Capetinga;MG
+1065;49236;Capim;PB
+1066;76729;Capim Branco;MG
+1067;344443;Capim Grosso;BA
+1068;301589;Capinópolis;MG
+1069;781052;Capinzal;SC
+1070;82979;Capinzal do Norte;MA
+1071;110801;Capistrano;CE
+1072;60122;Capitão;RS
+1073;43659;Capitão Andrade;MG
+1074;63811;Capitão de Campos;PI
+1075;215772;Capitão Enéas;MG
+1076;24799;Capitão Gervásio Oliveira;PI
+1077;1008324;Capitão Leônidas Marques;PR
+1078;432577;Capitão Poço;PA
+1079;187938;Capitólio;MG
+1080;1627709;Capivari;SP
+1081;560615;Capivari de Baixo;SC
+1082;201368;Capivari do Sul;RS
+1083;159367;Capixaba;AC
+1084;149698;Capoeiras;PE
+1085;80415;Caputira;MG
+1086;89706;Caraá;RS
+1087;301692;Caracaraí;RR
+1088;106179;Caracol;MS
+1089;67162;Caracol;PI
+1090;2720211;Caraguatatuba;SP
+1091;139468;Caraí;MG
+1092;61894;Caraíbas;BA
+1093;1185548;Carambeí;PR
+1094;28121;Caranaíba;MG
+1095;509460;Carandaí;MG
+1096;476663;Carangola;MG
+1097;537608;Carapebus;RJ
+1098;5115509;Carapicuíba;SP
+1099;1398004;Caratinga;MG
+1100;250908;Carauari;AM
+1101;30570;Caraúbas;PB
+1102;262161;Caraúbas;RN
+1103;37046;Caraúbas do Piauí;PI
+1104;344049;Caravelas;BA
+1105;2494831;Carazinho;RS
+1106;160838;Carbonita;MG
+1107;85987;Cardeal da Silva;BA
+1108;190436;Cardoso;SP
+1109;203738;Cardoso Moreira;RJ
+1110;126351;Careaçu;MG
+1111;246803;Careiro;AM
+1112;269314;Careiro da Várzea;AM
+1113;8088270;Cariacica;ES
+1114;112168;Caridade;CE
+1115;30997;Caridade do Piauí;PI
+1116;179536;Carinhanha;BA
+1117;220530;Carira;SE
+1118;110720;Cariré;CE
+1119;288778;Cariri do Tocantins;TO
+1120;156435;Caririaçu;CE
+1121;104099;Cariús;CE
+1122;137440;Carlinda;MT
+1123;297140;Carlópolis;PR
+1124;1842016;Carlos Barbosa;RS
+1125;328398;Carlos Chagas;MG
+1126;30517;Carlos Gomes;RS
+1127;25414;Carmésia;MG
+1128;391228;Carmo;RJ
+1129;204341;Carmo da Cachoeira;MG
+1130;163676;Carmo da Mata;MG
+1131;181452;Carmo de Minas;MG
+1132;356459;Carmo do Cajuru;MG
+1133;585467;Carmo do Paranaíba;MG
+1134;367646;Carmo do Rio Claro;MG
+1135;184033;Carmo do Rio Verde;GO
+1136;32193;Carmolândia;TO
+1137;477423;Carmópolis;SE
+1138;366245;Carmópolis de Minas;MG
+1139;136055;Carnaíba;PE
+1140;77938;Carnaúba dos Dantas;RN
+1141;148278;Carnaubais;RN
+1142;96701;Carnaubal;CE
+1143;65534;Carnaubeira da Penha;PE
+1144;260740;Carneirinho;MG
+1145;50480;Carneiros;AL
+1146;146686;Caroebe;RR
+1147;285859;Carolina;MA
+1148;1181810;Carpina;PE
+1149;65454;Carrancas;MG
+1150;22437;Carrapateira;PB
+1151;30573;Carrasco Bonito;TO
+1152;6118030;Caruaru;PE
+1153;142521;Carutapera;MA
+1154;47511;Carvalhópolis;MG
+1155;46778;Carvalhos;MG
+1156;617786;Casa Branca;SP
+1157;30340;Casa Grande;MG
+1158;541676;Casa Nova;BA
+1159;370903;Casca;RS
+1160;48556;Cascalho Rico;MG
+1161;822551;Cascavel;CE
+1162;10125274;Cascavel;PR
+1163;66084;Caseara;TO
+1164;103781;Caseiros;RS
+1165;1962379;Casimiro de Abreu;RJ
+1166;75478;Casinhas;PE
+1167;50715;Casserengue;PB
+1168;288523;Cássia;MG
+1169;107985;Cássia dos Coqueiros;SP
+1170;474105;Cassilândia;MS
+1171;3166661;Castanhal;PA
+1172;121753;Castanheira;MT
+1173;66490;Castanheiras;RO
+1174;67391;Castelândia;GO
+1175;786686;Castelo;ES
+1176;134151;Castelo do Piauí;PI
+1177;534635;Castilho;SP
+1178;2260840;Castro;PR
+1179;332543;Castro Alves;BA
+1180;1414708;Cataguases;MG
+1181;5679221;Catalão;GO
+1182;3604454;Catanduva;SP
+1183;222680;Catanduvas;PR
+1184;367607;Catanduvas;SC
+1185;98364;Catarina;CE
+1186;275012;Catas Altas;MG
+1187;28795;Catas Altas da Noruega;MG
+1188;253362;Catende;PE
+1189;105149;Catiguá;SP
+1190;35412;Catingueira;PB
+1191;63430;Catolândia;BA
+1192;336293;Catolé do Rocha;PB
+1193;624415;Catu;BA
+1194;302065;Catuípe;RS
+1195;58705;Catuji;MG
+1196;75227;Catunda;CE
+1197;61970;Caturaí;GO
+1198;51476;Caturama;BA
+1199;59173;Caturité;PB
+1200;35530;Catuti;MG
+1201;5673368;Caucaia;CE
+1202;249871;Cavalcante;GO
+1203;301688;Caxambu;MG
+1204;97368;Caxambu do Sul;SC
+1205;1454671;Caxias;MA
+1206;20637192;Caxias do Sul;RS
+1207;36775;Caxingó;PI
+1208;728399;Ceará-Mirim;RN
+1209;54556;Cedral;MA
+1210;261153;Cedral;SP
+1211;171238;Cedro;CE
+1212;75375;Cedro;PE
+1213;43688;Cedro de São João;SE
+1214;17268;Cedro do Abaeté;MG
+1215;49625;Celso Ramos;SC
+1216;62115;Centenário;RS
+1217;28040;Centenário;TO
+1218;177151;Centenário do Sul;PR
+1219;133441;Central;BA
+1220;75025;Central de Minas;MG
+1221;35954;Central do Maranhão;MA
+1222;158267;Centralina;MG
+1223;62393;Centro do Guilherme;MA
+1224;114499;Centro Novo do Maranhão;MA
+1225;398915;Cerejeiras;RO
+1226;476184;Ceres;GO
+1227;541479;Cerqueira César;SP
+1228;1595235;Cerquilho;SP
+1229;87270;Cerrito;RS
+1230;233733;Cerro Azul;PR
+1231;67535;Cerro Branco;RS
+1232;98900;Cerro Corá;RN
+1233;46570;Cerro Grande;RS
+1234;151646;Cerro Grande do Sul;RS
+1235;583404;Cerro Largo;RS
+1236;67343;Cerro Negro;SC
+1237;347963;Cesário Lange;SP
+1238;495445;Céu Azul;PR
+1239;266316;Cezarina;GO
+1240;124438;Chã de Alegria;PE
+1241;165332;Chã Grande;PE
+1242;67828;Chã Preta;AL
+1243;33948;Chácara;MG
+1244;57827;Chalé;MG
+1245;394133;Chapada;RS
+1246;60953;Chapada da Natividade;TO
+1247;19571;Chapada de Areia;TO
+1248;85664;Chapada do Norte;MG
+1249;474247;Chapada dos Guimarães;MT
+1250;133784;Chapada Gaúcha;MG
+1251;797852;Chapadão do Céu;GO
+1252;57651;Chapadão do Lageado;SC
+1253;1508722;Chapadão do Sul;MS
+1254;554949;Chapadinha;MA
+1255;7676794;Chapecó;SC
+1256;264004;Charqueada;SP
+1257;1101058;Charqueadas;RS
+1258;70885;Charrua;RS
+1259;75694;Chaval;CE
+1260;181880;Chavantes;SP
+1261;168285;Chaves;PA
+1262;26459;Chiador;MG
+1263;180297;Chiapetta;RS
+1264;509890;Chopinzinho;PR
+1265;70972;Choró;CE
+1266;131384;Chorozinho;CE
+1267;69134;Chorrochó;BA
+1268;196323;Chuí;RS
+1269;241269;Chupinguaia;RO
+1270;95562;Chuvisca;RS
+1271;2344994;Cianorte;PR
+1272;248542;Cícero Dantas;BA
+1273;287870;Cidade Gaúcha;PR
+1274;642343;Cidade Ocidental;GO
+1275;129832;Cidelândia;MA
+1276;241146;Cidreira;RS
+1277;108248;Cipó;BA
+1278;46325;Cipotânea;MG
+1279;115370;Ciríaco;RS
+1280;111341;Claraval;MG
+1281;58649;Claro dos Poções;MG
+1282;306417;Cláudia;MT
+1283;521756;Cláudio;MG
+1284;194228;Clementina;SP
+1285;411102;Clevelândia;PR
+1286;152057;Coaraci;BA
+1287;2264783;Coari;AM
+1288;169944;Cocal;PI
+1289;31219;Cocal de Telha;PI
+1290;600904;Cocal do Sul;SC
+1291;36391;Cocal dos Alves;PI
+1292;126722;Cocalinho;MT
+1293;285878;Cocalzinho de Goiás;GO
+1294;232365;Cocos;BA
+1295;741243;Codajás;AM
+1296;882523;Codó;MA
+1297;351878;Coelho Neto;MA
+1298;86861;Coimbra;MG
+1299;78834;Coité do Nóia;AL
+1300;24869;Coivaras;PI
+1301;62873;Colares;PA
+1302;3194789;Colatina;ES
+1303;775115;Colíder;MT
+1304;804209;Colina;SP
+1305;304954;Colinas;MA
+1306;65948;Colinas;RS
+1307;42988;Colinas do Sul;GO
+1308;577269;Colinas do Tocantins;TO
+1309;109805;Colméia;TO
+1310;400418;Colniza;MT
+1311;242607;Colômbia;SP
+1312;4392113;Colombo;PR
+1313;42645;Colônia do Gurguéia;PI
+1314;48155;Colônia do Piauí;PI
+1315;218282;Colônia Leopoldina;AL
+1316;590935;Colorado;PR
+1317;155557;Colorado;RS
+1318;287917;Colorado do Oeste;RO
+1319;77012;Coluna;MG
+1320;53657;Combinado;TO
+1321;95039;Comendador Gomes;MG
+1322;330221;Comendador Levy Gasparian;RJ
+1323;52998;Comercinho;MG
+1324;453139;Comodoro;MT
+1325;142068;Conceição;PB
+1326;180558;Conceição da Aparecida;MG
+1327;601253;Conceição da Barra;ES
+1328;39985;Conceição da Barra de Minas;MG
+1329;248511;Conceição da Feira;BA
+1330;623582;Conceição das Alagoas;MG
+1331;41297;Conceição das Pedras;MG
+1332;39207;Conceição de Ipanema;MG
+1333;303332;Conceição de Macabu;RJ
+1334;140994;Conceição do Almeida;BA
+1335;522507;Conceição do Araguaia;PA
+1336;33921;Conceição do Canindé;PI
+1337;185859;Conceição do Castelo;ES
+1338;678752;Conceição do Coité;BA
+1339;1696245;Conceição do Jacuípe;BA
+1340;95877;Conceição do Lago-Açu;MA
+1341;831652;Conceição do Mato Dentro;MG
+1342;200867;Conceição do Pará;MG
+1343;179167;Conceição do Rio Verde;MG
+1344;41377;Conceição do Tocantins;TO
+1345;131904;Conceição dos Ouros;MG
+1346;577486;Conchal;SP
+1347;308065;Conchas;SP
+1348;2165405;Concórdia;SC
+1349;255802;Concórdia do Pará;PA
+1350;49076;Condado;PB
+1351;191147;Condado;PE
+1352;199018;Conde;BA
+1353;565932;Conde;PB
+1354;121971;Condeúba;BA
+1355;304918;Condor;RS
+1356;44877;Cônego Marinho;MG
+1357;787274;Confins;MG
+1358;517743;Confresa;MT
+1359;47073;Congo;PB
+1360;168457;Congonhal;MG
+1361;2851343;Congonhas;MG
+1362;36414;Congonhas do Norte;MG
+1363;159284;Congonhinhas;PR
+1364;271682;Conquista;MG
+1365;71056;Conquista D'Oeste;MT
+1366;1875380;Conselheiro Lafaiete;MG
+1367;87074;Conselheiro Mairinck;PR
+1368;261782;Conselheiro Pena;MG
+1369;22774;Consolação;MG
+1370;244502;Constantina;RS
+1371;26016153;Contagem;MG
+1372;302818;Contenda;PR
+1373;34533;Contendas do Sincorá;BA
+1374;126290;Coqueiral;MG
+1375;32814;Coqueiro Baixo;RS
+1376;48133;Coqueiro Seco;AL
+1377;92237;Coqueiros do Sul;RS
+1378;197968;Coração de Jesus;MG
+1379;168567;Coração de Maria;BA
+1380;574687;Corbélia;PR
+1381;342316;Cordeiro;RJ
+1382;2307497;Cordeirópolis;SP
+1383;50860;Cordeiros;BA
+1384;186551;Cordilheira Alta;SC
+1385;91671;Cordisburgo;MG
+1386;50784;Cordislândia;MG
+1387;127573;Coreaú;CE
+1388;130434;Coremas;PB
+1389;99761;Corguinho;MS
+1390;111431;Coribe;BA
+1391;289836;Corinto;MG
+1392;1376467;Cornélio Procópio;PR
+1393;88980;Coroaci;MG
+1394;128990;Coroados;SP
+1395;352584;Coroatá;MA
+1396;806222;Coromandel;MG
+1397;94377;Coronel Barros;RS
+1398;246483;Coronel Bicaco;RS
+1399;150557;Coronel Domingos Soares;PR
+1400;41527;Coronel Ezequiel;RN
+1401;1537329;Coronel Fabriciano;MG
+1402;240098;Coronel Freitas;SC
+1403;36027;Coronel João Pessoa;RN
+1404;125082;Coronel João Sá;BA
+1405;27835;Coronel José Dias;PI
+1406;64564;Coronel Macedo;SP
+1407;41911;Coronel Martins;SC
+1408;76781;Coronel Murta;MG
+1409;37019;Coronel Pacheco;MG
+1410;35333;Coronel Pilar;RS
+1411;177157;Coronel Sapucaia;MS
+1412;565877;Coronel Vivida;PR
+1413;42541;Coronel Xavier Chaves;MG
+1414;91592;Córrego Danta;MG
+1415;32626;Córrego do Bom Jesus;MG
+1416;45698;Córrego do Ouro;GO
+1417;155903;Córrego Fundo;MG
+1418;29453;Córrego Novo;MG
+1419;530235;Correia Pinto;SC
+1420;274411;Corrente;PI
+1421;125914;Correntes;PE
+1422;1295265;Correntina;BA
+1423;104075;Cortês;PE
+1424;2733152;Corumbá;MS
+1425;145059;Corumbá de Goiás;GO
+1426;460609;Corumbaíba;GO
+1427;157051;Corumbataí;SP
+1428;59606;Corumbataí do Sul;PR
+1429;191442;Corumbiara;RO
+1430;365577;Corupá;SC
+1431;1206502;Coruripe;AL
+1432;1283381;Cosmópolis;SP
+1433;216794;Cosmorama;SP
+1434;186846;Costa Marques;RO
+1435;1294349;Costa Rica;MS
+1436;121812;Cotegipe;BA
+1437;10639278;Cotia;SP
+1438;130994;Cotiporã;RS
+1439;171951;Cotriguaçu;MT
+1440;55345;Couto de Magalhães de Minas;MG
+1441;76578;Couto Magalhães;TO
+1442;181538;Coxilha;RS
+1443;787778;Coxim;MS
+1444;16587;Coxixola;PB
+1445;183429;Craíbas;AL
+1446;627197;Crateús;CE
+1447;1419536;Crato;CE
+1448;958293;Cravinhos;SP
+1449;38818;Cravolândia;BA
+1450;6935755;Criciúma;SC
+1451;48129;Crisólita;MG
+1452;138830;Crisópolis;BA
+1453;292284;Crissiumal;RS
+1454;160922;Cristais;MG
+1455;141596;Cristais Paulista;SP
+1456;164515;Cristal;RS
+1457;51743;Cristal do Sul;RS
+1458;98346;Cristalândia;TO
+1459;46989;Cristalândia do Piauí;PI
+1460;37579;Cristália;MG
+1461;1944492;Cristalina;GO
+1462;88569;Cristiano Otoni;MG
+1463;64404;Cristianópolis;GO
+1464;144741;Cristina;MG
+1465;158350;Cristinápolis;SE
+1466;83213;Cristino Castro;PI
+1467;113418;Cristópolis;BA
+1468;401759;Crixás;GO
+1469;37488;Crixás do Tocantins;TO
+1470;100700;Croatá;CE
+1471;58723;Cromínia;GO
+1472;53726;Crucilândia;MG
+1473;172772;Cruz;CE
+1474;3001469;Cruz Alta;RS
+1475;861203;Cruz das Almas;BA
+1476;124097;Cruz do Espírito Santo;PB
+1477;303722;Cruz Machado;PR
+1478;71144;Cruzália;SP
+1479;62382;Cruzaltense;RS
+1480;2101941;Cruzeiro;SP
+1481;76323;Cruzeiro da Fortaleza;MG
+1482;101658;Cruzeiro do Iguaçu;PR
+1483;599156;Cruzeiro do Oeste;PR
+1484;1062505;Cruzeiro do Sul;AC
+1485;142898;Cruzeiro do Sul;PR
+1486;300953;Cruzeiro do Sul;RS
+1487;85603;Cruzeta;RN
+1488;195773;Cruzília;MG
+1489;98838;Cruzmaltina;PR
+1490;15680010;Cubatão;SP
+1491;55359;Cubati;PB
+1492;21220587;Cuiabá;MT
+1493;168711;Cuité;PB
+1494;50937;Cuité de Mamanguape;PB
+1495;48128;Cuitegi;PB
+1496;281343;Cujubim;RO
+1497;62235;Cumari;GO
+1498;96204;Cumaru;PE
+1499;232085;Cumaru do Norte;PA
+1500;37129;Cumbe;SE
+1501;197270;Cunha;SP
+1502;485737;Cunha Porã;SC
+1503;36256;Cunhataí;SC
+1504;46820;Cuparaque;MG
+1505;219595;Cupira;PE
+1506;258511;Curaçá;BA
+1507;79229;Curimatá;PI
+1508;345557;Curionópolis;PA
+1509;83864936;Curitiba;PR
+1510;1077920;Curitibanos;SC
+1511;196135;Curiúva;PR
+1512;128361;Currais;PI
+1513;630331;Currais Novos;RN
+1514;40796;Curral de Cima;PB
+1515;57541;Curral de Dentro;MG
+1516;29940;Curral Novo do Piauí;PI
+1517;20592;Curral Velho;PB
+1518;476127;Curralinho;PA
+1519;22186;Curralinhos;PI
+1520;94271;Curuá;PA
+1521;242814;Curuçá;PA
+1522;184320;Cururupu;MA
+1523;111402;Curvelândia;MT
+1524;1369380;Curvelo;MG
+1525;338421;Custódia;PE
+1526;64275;Cutias;AP
+1527;27914;Damianópolis;GO
+1528;35172;Damião;PB
+1529;36101;Damolândia;GO
+1530;73658;Darcinópolis;TO
+1531;70244;Dário Meira;BA
+1532;48535;Datas;MG
+1533;116462;David Canabarro;RS
+1534;218974;Davinópolis;GO
+1535;418372;Davinópolis;MA
+1536;84282;Delfim Moreira;MG
+1537;131681;Delfinópolis;MG
+1538;485156;Delmiro Gouveia;AL
+1539;307492;Delta;MG
+1540;130196;Demerval Lobão;PI
+1541;386297;Denise;MT
+1542;225831;Deodápolis;MS
+1543;59949;Deputado Irapuan Pinheiro;CE
+1544;70761;Derrubadas;RS
+1545;1219994;Descalvado;SP
+1546;207256;Descanso;SC
+1547;52926;Descoberto;MG
+1548;53845;Desterro;PB
+1549;65251;Desterro de Entre Rios;MG
+1550;34032;Desterro do Melo;MG
+1551;34275;Dezesseis de Novembro;RS
+1552;13854570;Diadema;SP
+1553;46832;Diamante;PB
+1554;252026;Diamante do Norte;PR
+1555;44899;Diamante do Sul;PR
+1556;96837;Diamante D'Oeste;PR
+1557;666661;Diamantina;MG
+1558;1588900;Diamantino;MT
+1559;249612;Dianópolis;TO
+1560;3330786;Dias d'Ávila;BA
+1561;105079;Dilermando de Aguiar;RS
+1562;29810;Diogo de Vasconcelos;MG
+1563;66094;Dionísio;MG
+1564;380874;Dionísio Cerqueira;SC
+1565;43215;Diorama;GO
+1566;45886;Dirce Reis;SP
+1567;35328;Dirceu Arcoverde;PI
+1568;172179;Divina Pastora;SE
+1569;35364;Divinésia;MG
+1570;226972;Divino;MG
+1571;42258;Divino das Laranjeiras;MG
+1572;53759;Divino de São Lourenço;ES
+1573;258471;Divinolândia;SP
+1574;51661;Divinolândia de Minas;MG
+1575;5478001;Divinópolis;MG
+1576;57844;Divinópolis de Goiás;GO
+1577;97200;Divinópolis do Tocantins;TO
+1578;68695;Divisa Alegre;MG
+1579;74127;Divisa Nova;MG
+1580;57896;Divisópolis;MG
+1581;88267;Dobrada;SP
+1582;578472;Dois Córregos;SP
+1583;1539739;Dois Irmãos;RS
+1584;93643;Dois Irmãos das Missões;RS
+1585;312968;Dois Irmãos do Buriti;MS
+1586;79762;Dois Irmãos do Tocantins;TO
+1587;84791;Dois Lajeados;RS
+1588;66850;Dois Riachos;AL
+1589;1311216;Dois Vizinhos;PR
+1590;33428;Dolcinópolis;SP
+1591;283818;Dom Aquino;MT
+1592;113098;Dom Basílio;BA
+1593;45824;Dom Bosco;MG
+1594;48187;Dom Cavati;MG
+1595;569681;Dom Eliseu;PA
+1596;61178;Dom Expedito Lopes;PI
+1597;224545;Dom Feliciano;RS
+1598;49464;Dom Inocêncio;PI
+1599;40682;Dom Joaquim;MG
+1600;29440;Dom Macedo Costa;BA
+1601;1180496;Dom Pedrito;RS
+1602;206779;Dom Pedro;MA
+1603;46724;Dom Pedro de Alcântara;RS
+1604;72956;Dom Silvério;MG
+1605;26320;Dom Viçoso;MG
+1606;618070;Domingos Martins;ES
+1607;26679;Domingos Mourão;PI
+1608;82151;Dona Emma;SC
+1609;65332;Dona Eusébia;MG
+1610;66176;Dona Francisca;RS
+1611;69852;Dona Inês;PB
+1612;215950;Dores de Campos;MG
+1613;71951;Dores de Guanhães;MG
+1614;191145;Dores do Indaiá;MG
+1615;116809;Dores do Rio Preto;ES
+1616;38730;Dores do Turvo;MG
+1617;52517;Doresópolis;MG
+1618;160353;Dormentes;PE
+1619;103512;Douradina;MS
+1620;442312;Douradina;PR
+1621;635259;Dourado;SP
+1622;49263;Douradoquara;MG
+1623;7284223;Dourados;MS
+1624;135143;Doutor Camargo;PR
+1625;167348;Doutor Maurício Cardoso;RS
+1626;78402;Doutor Pedrinho;SC
+1627;56551;Doutor Ricardo;RS
+1628;48291;Doutor Severiano;RN
+1629;63237;Doutor Ulysses;PR
+1630;191023;Doverlândia;GO
+1631;1062258;Dracena;SP
+1632;202467;Duartina;SP
+1633;199629;Duas Barras;RJ
+1634;36263;Duas Estradas;PB
+1635;116285;Dueré;TO
+1636;185416;Dumont;SP
+1637;61073;Duque Bacelar;MA
+1638;35114426;Duque de Caxias;RJ
+1639;83484;Durandé;MG
+1640;113724;Echaporã;SP
+1641;324493;Ecoporanga;ES
+1642;191594;Edealina;GO
+1643;524585;Edéia;GO
+1644;408164;Eirunepé;AM
+1645;287105;Eldorado;MS
+1646;186415;Eldorado;SP
+1647;282283;Eldorado do Carajás;PA
+1648;1278888;Eldorado do Sul;RS
+1649;107839;Elesbão Veloso;PI
+1650;556016;Elias Fausto;SP
+1651;37511;Eliseu Martins;PI
+1652;56055;Elisiário;SP
+1653;54983;Elísio Medrado;BA
+1654;456900;Elói Mendes;MG
+1655;26577;Emas;PB
+1656;44386;Embaúba;SP
+1657;9403920;Embu das Artes;SP
+1658;1001844;Embu-Guaçu;SP
+1659;49713;Emilianópolis;SP
+1660;736860;Encantado;RS
+1661;36944;Encanto;RN
+1662;196473;Encruzilhada;BA
+1663;449841;Encruzilhada do Sul;RS
+1664;180429;Enéas Marques;PR
+1665;389074;Engenheiro Beltrão;PR
+1666;107944;Engenheiro Caldas;MG
+1667;373097;Engenheiro Coelho;SP
+1668;65446;Engenheiro Navarro;MG
+1669;246670;Engenheiro Paulo de Frontin;RJ
+1670;49926;Engenho Velho;RS
+1671;44878;Entre Folhas;MG
+1672;522167;Entre Rios;BA
+1673;48898;Entre Rios;SC
+1674;162080;Entre Rios de Minas;MG
+1675;198255;Entre Rios do Oeste;PR
+1676;153841;Entre Rios do Sul;RS
+1677;281375;Entre-Ijuís;RS
+1678;129196;Envira;AM
+1679;273439;Epitaciolândia;AC
+1680;62392;Equador;RN
+1681;86266;Erebango;RS
+1682;4262167;Erechim;RS
+1683;45809;Ererê;CE
+1684;51880;Érico Cardoso;BA
+1685;63056;Ermo;SC
+1686;135417;Ernestina;RS
+1687;84224;Erval Grande;RS
+1688;213707;Erval Seco;RS
+1689;116848;Erval Velho;SC
+1690;273627;Ervália;MG
+1691;711673;Escada;PE
+1692;165430;Esmeralda;RS
+1693;559615;Esmeraldas;MG
+1694;405874;Espera Feliz;MG
+1695;369641;Esperança;PB
+1696;60270;Esperança do Sul;RS
+1697;34252;Esperança Nova;PR
+1698;289302;Esperantina;PI
+1699;74325;Esperantina;TO
+1700;120239;Esperantinópolis;MA
+1701;95994;Espigão Alto do Iguaçu;PR
+1702;481593;Espigão D'Oeste;RO
+1703;261700;Espinosa;MG
+1704;62631;Espírito Santo;RN
+1705;71301;Espírito Santo do Dourado;MG
+1706;1274060;Espírito Santo do Pinhal;SP
+1707;58356;Espírito Santo do Turvo;SP
+1708;561431;Esplanada;BA
+1709;606744;Espumoso;RS
+1710;216495;Estação;RS
+1711;1837677;Estância;SE
+1712;1337439;Estância Velha;RS
+1713;3116075;Esteio;RS
+1714;229222;Estiva;MG
+1715;256117;Estiva Gerbi;SP
+1716;689658;Estreito;MA
+1717;1162880;Estrela;RS
+1718;26587;Estrela Dalva;MG
+1719;94067;Estrela de Alagoas;AL
+1720;84627;Estrela do Indaiá;MG
+1721;45094;Estrela do Norte;GO
+1722;51028;Estrela do Norte;SP
+1723;124387;Estrela do Sul;MG
+1724;494485;Estrela d'Oeste;SP
+1725;106024;Estrela Velha;RS
+1726;638960;Euclides da Cunha;BA
+1727;110040;Euclides da Cunha Paulista;SP
+1728;149064;Eugênio de Castro;RS
+1729;132961;Eugenópolis;MG
+1730;2276564;Eunápolis;BA
+1731;2720598;Eusébio;CE
+1732;38066;Ewbank da Câmara;MG
+1733;5086138;Extrema;MG
+1734;299253;Extremoz;RN
+1735;210126;Exu;PE
+1736;86685;Fagundes;PB
+1737;71749;Fagundes Varela;RS
+1738;106493;Faina;GO
+1739;33910;Fama;MG
+1740;46254;Faria Lemos;MG
+1741;137059;Farias Brito;CE
+1742;50928;Faro;PA
+1743;124620;Farol;PR
+1744;2820885;Farroupilha;RS
+1745;319236;Fartura;SP
+1746;26957;Fartura do Piauí;PI
+1747;222718;Fátima;BA
+1748;60925;Fátima;TO
+1749;356850;Fátima do Sul;MS
+1750;362459;Faxinal;PR
+1751;156942;Faxinal do Soturno;RS
+1752;368167;Faxinal dos Guedes;SC
+1753;52901;Faxinalzinho;RS
+1754;92798;Fazenda Nova;GO
+1755;1759036;Fazenda Rio Grande;PR
+1756;115889;Fazenda Vilanova;RS
+1757;323240;Feijó;AC
+1758;47221;Feira da Mata;BA
+1759;11961846;Feira de Santana;BA
+1760;172096;Feira Grande;AL
+1761;148466;Feira Nova;PE
+1762;51260;Feira Nova;SE
+1763;82394;Feira Nova do Maranhão;MA
+1764;40277;Felício dos Santos;MG
+1765;74341;Felipe Guerra;RN
+1766;55908;Felisburgo;MG
+1767;251219;Felixlândia;MG
+1768;359528;Feliz;RS
+1769;86358;Feliz Deserto;AL
+1770;355393;Feliz Natal;MT
+1771;119333;Fênix;PR
+1772;135387;Fernandes Pinheiro;PR
+1773;31895;Fernandes Tourinho;MG
+1774;98594;Fernando de Noronha;PE
+1775;47171;Fernando Falcão;MA
+1776;23539;Fernando Pedroza;RN
+1777;131926;Fernando Prestes;SP
+1778;1683013;Fernandópolis;SP
+1779;47520;Fernão;SP
+1780;2736076;Ferraz de Vasconcelos;SP
+1781;344384;Ferreira Gomes;AP
+1782;89910;Ferreiros;PE
+1783;101214;Ferros;MG
+1784;106796;Fervedouro;MG
+1785;126306;Figueira;PR
+1786;85452;Figueirão;MS
+1787;137290;Figueirópolis;TO
+1788;54299;Figueirópolis D'Oeste;MT
+1789;114899;Filadélfia;BA
+1790;90064;Filadélfia;TO
+1791;43639;Firmino Alves;BA
+1792;145083;Firminópolis;GO
+1793;100713;Flexeiras;AL
+1794;97897;Flor da Serra do Sul;PR
+1795;34267;Flor do Sertão;SC
+1796;32153;Flora Rica;SP
+1797;148356;Floraí;PR
+1798;82810;Florânia;RN
+1799;50610;Floreal;SP
+1800;121912;Flores;PE
+1801;1298928;Flores da Cunha;RS
+1802;130968;Flores de Goiás;GO
+1803;31788;Flores do Piauí;PI
+1804;359155;Floresta;PE
+1805;151877;Floresta;PR
+1806;81250;Floresta Azul;BA
+1807;332270;Floresta do Araguaia;PA
+1808;17089;Floresta do Piauí;PI
+1809;101387;Florestal;MG
+1810;209816;Florestópolis;PR
+1811;925325;Floriano;PI
+1812;50984;Floriano Peixoto;RS
+1813;18636407;Florianópolis;SC
+1814;50076;Flórida;PR
+1815;178011;Flórida Paulista;SP
+1816;114399;Florínea;SP
+1817;156786;Fonte Boa;AM
+1818;162013;Fontoura Xavier;RS
+1819;1336995;Formiga;MG
+1820;173041;Formigueiro;RS
+1821;1934488;Formosa;GO
+1822;112522;Formosa da Serra Negra;MA
+1823;233806;Formosa do Oeste;PR
+1824;1604949;Formosa do Rio Preto;BA
+1825;43832;Formosa do Sul;SC
+1826;58146;Formoso;GO
+1827;161184;Formoso;MG
+1828;357229;Formoso do Araguaia;TO
+1829;40193;Forquetinha;RS
+1830;151467;Forquilha;CE
+1831;733331;Forquilhinha;SC
+1832;57246034;Fortaleza;CE
+1833;93860;Fortaleza de Minas;MG
+1834;138891;Fortaleza do Tabocão;TO
+1835;125816;Fortaleza dos Nogueiras;MA
+1836;243210;Fortaleza dos Valos;RS
+1837;141422;Fortim;CE
+1838;89560;Fortuna;MA
+1839;32950;Fortuna de Minas;MG
+1840;12000395;Foz do Iguaçu;PR
+1841;87392;Foz do Jordão;PR
+1842;868470;Fraiburgo;SC
+1843;8443012;Franca;SP
+1844;31501;Francinópolis;PI
+1845;148423;Francisco Alves;PR
+1846;32682;Francisco Ayres;PI
+1847;60514;Francisco Badaró;MG
+1848;2621480;Francisco Beltrão;PR
+1849;23269;Francisco Dantas;RN
+1850;42991;Francisco Dumont;MG
+1851;18943;Francisco Macedo;PI
+1852;1337906;Francisco Morato;SP
+1853;299169;Francisco Sá;MG
+1854;57125;Francisco Santos;PI
+1855;55862;Franciscópolis;MG
+1856;2743594;Franco da Rocha;SP
+1857;190100;Frecheirinha;CE
+1858;926972;Frederico Westphalen;RS
+1859;50612;Frei Gaspar;MG
+1860;84462;Frei Inocêncio;MG
+1861;25384;Frei Lagonegro;MG
+1862;24871;Frei Martinho;PB
+1863;91203;Frei Miguelinho;PE
+1864;191903;Frei Paulo;SE
+1865;52361;Frei Rogério;SC
+1866;671493;Fronteira;MG
+1867;31888;Fronteira dos Vales;MG
+1868;180209;Fronteiras;PI
+1869;35369;Fruta de Leite;MG
+1870;1412011;Frutal;MG
+1871;34473;Frutuoso Gomes;RN
+1872;432815;Fundão;ES
+1873;46836;Funilândia;MG
+1874;64656;Gabriel Monteiro;SP
+1875;54364;Gado Bravo;PB
+1876;102291;Gália;SP
+1877;78478;Galiléia;MG
+1878;70184;Galinhos;RN
+1879;67228;Galvão;SC
+1880;213338;Gameleira;PE
+1881;101307;Gameleira de Goiás;GO
+1882;37432;Gameleiras;MG
+1883;308474;Gandu;BA
+1884;1981577;Garanhuns;PE
+1885;99377;Gararu;SE
+1886;1030020;Garça;SP
+1887;1693161;Garibaldi;RS
+1888;434441;Garopaba;SC
+1889;191594;Garrafão do Norte;PA
+1890;106344;Garruchos;RS
+1891;686985;Garuva;SC
+1892;2417701;Gaspar;SC
+1893;53517;Gastão Vidigal;SP
+1894;311731;Gaúcha do Norte;MT
+1895;186845;Gaurama;RS
+1896;38412;Gavião;BA
+1897;1070698;Gavião Peixoto;SP
+1898;41646;Geminiano;PI
+1899;138745;General Câmara;RS
+1900;184808;General Carneiro;MT
+1901;277503;General Carneiro;PR
+1902;29102;General Maynard;SE
+1903;327372;General Salgado;SP
+1904;45620;General Sampaio;CE
+1905;95728;Gentil;RS
+1906;56844;Gentio do Ouro;BA
+1907;158733;Getulina;SP
+1908;457413;Getúlio Vargas;RS
+1909;177704;Gilbués;PI
+1910;259897;Girau do Ponciano;AL
+1911;611986;Giruá;RS
+1912;25153;Glaucilândia;MG
+1913;76801;Glicério;SP
+1914;147050;Glória;BA
+1915;160423;Glória de Dourados;MS
+1916;466647;Glória do Goitá;PE
+1917;68733;Glória D'Oeste;MT
+1918;358268;Glorinha;RS
+1919;122429;Godofredo Viana;MA
+1920;44673;Godoy Moreira;PR
+1921;31580;Goiabeira;MG
+1922;46622;Goianá;MG
+1923;3867853;Goiana;PE
+1924;152279;Goianápolis;GO
+1925;98707;Goiandira;GO
+1926;1098113;Goianésia;GO
+1927;332971;Goianésia do Pará;PA
+1928;46632596;Goiânia;GO
+1929;296704;Goianinha;RN
+1930;681157;Goianira;GO
+1931;55466;Goianorte;TO
+1932;390982;Goiás;GO
+1933;137094;Goiatins;TO
+1934;1339424;Goiatuba;GO
+1935;718977;Goioerê;PR
+1936;140869;Goioxim;PR
+1937;50603;Gonçalves;MG
+1938;107883;Gonçalves Dias;MA
+1939;66028;Gongogi;BA
+1940;42248;Gonzaga;MG
+1941;136045;Gouveia;MG
+1942;184498;Gouvelândia;GO
+1943;64495;Governador Archer;MA
+1944;241599;Governador Celso Ramos;SC
+1945;199938;Governador Dix-Sept Rosado;RN
+1946;272702;Governador Edison Lobão;MA
+1947;80857;Governador Eugênio Barros;MA
+1948;155116;Governador Jorge Teixeira;RO
+1949;182778;Governador Lindenberg;ES
+1950;44756;Governador Luiz Rocha;MA
+1951;229553;Governador Mangabeira;BA
+1952;47272;Governador Newton Bello;MA
+1953;168669;Governador Nunes Freire;MA
+1954;5436743;Governador Valadares;MG
+1955;81910;Graça;CE
+1956;37011;Graça Aranha;MA
+1957;55041;Gracho Cardoso;SE
+1958;531363;Grajaú;MA
+1959;1651433;Gramado;RS
+1960;43588;Gramado dos Loureiros;RS
+1961;65844;Gramado Xavier;RS
+1962;112539;Grandes Rios;PR
+1963;51588;Granito;PE
+1964;327663;Granja;CE
+1965;30247;Granjeiro;CE
+1966;319335;Grão Mogol;MG
+1967;186374;Grão Pará;SC
+1968;933855;Gravatá;PE
+1969;9730604;Gravataí;RS
+1970;154322;Gravatal;SC
+1971;67185;Groaíras;CE
+1972;127909;Grossos;RN
+1973;23674;Grupiara;MG
+1974;69213;Guabiju;RS
+1975;879532;Guabiruba;SC
+1976;502811;Guaçuí;ES
+1977;253215;Guadalupe;PI
+1978;5345052;Guaíba;RS
+1979;164671;Guaiçara;SP
+1980;69672;Guaimbê;SP
+1981;774712;Guaíra;PR
+1982;1712525;Guaíra;SP
+1983;179921;Guairaçá;PR
+1984;160999;Guaiúba;CE
+1985;106539;Guajará;AM
+1986;686025;Guajará-Mirim;RO
+1987;53526;Guajeru;BA
+1988;1246195;Guamaré;RN
+1989;185233;Guamiranga;PR
+1990;1146418;Guanambi;BA
+1991;588349;Guanhães;MG
+1992;198134;Guapé;MG
+1993;437716;Guapiaçu;SP
+1994;652564;Guapiara;SP
+1995;826191;Guapimirim;RJ
+1996;99616;Guapirama;PR
+1997;172894;Guapó;GO
+1998;744637;Guaporé;RS
+1999;47460;Guaporema;PR
+2000;443861;Guará;SP
+2001;850680;Guarabira;PB
+2002;204326;Guaraçaí;SP
+2003;102175;Guaraci;PR
+2004;249954;Guaraci;SP
+2005;74726;Guaraciaba;MG
+2006;239764;Guaraciaba;SC
+2007;325717;Guaraciaba do Norte;CE
+2008;37028;Guaraciama;MG
+2009;550865;Guaraí;TO
+2010;28995;Guaraíta;GO
+2011;50492;Guaramiranga;CE
+2012;1482512;Guaramirim;SC
+2013;364226;Guaranésia;MG
+2014;121373;Guarani;MG
+2015;251316;Guarani das Missões;RS
+2016;44635;Guarani de Goiás;GO
+2017;28535;Guarani d'Oeste;SP
+2018;317418;Guaraniaçu;PR
+2019;124762;Guarantã;SP
+2020;606823;Guarantã do Norte;MT
+2021;2041157;Guarapari;ES
+2022;4760050;Guarapuava;PR
+2023;78896;Guaraqueçaba;PR
+2024;39359;Guarará;MG
+2025;842563;Guararapes;SP
+2026;1549436;Guararema;SP
+2027;225756;Guaratinga;BA
+2028;4764612;Guaratinguetá;SP
+2029;634669;Guaratuba;PR
+2030;268183;Guarda-Mor;MG
+2031;207803;Guareí;SP
+2032;796455;Guariba;SP
+2033;29376;Guaribas;PI
+2034;33849;Guarinos;GO
+2035;8197088;Guarujá;SP
+2036;131682;Guarujá do Sul;SC
+2037;52199130;Guarulhos;SP
+2038;248099;Guatambú;SC
+2039;166975;Guatapará;SP
+2040;2084701;Guaxupé;MG
+2041;193930;Guia Lopes da Laguna;MS
+2042;99105;Guidoval;MG
+2043;62419;Guimarães;MA
+2044;122378;Guimarânia;MG
+2045;278668;Guiratinga;MT
+2046;86414;Guiricema;MG
+2047;108293;Gurinhatã;MG
+2048;113625;Gurinhém;PB
+2049;28074;Gurjão;PB
+2050;192168;Gurupá;PA
+2051;1844780;Gurupi;TO
+2052;55076;Guzolândia;SP
+2053;131541;Harmonia;RS
+2054;42906;Heitoraí;GO
+2055;83380;Heliodora;MG
+2056;97697;Heliópolis;BA
+2057;226999;Herculândia;SP
+2058;101264;Herval;RS
+2059;417194;Herval d'Oeste;SC
+2060;53186;Herveiras;RS
+2061;123976;Hidrolândia;CE
+2062;595321;Hidrolândia;GO
+2063;53467;Hidrolina;GO
+2064;799618;Holambra;SP
+2065;163236;Honório Serpa;PR
+2066;1286039;Horizonte;CE
+2067;1198255;Horizontina;RS
+2068;10787568;Hortolândia;SP
+2069;23994;Hugo Napoleão;PI
+2070;143705;Hulha Negra;RS
+2071;450350;Humaitá;AM
+2072;131203;Humaitá;RS
+2073;114711;Humberto de Campos;MA
+2074;446427;Iacanga;SP
+2075;135433;Iaciara;GO
+2076;154293;Iacri;SP
+2077;226268;Iaçu;BA
+2078;94111;Iapu;MG
+2079;81804;Iaras;SP
+2080;132251;Iati;PE
+2081;564361;Ibaiti;PR
+2082;72610;Ibarama;RS
+2083;75428;Ibaretama;CE
+2084;673303;Ibaté;SP
+2085;118973;Ibateguara;AL
+2086;274719;Ibatiba;ES
+2087;127359;Ibema;PR
+2088;55407;Ibertioga;MG
+2089;778630;Ibiá;MG
+2090;178105;Ibiaçá;RS
+2091;65328;Ibiaí;MG
+2092;41993;Ibiam;SC
+2093;162102;Ibiapina;CE
+2094;42297;Ibiara;PB
+2095;75980;Ibiassucê;BA
+2096;176544;Ibicaraí;BA
+2097;80237;Ibicaré;SC
+2098;271764;Ibicoara;BA
+2099;165904;Ibicuí;BA
+2100;82979;Ibicuitinga;CE
+2101;225996;Ibimirim;PE
+2102;101866;Ibipeba;BA
+2103;88907;Ibipitanga;BA
+2104;2600418;Ibiporã;PR
+2105;26941;Ibiquera;BA
+2106;209476;Ibirá;SP
+2107;38450;Ibiracatu;MG
+2108;400118;Ibiraci;MG
+2109;234716;Ibiraçu;ES
+2110;248939;Ibiraiaras;RS
+2111;52566;Ibirajuba;PE
+2112;382420;Ibirama;SC
+2113;175831;Ibirapitanga;BA
+2114;186117;Ibirapuã;BA
+2115;99014;Ibirapuitã;RS
+2116;185147;Ibirarema;SP
+2117;166471;Ibirataia;BA
+2118;1939483;Ibirité;MG
+2119;876413;Ibirubá;RS
+2120;91557;Ibitiara;BA
+2121;1303162;Ibitinga;SP
+2122;110485;Ibitirama;ES
+2123;109047;Ibititá;BA
+2124;47017;Ibitiúra de Minas;MG
+2125;32981;Ibituruna;MG
+2126;1500167;Ibiúna;SP
+2127;292316;Ibotirama;BA
+2128;228149;Icapuí;CE
+2129;1719472;Içara;SC
+2130;69853;Icaraí de Minas;MG
+2131;178182;Icaraíma;PR
+2132;118600;Icatu;MA
+2133;401330;Icém;SP
+2134;35533;Ichu;BA
+2135;562450;Icó;CE
+2136;279212;Iconha;ES
+2137;96537;Ielmo Marinho;RN
+2138;200969;Iepê;SP
+2139;161663;Igaci;AL
+2140;190131;Igaporã;BA
+2141;268862;Igaraçu do Tietê;SP
+2142;47398;Igaracy;PB
+2143;1029146;Igarapava;SP
+2144;633181;Igarapé;MG
+2145;120191;Igarapé do Meio;MA
+2146;72074;Igarapé Grande;MA
+2147;298982;Igarapé-Açu;PA
+2148;441248;Igarapé-Miri;PA
+2149;2504837;Igarassu;PE
+2150;164329;Igaratá;SP
+2151;166071;Igaratinga;MG
+2152;178681;Igrapiúna;BA
+2153;341056;Igreja Nova;AL
+2154;1506273;Igrejinha;RS
+2155;383897;Iguaba Grande;RJ
+2156;196202;Iguaí;BA
+2157;1105143;Iguape;SP
+2158;135875;Iguaraçu;PR
+2159;72431;Iguaracy;PE
+2160;335586;Iguatama;MG
+2161;364724;Iguatemi;MS
+2162;1359056;Iguatu;CE
+2163;58427;Iguatu;PR
+2164;339994;Ijaci;MG
+2165;2832018;Ijuí;RS
+2166;1860342;Ilha Comprida;SP
+2167;62125;Ilha das Flores;SE
+2168;212388;Ilha de Itamaracá;PE
+2169;60259;Ilha Grande;PI
+2170;527300;Ilha Solteira;SP
+2171;7164724;Ilhabela;SP
+2172;3639669;Ilhéus;BA
+2173;466031;Ilhota;SC
+2174;152844;Ilicínea;MG
+2175;108248;Ilópolis;RS
+2176;68579;Imaculada;PB
+2177;163821;Imaruí;SC
+2178;177272;Imbaú;PR
+2179;417874;Imbé;RS
+2180;54765;Imbé de Minas;MG
+2181;1124478;Imbituba;SC
+2182;693422;Imbituva;PR
+2183;116801;Imbuia;SC
+2184;173011;Imigrante;RS
+2185;5964890;Imperatriz;MA
+2186;144545;Inácio Martins;PR
+2187;179611;Inaciolândia;GO
+2188;140151;Inajá;PE
+2189;40861;Inajá;PR
+2190;79851;Inconfidentes;MG
+2191;58526;Indaiabira;MG
+2192;2266256;Indaial;SC
+2193;12158901;Indaiatuba;SP
+2194;187536;Independência;CE
+2195;208258;Independência;RS
+2196;59447;Indiana;SP
+2197;671454;Indianópolis;MG
+2198;387470;Indianópolis;PR
+2199;65199;Indiaporã;SP
+2200;307427;Indiara;GO
+2201;152102;Indiaroba;SE
+2202;47247;Indiavaí;MT
+2203;136825;Ingá;PB
+2204;55426;Ingaí;MG
+2205;36944;Ingazeira;PE
+2206;51163;Inhacorá;RS
+2207;445122;Inhambupe;BA
+2208;95635;Inhangapi;PA
+2209;103698;Inhapi;AL
+2210;258022;Inhapim;MG
+2211;82557;Inhaúma;MG
+2212;102398;Inhuma;PI
+2213;920065;Inhumas;GO
+2214;63342;Inimutaba;MG
+2215;229051;Inocência;MS
+2216;121417;Inúbia Paulista;SP
+2217;93106;Iomerê;SC
+2218;124934;Ipaba;MG
+2219;875626;Ipameri;GO
+2220;202628;Ipanema;MG
+2221;121417;Ipanguaçu;RN
+2222;63724;Ipaporanga;CE
+2223;8443775;Ipatinga;MG
+2224;81845;Ipaumirim;CE
+2225;327703;Ipaussu;SP
+2226;200485;Ipê;RS
+2227;81304;Ipecaetá;BA
+2228;433931;Iperó;SP
+2229;605387;Ipeúna;SP
+2230;61951;Ipiaçu;MG
+2231;431839;Ipiaú;BA
+2232;73448;Ipiguá;SP
+2233;612744;Ipirá;BA
+2234;74133;Ipira;SC
+2235;387000;Ipiranga;PR
+2236;40427;Ipiranga de Goiás;GO
+2237;493585;Ipiranga do Norte;MT
+2238;59764;Ipiranga do Piauí;PI
+2239;80969;Ipiranga do Sul;RS
+2240;120528;Ipixuna;AM
+2241;438076;Ipixuna do Pará;PA
+2242;8764229;Ipojuca;PE
+2243;562232;Iporá;GO
+2244;332391;Iporã;PR
+2245;213109;Iporã do Oeste;SC
+2246;39189;Iporanga;SP
+2247;314753;Ipu;CE
+2248;297188;Ipuã;SP
+2249;231801;Ipuaçu;SC
+2250;237384;Ipubi;PE
+2251;21915;Ipueira;RN
+2252;210008;Ipueiras;CE
+2253;31268;Ipueiras;TO
+2254;134161;Ipuiúna;MG
+2255;316075;Ipumirim;SC
+2256;67714;Ipupiara;BA
+2257;119507;Iracema;CE
+2258;126275;Iracema;RR
+2259;65671;Iracema do Oeste;PR
+2260;1743903;Iracemápolis;SP
+2261;87681;Iraceminha;SC
+2262;142473;Iraí;RS
+2263;176553;Iraí de Minas;MG
+2264;49876;Irajuba;BA
+2265;76858;Iramaia;BA
+2266;626696;Iranduba;AM
+2267;190183;Irani;SC
+2268;102004;Irapuã;SP
+2269;79245;Irapuru;SP
+2270;283290;Iraquara;BA
+2271;229638;Irará;BA
+2272;1483175;Irati;PR
+2273;32961;Irati;SC
+2274;148556;Irauçuba;CE
+2275;986235;Irecê;BA
+2276;211817;Iretama;PR
+2277;280866;Irineópolis;SC
+2278;195610;Irituia;PA
+2279;166332;Irupi;ES
+2280;45892;Isaías Coelho;PI
+2281;44980;Israelândia;GO
+2282;215573;Itá;SC
+2283;82222;Itaara;RS
+2284;244320;Itabaiana;PB
+2285;1642342;Itabaiana;SE
+2286;341363;Itabaianinha;SE
+2287;311115;Itabela;BA
+2288;568006;Itaberá;SP
+2289;722334;Itaberaba;BA
+2290;1018700;Itaberaí;GO
+2291;45940;Itabi;SE
+2292;3778436;Itabira;MG
+2293;87172;Itabirinha;MG
+2294;2919615;Itabirito;MG
+2295;4241305;Itaboraí;RJ
+2296;3840425;Itabuna;BA
+2297;78644;Itacajá;TO
+2298;53936;Itacambira;MG
+2299;176343;Itacarambi;MG
+2300;262577;Itacaré;BA
+2301;1760782;Itacoatiara;AM
+2302;49558;Itacuruba;PE
+2303;80645;Itacurubi;RS
+2304;84837;Itaeté;BA
+2305;114333;Itagi;BA
+2306;355464;Itagibá;BA
+2307;107979;Itagimirim;BA
+2308;218533;Itaguaçu;ES
+2309;76028;Itaguaçu da Bahia;BA
+2310;7404493;Itaguaí;RJ
+2311;79680;Itaguajé;PR
+2312;215078;Itaguara;MG
+2313;56134;Itaguari;GO
+2314;64620;Itaguaru;GO
+2315;50548;Itaguatins;TO
+2316;529744;Itaí;SP
+2317;174206;Itaíba;PE
+2318;57477;Itaiçaba;CE
+2319;65468;Itainópolis;PI
+2320;673546;Itaiópolis;SC
+2321;67742;Itaipava do Grajaú;MA
+2322;88520;Itaipé;MG
+2323;300764;Itaipulândia;PR
+2324;584901;Itaitinga;CE
+2325;1573280;Itaituba;PA
+2326;97031;Itajá;GO
+2327;64949;Itajá;RN
+2328;18855445;Itajaí;SC
+2329;430653;Itajobi;SP
+2330;69438;Itaju;SP
+2331;69086;Itaju do Colônia;BA
+2332;2714508;Itajubá;MG
+2333;258740;Itajuípe;BA
+2334;322488;Italva;RJ
+2335;880957;Itamaraju;BA
+2336;492954;Itamarandiba;MG
+2337;79253;Itamarati;AM
+2338;45601;Itamarati de Minas;MG
+2339;79851;Itamari;BA
+2340;237096;Itambacuri;MG
+2341;120628;Itambaracá;PR
+2342;209734;Itambé;BA
+2343;377106;Itambé;PE
+2344;155591;Itambé;PR
+2345;22383;Itambé do Mato Dentro;MG
+2346;151445;Itamogi;MG
+2347;606800;Itamonte;MG
+2348;56639;Itanagra;BA
+2349;1505196;Itanhaém;SP
+2350;360585;Itanhandu;MG
+2351;193077;Itanhangá;MT
+2352;204246;Itanhém;BA
+2353;107442;Itanhomi;MG
+2354;288071;Itaobim;MG
+2355;34282;Itaoca;SP
+2356;1073929;Itaocara;RJ
+2357;304618;Itapaci;GO
+2358;360788;Itapagipe;MG
+2359;497261;Itapajé;CE
+2360;200245;Itaparica;BA
+2361;83499;Itapé;BA
+2362;445945;Itapebi;BA
+2363;399385;Itapecerica;MG
+2364;3200863;Itapecerica da Serra;SP
+2365;483373;Itapecuru Mirim;MA
+2366;381938;Itapejara d'Oeste;PR
+2367;1470618;Itapema;SC
+2368;4663633;Itapemirim;ES
+2369;410965;Itaperuçu;PR
+2370;2351734;Itaperuna;RJ
+2371;87262;Itapetim;PE
+2372;942079;Itapetinga;BA
+2373;4126019;Itapetininga;SP
+2374;229509;Itapeva;MG
+2375;2282412;Itapeva;SP
+2376;10278995;Itapevi;SP
+2377;350144;Itapicuru;BA
+2378;1190746;Itapipoca;CE
+2379;3026503;Itapira;SP
+2380;80452;Itapiranga;AM
+2381;802983;Itapiranga;SC
+2382;135167;Itapirapuã;GO
+2383;31484;Itapirapuã Paulista;SP
+2384;55454;Itapiratins;TO
+2385;1305370;Itapissuma;PE
+2386;75151;Itapitanga;BA
+2387;112417;Itapiúna;CE
+2388;547999;Itapoá;SC
+2389;1196008;Itápolis;SP
+2390;578065;Itaporã;MS
+2391;38463;Itaporã do Tocantins;TO
+2392;246190;Itaporanga;PB
+2393;214377;Itaporanga;SP
+2394;686580;Itaporanga d'Ajuda;SE
+2395;149383;Itapororoca;PB
+2396;143071;Itapuã do Oeste;RO
+2397;45356;Itapuca;RS
+2398;567159;Itapuí;SP
+2399;80526;Itapura;SP
+2400;367324;Itapuranga;GO
+2401;6476632;Itaquaquecetuba;SP
+2402;69588;Itaquara;BA
+2403;1163815;Itaqui;RS
+2404;455012;Itaquiraí;MS
+2405;150092;Itaquitinga;PE
+2406;195274;Itarana;ES
+2407;190194;Itarantim;BA
+2408;800008;Itararé;SP
+2409;394371;Itarema;CE
+2410;201226;Itariri;SP
+2411;209250;Itarumã;GO
+2412;65906;Itati;RS
+2413;3452553;Itatiaia;RJ
+2414;730599;Itatiaiuçu;MG
+2415;5351307;Itatiba;SP
+2416;56135;Itatiba do Sul;RS
+2417;290484;Itatim;BA
+2418;227518;Itatinga;SP
+2419;114043;Itatira;CE
+2420;88315;Itatuba;PB
+2421;43905;Itaú;RN
+2422;510522;Itaú de Minas;MG
+2423;156268;Itaúba;MT
+2424;51164;Itaubal;AP
+2425;140516;Itauçu;GO
+2426;92079;Itaueira;PI
+2427;2463281;Itaúna;MG
+2428;66036;Itaúna do Sul;PR
+2429;48403;Itaverava;MG
+2430;117670;Itinga;MG
+2431;231342;Itinga do Maranhão;MA
+2432;916939;Itiquira;MT
+2433;384661;Itirapina;SP
+2434;67327;Itirapuã;SP
+2435;88246;Itiruçu;BA
+2436;240275;Itiúba;BA
+2437;113402;Itobi;SP
+2438;188580;Itororó;BA
+2439;7347449;Itu;SP
+2440;192171;Ituaçu;BA
+2441;298165;Ituberá;BA
+2442;75897;Itueta;MG
+2443;2746129;Ituiutaba;MG
+2444;3971950;Itumbiara;GO
+2445;53339;Itumirim;MG
+2446;4585692;Itupeva;SP
+2447;455348;Itupiranga;PA
+2448;713316;Ituporanga;SC
+2449;1825278;Iturama;MG
+2450;81355;Itutinga;MG
+2451;1151219;Ituverava;SP
+2452;87643;Iuiu;BA
+2453;373500;Iúna;ES
+2454;271000;Ivaí;PR
+2455;661661;Ivaiporã;PR
+2456;171270;Ivaté;PR
+2457;88316;Ivatuba;PR
+2458;796100;Ivinhema;MS
+2459;68396;Ivolândia;GO
+2460;47288;Ivorá;RS
+2461;880190;Ivoti;RS
+2462;13257720;Jaboatão dos Guararapes;PE
+2463;116620;Jaborá;SC
+2464;353892;Jaborandi;BA
+2465;116434;Jaborandi;SP
+2466;77565;Jaboti;PR
+2467;85919;Jaboticaba;RS
+2468;2434057;Jaboticabal;SP
+2469;185450;Jaboticatubas;MG
+2470;55038;Jaçanã;RN
+2471;83773;Jacaraci;BA
+2472;110498;Jacaraú;PB
+2473;45050;Jacaré dos Homens;AL
+2474;205171;Jacareacanga;PA
+2475;10665066;Jacareí;SP
+2476;1027980;Jacarezinho;PR
+2477;291409;Jaci;SP
+2478;813956;Jaciara;MT
+2479;94428;Jacinto;MG
+2480;242660;Jacinto Machado;SC
+2481;1040847;Jacobina;BA
+2482;38996;Jacobina do Piauí;PI
+2483;95092;Jacuí;MG
+2484;63916;Jacuípe;AL
+2485;86228;Jacuizinho;RS
+2486;460644;Jacundá;PA
+2487;353664;Jacupiranga;SP
+2488;503318;Jacutinga;MG
+2489;125090;Jacutinga;RS
+2490;633748;Jaguapitã;PR
+2491;508252;Jaguaquara;BA
+2492;62340;Jaguaraçu;MG
+2493;600751;Jaguarão;RS
+2494;464616;Jaguarari;BA
+2495;572841;Jaguaré;ES
+2496;136530;Jaguaretama;CE
+2497;221990;Jaguari;RS
+2498;1289150;Jaguariaíva;PR
+2499;140749;Jaguaribara;CE
+2500;484990;Jaguaribe;CE
+2501;163381;Jaguaripe;BA
+2502;8903621;Jaguariúna;SP
+2503;393377;Jaguaruana;CE
+2504;381706;Jaguaruna;SC
+2505;470086;Jaíba;MG
+2506;132301;Jaicós;PI
+2507;1207539;Jales;SP
+2508;275824;Jambeiro;SP
+2509;46855;Jampruca;MG
+2510;972256;Janaúba;MG
+2511;191597;Jandaia;GO
+2512;548574;Jandaia do Sul;PR
+2513;170898;Jandaíra;BA
+2514;60278;Jandaíra;RN
+2515;3291026;Jandira;SP
+2516;53233;Janduís;RN
+2517;228045;Jangada;MT
+2518;141472;Janiópolis;PR
+2519;597336;Januária;MG
+2520;59413;Januário Cicco;RN
+2521;59211;Japaraíba;MG
+2522;98306;Japaratinga;AL
+2523;446638;Japaratuba;SE
+2524;1342219;Japeri;RJ
+2525;35130;Japi;RN
+2526;88654;Japira;PR
+2527;147732;Japoatã;SE
+2528;53936;Japonvar;MG
+2529;82277;Japorã;MS
+2530;60501;Japurá;AM
+2531;184143;Japurá;PR
+2532;78856;Jaqueira;PE
+2533;61548;Jaquirana;RS
+2534;647121;Jaraguá;GO
+2535;6631987;Jaraguá do Sul;SC
+2536;154020;Jaraguari;MS
+2537;43868;Jaramataia;AL
+2538;171005;Jardim;CE
+2539;456306;Jardim;MS
+2540;210478;Jardim Alegre;PR
+2541;23866;Jardim de Angicos;RN
+2542;136662;Jardim de Piranhas;RN
+2543;25889;Jardim do Mulato;PI
+2544;150501;Jardim do Seridó;RN
+2545;33383;Jardim Olinda;PR
+2546;32023;Jardinópolis;SC
+2547;909926;Jardinópolis;SP
+2548;164745;Jari;RS
+2549;1784410;Jarinu;SP
+2550;1232667;Jaru;RO
+2551;3842145;Jataí;GO
+2552;186532;Jataizinho;PR
+2553;104709;Jataúba;PE
+2554;192833;Jateí;MS
+2555;74355;Jati;CE
+2556;49033;Jatobá;MA
+2557;103946;Jatobá;PE
+2558;32425;Jatobá do Piauí;PI
+2559;3983620;Jaú;SP
+2560;47058;Jaú do Tocantins;TO
+2561;43488;Jaupaci;GO
+2562;239595;Jauru;MT
+2563;607559;Jeceaba;MG
+2564;45440;Jenipapo de Minas;MG
+2565;81039;Jenipapo dos Vieiras;MA
+2566;134979;Jequeri;MG
+2567;204061;Jequiá da Praia;AL
+2568;2239664;Jequié;BA
+2569;70558;Jequitaí;MG
+2570;89479;Jequitibá;MG
+2571;208771;Jequitinhonha;MG
+2572;316007;Jeremoabo;BA
+2573;55504;Jericó;PB
+2574;70755;Jeriquara;SP
+2575;124019;Jerônimo Monteiro;ES
+2576;44077;Jerumenha;PI
+2577;51515;Jesuânia;MG
+2578;265663;Jesuítas;PR
+2579;25120;Jesúpolis;GO
+2580;216581;Jijoca de Jericoacoara;CE
+2581;2769981;Ji-Paraná;RO
+2582;96157;Jiquiriçá;BA
+2583;122872;Jitaúna;BA
+2584;1518107;Joaçaba;SC
+2585;114131;Joaíma;MG
+2586;92704;Joanésia;MG
+2587;185451;Joanópolis;SP
+2588;215310;João Alfredo;PE
+2589;768835;João Câmara;RN
+2590;19784;João Costa;PI
+2591;18510;João Dias;RN
+2592;205054;João Dourado;BA
+2593;180492;João Lisboa;MA
+2594;2327309;João Monlevade;MG
+2595;330276;João Neiva;ES
+2596;18336936;João Pessoa;PB
+2597;1177617;João Pinheiro;MG
+2598;132734;João Ramalho;SP
+2599;44439;Joaquim Felício;MG
+2600;145319;Joaquim Gomes;AL
+2601;106269;Joaquim Nabuco;PE
+2602;78197;Joaquim Pires;PI
+2603;467637;Joaquim Távora;PR
+2604;22051;Joca Claudino;PB
+2605;29108;Joca Marques;PI
+2606;369993;Jóia;RS
+2607;25599407;Joinville;SC
+2608;75752;Jordânia;MG
+2609;73111;Jordão;AC
+2610;87753;José Boiteux;SC
+2611;1106790;José Bonifácio;SP
+2612;45056;José da Penha;RN
+2613;274147;José de Freitas;PI
+2614;34353;José Gonçalves de Minas;MG
+2615;40811;José Raydan;MG
+2616;81604;Joselândia;MA
+2617;39326;Josenópolis;MG
+2618;173665;Joviânia;GO
+2619;698435;Juara;MT
+2620;52973;Juarez Távora;PB
+2621;29198;Juarina;TO
+2622;1130313;Juatuba;MG
+2623;135508;Juazeirinho;PB
+2624;3131076;Juazeiro;BA
+2625;3921628;Juazeiro do Norte;CE
+2626;35575;Juazeiro do Piauí;PI
+2627;171625;Jucás;CE
+2628;81003;Jucati;PE
+2629;98373;Jucuruçu;BA
+2630;174766;Jucurutu;RN
+2631;852429;Juína;MT
+2632;14431962;Juiz de Fora;MG
+2633;35703;Júlio Borges;PI
+2634;987166;Júlio de Castilhos;RS
+2635;46068;Júlio Mesquita;SP
+2636;71212;Jumirim;SP
+2637;33244;Junco do Maranhão;MA
+2638;59245;Junco do Seridó;PB
+2639;39287;Jundiá;AL
+2640;27374;Jundiá;RN
+2641;39717586;Jundiaí;SP
+2642;90039;Jundiaí do Sul;PR
+2643;276724;Junqueiro;AL
+2644;535376;Junqueirópolis;SP
+2645;113352;Jupi;PE
+2646;44434;Jupiá;SC
+2647;255783;Juquiá;SP
+2648;441964;Juquitiba;SP
+2649;39623;Juramento;MG
+2650;287681;Juranda;PR
+2651;90416;Jurema;PE
+2652;29349;Jurema;PI
+2653;87029;Juripiranga;PB
+2654;63789;Juru;PB
+2655;90336;Juruá;AM
+2656;154174;Juruaia;MG
+2657;158104;Juruena;MT
+2658;771187;Juruti;PA
+2659;241333;Juscimeira;MT
+2660;91254;Jussara;BA
+2661;384180;Jussara;GO
+2662;199560;Jussara;PR
+2663;54256;Jussari;BA
+2664;52503;Jussiape;BA
+2665;196527;Jutaí;AM
+2666;171197;Juti;MS
+2667;44603;Juvenília;MG
+2668;99471;Kaloré;PR
+2669;390985;Lábrea;AM
+2670;82884;Lacerdópolis;SC
+2671;101671;Ladainha;MG
+2672;280338;Ladário;MS
+2673;34456;Lafaiete Coutinho;BA
+2674;136374;Lagamar;MG
+2675;1325043;Lagarto;SE
+2676;4789392;Lages;SC
+2677;326504;Lago da Pedra;MA
+2678;57125;Lago do Junco;MA
+2679;60126;Lago dos Rodrigues;MA
+2680;88036;Lago Verde;MA
+2681;31633;Lagoa;PB
+2682;43131;Lagoa Alegre;PI
+2683;53597;Lagoa Bonita do Sul;RS
+2684;130135;Lagoa da Canoa;AL
+2685;449467;Lagoa da Confusão;TO
+2686;1341015;Lagoa da Prata;MG
+2687;47005;Lagoa d'Anta;RN
+2688;61768;Lagoa de Dentro;PB
+2689;263465;Lagoa de Itaenga;PE
+2690;56671;Lagoa de Pedras;RN
+2691;34472;Lagoa de São Francisco;PI
+2692;30225;Lagoa de Velhos;RN
+2693;30260;Lagoa do Barro do Piauí;PI
+2694;161955;Lagoa do Carro;PE
+2695;61216;Lagoa do Mato;MA
+2696;93701;Lagoa do Ouro;PE
+2697;34327;Lagoa do Piauí;PI
+2698;30842;Lagoa do Sítio;PI
+2699;32661;Lagoa do Tocantins;TO
+2700;92715;Lagoa dos Gatos;PE
+2701;39206;Lagoa dos Patos;MG
+2702;72533;Lagoa dos Três Cantos;RS
+2703;151661;Lagoa Dourada;MG
+2704;286515;Lagoa Formosa;MG
+2705;181285;Lagoa Grande;MG
+2706;254805;Lagoa Grande;PE
+2707;71454;Lagoa Grande do Maranhão;MA
+2708;127829;Lagoa Nova;RN
+2709;83196;Lagoa Real;BA
+2710;57317;Lagoa Salgada;RN
+2711;36888;Lagoa Santa;GO
+2712;1665893;Lagoa Santa;MG
+2713;236199;Lagoa Seca;PB
+2714;915004;Lagoa Vermelha;RS
+2715;89336;Lagoão;RS
+2716;54379;Lagoinha;SP
+2717;17078;Lagoinha do Piauí;PI
+2718;732123;Laguna;SC
+2719;379429;Laguna Carapã;MS
+2720;217153;Laje;BA
+2721;121863;Laje do Muriaé;RJ
+2722;3253765;Lajeado;RS
+2723;54832;Lajeado;TO
+2724;39575;Lajeado do Bugre;RS
+2725;42588;Lajeado Grande;SC
+2726;53589;Lajeado Novo;MA
+2727;85049;Lajedão;BA
+2728;48140;Lajedinho;BA
+2729;365026;Lajedo;PE
+2730;71326;Lajedo do Tabocal;BA
+2731;100206;Lajes;RN
+2732;37768;Lajes Pintadas;RN
+2733;281843;Lajinha;MG
+2734;46671;Lamarão;BA
+2735;290310;Lambari;MG
+2736;196734;Lambari D'Oeste;MT
+2737;32849;Lamim;MG
+2738;78980;Landri Sales;PI
+2739;1400951;Lapa;PR
+2740;183279;Lapão;BA
+2741;119606;Laranja da Terra;ES
+2742;65957;Laranjal;MG
+2743;76254;Laranjal;PR
+2744;559807;Laranjal do Jari;AP
+2745;776306;Laranjal Paulista;SP
+2746;1102310;Laranjeiras;SE
+2747;634034;Laranjeiras do Sul;PR
+2748;99787;Lassance;MG
+2749;21785;Lastro;PB
+2750;223030;Laurentino;SC
+2751;5650556;Lauro de Freitas;BA
+2752;276413;Lauro Müller;SC
+2753;19084;Lavandeira;TO
+2754;118245;Lavínia;SP
+2755;2102464;Lavras;MG
+2756;231882;Lavras da Mangabeira;CE
+2757;221465;Lavras do Sul;RS
+2758;105844;Lavrinhas;SP
+2759;35747;Leandro Ferreira;MG
+2760;215437;Lebon Régis;SC
+2761;2850322;Leme;SP
+2762;41014;Leme do Prado;MG
+2763;112556;Lençóis;BA
+2764;2273039;Lençóis Paulista;SP
+2765;68559;Leoberto Leal;SC
+2766;974968;Leopoldina;MG
+2767;162436;Leopoldo de Bulhões;GO
+2768;106151;Leópolis;PR
+2769;115988;Liberato Salzano;RS
+2770;70000;Liberdade;MG
+2771;95202;Licínio de Almeida;BA
+2772;68157;Lidianópolis;PR
+2773;156292;Lima Campos;MA
+2774;219681;Lima Duarte;MG
+2775;11246500;Limeira;SP
+2776;278543;Limeira do Oeste;MG
+2777;606582;Limoeiro;PE
+2778;333756;Limoeiro de Anadia;AL
+2779;396295;Limoeiro do Ajuru;PA
+2780;815967;Limoeiro do Norte;CE
+2781;161997;Lindoeste;PR
+2782;141765;Lindóia;SP
+2783;158828;Lindóia do Sul;SC
+2784;302211;Lindolfo Collor;RS
+2785;47880;Linha Nova;RS
+2786;5239007;Linhares;ES
+2787;3508623;Lins;SP
+2788;48931;Livramento;PB
+2789;406289;Livramento de Nossa Senhora;BA
+2790;30924;Lizarda;TO
+2791;462090;Loanda;PR
+2792;152303;Lobato;PR
+2793;30613;Logradouro;PB
+2794;17756527;Londrina;PR
+2795;53851;Lontra;MG
+2796;237289;Lontras;SC
+2797;2132041;Lorena;SP
+2798;154334;Loreto;MA
+2799;32475;Lourdes;SP
+2800;11895643;Louveira;SP
+2801;2977831;Lucas do Rio Verde;MT
+2802;354894;Lucélia;SP
+2803;200483;Lucena;PB
+2804;37946;Lucianópolis;SP
+2805;24991;Luciara;MT
+2806;40017;Lucrécia;RN
+2807;1443264;Luís Antônio;SP
+2808;234282;Luís Correia;PI
+2809;35442;Luís Domingues;MA
+2810;4359783;Luís Eduardo Magalhães;BA
+2811;63189;Luís Gomes;RN
+2812;70896;Luisburgo;MG
+2813;45042;Luislândia;MG
+2814;484150;Luiz Alves;SC
+2815;254114;Luiziana;PR
+2816;59982;Luiziânia;SP
+2817;61531;Luminárias;MG
+2818;69803;Lunardelli;PR
+2819;48026;Lupércio;SP
+2820;85436;Lupionópolis;PR
+2821;77821;Lutécia;SP
+2822;432053;Luz;MG
+2823;159993;Luzerna;SC
+2824;3353547;Luziânia;GO
+2825;172125;Luzilândia;PI
+2826;32482;Luzinópolis;TO
+2827;20849841;Macaé;RJ
+2828;1413002;Macaíba;RN
+2829;65035;Macajuba;BA
+2830;209535;Maçambará;RS
+2831;57785;Macambira;SE
+2832;9085050;Macapá;AP
+2833;221993;Macaparana;PE
+2834;145298;Macarani;BA
+2835;560669;Macatuba;SP
+2836;792373;Macau;RN
+2837;131886;Macaubal;SP
+2838;298447;Macaúbas;BA
+2839;58008;Macedônia;SP
+2840;20681597;Maceió;AL
+2841;61427;Machacalis;MG
+2842;135152;Machadinho;RS
+2843;449928;Machadinho D'Oeste;RO
+2844;855314;Machado;MG
+2845;100240;Machados;PE
+2846;41423;Macieira;SC
+2847;131949;Macuco;RJ
+2848;39390;Macururé;BA
+2849;126081;Madalena;CE
+2850;42934;Madeiro;PI
+2851;495477;Madre de Deus;BA
+2852;110779;Madre de Deus de Minas;MG
+2853;27770;Mãe d'Água;PB
+2854;278101;Mãe do Rio;PA
+2855;43682;Maetinga;BA
+2856;1360535;Mafra;SC
+2857;57865;Magalhães Barata;PA
+2858;95179;Magalhães de Almeida;MA
+2859;67550;Magda;SP
+2860;3528382;Magé;RJ
+2861;89089;Maiquinique;BA
+2862;125613;Mairi;BA
+2863;1656325;Mairinque;SP
+2864;1514466;Mairiporã;SP
+2865;45476;Mairipotaba;GO
+2866;40867;Major Gercino;SC
+2867;156849;Major Isidoro;AL
+2868;33137;Major Sales;RN
+2869;172778;Major Vieira;SC
+2870;179702;Malacacheta;MG
+2871;123681;Malhada;BA
+2872;53102;Malhada de Pedras;BA
+2873;42348;Malhada dos Bois;SE
+2874;112177;Malhador;SE
+2875;523974;Mallet;PR
+2876;43632;Malta;PB
+2877;512363;Mamanguape;PB
+2878;70545;Mambaí;GO
+2879;471928;Mamborê;PR
+2880;39733;Mamonas;MG
+2881;48359;Mampituba;RS
+2882;1412207;Manacapuru;AM
+2883;63503;Manaíra;PB
+2884;231337;Manaquiri;AM
+2885;101273;Manari;PE
+2886;67066846;Manaus;AM
+2887;180782;Mâncio Lima;AC
+2888;461054;Mandaguaçu;PR
+2889;1166351;Mandaguari;PR
+2890;548209;Mandirituba;PR
+2891;158478;Manduri;SP
+2892;47905;Manfrinópolis;PR
+2893;189651;Manga;MG
+2894;3697348;Mangaratiba;RJ
+2895;1079172;Mangueirinha;PR
+2896;1955800;Manhuaçu;MG
+2897;418002;Manhumirim;MG
+2898;493014;Manicoré;AM
+2899;36211;Manoel Emídio;PI
+2900;300421;Manoel Ribas;PR
+2901;116700;Manoel Urbano;AC
+2902;211319;Manoel Viana;RS
+2903;103164;Manoel Vitorino;BA
+2904;70418;Mansidão;BA
+2905;349225;Mantena;MG
+2906;121570;Mantenópolis;ES
+2907;108102;Maquiné;RS
+2908;145823;Mar de Espanha;MG
+2909;27893;Mar Vermelho;AL
+2910;174235;Mara Rosa;GO
+2911;122493;Maraã;AM
+2912;7326872;Marabá;PA
+2913;120997;Marabá Paulista;SP
+2914;136866;Maracaçumé;MA
+2915;453739;Maracaí;SP
+2916;166463;Maracajá;SC
+2917;2054936;Maracaju;MS
+2918;188073;Maracanã;PA
+2919;7893296;Maracanaú;CE
+2920;260798;Maracás;BA
+2921;576730;Maragogi;AL
+2922;432205;Maragogipe;BA
+2923;70453;Maraial;PE
+2924;48592;Marajá do Sena;MA
+2925;1140245;Maranguape;CE
+2926;81855;Maranhãozinho;MA
+2927;185681;Marapanim;PA
+2928;152475;Marapoama;SP
+2929;91083;Maratá;RS
+2930;2496586;Marataízes;ES
+2931;208133;Maraú;BA
+2932;1691509;Marau;RS
+2933;69373;Maravilha;AL
+2934;901261;Maravilha;SC
+2935;93611;Maravilhas;MG
+2936;68778;Marcação;PB
+2937;229159;Marcelândia;MT
+2938;102105;Marcelino Ramos;RS
+2939;58772;Marcelino Vieira;RN
+2940;72994;Marcionílio Souza;BA
+2941;261169;Marco;CE
+2942;59067;Marcolândia;PI
+2943;32497;Marcos Parente;PI
+2944;1831873;Marechal Cândido Rondon;PR
+2945;1486465;Marechal Deodoro;AL
+2946;349141;Marechal Floriano;ES
+2947;163140;Marechal Thaumaturgo;AC
+2948;58198;Marema;SC
+2949;167437;Mari;PB
+2950;144988;Maria da Fé;MG
+2951;81105;Maria Helena;PR
+2952;1296826;Marialva;PR
+2953;3099191;Mariana;MG
+2954;59326;Mariana Pimentel;RS
+2955;47684;Mariano Moro;RS
+2956;82242;Marianópolis do Tocantins;TO
+2957;52826;Mariápolis;SP
+2958;125400;Maribondo;AL
+2959;9574679;Maricá;RJ
+2960;38455;Marilac;MG
+2961;211815;Marilândia;ES
+2962;263941;Marilândia do Sul;PR
+2963;105692;Marilena;PR
+2964;6876769;Marília;SP
+2965;170802;Mariluz;PR
+2966;15453047;Maringá;PR
+2967;28016;Marinópolis;SP
+2968;146907;Mário Campos;MG
+2969;202182;Mariópolis;PR
+2970;294916;Maripá;PR
+2971;43661;Maripá de Minas;MG
+2972;1600820;Marituba;PA
+2973;46685;Marizópolis;PB
+2974;37735;Marliéria;MG
+2975;355247;Marmeleiro;PR
+2976;27435;Marmelópolis;MG
+2977;77301;Marques de Souza;RS
+2978;69406;Marquinho;PR
+2979;253726;Martinho Campos;MG
+2980;62706;Martinópole;CE
+2981;479240;Martinópolis;SP
+2982;68004;Martins;RN
+2983;117109;Martins Soares;MG
+2984;264592;Maruim;SE
+2985;62808;Marumbi;PR
+2986;35065;Marzagão;GO
+2987;135491;Mascote;BA
+2988;206293;Massapê;CE
+2989;32368;Massapê do Piauí;PI
+2990;94799;Massaranduba;PB
+2991;521638;Massaranduba;SC
+2992;93921;Mata;RS
+2993;1014918;Mata de São João;BA
+2994;167376;Mata Grande;AL
+2995;103993;Mata Roma;MA
+2996;52968;Mata Verde;MG
+2997;3464663;Matão;SP
+2998;204347;Mataraca;PB
+2999;103454;Mateiros;TO
+3000;654964;Matelândia;PR
+3001;38332;Materlândia;MG
+3002;534817;Mateus Leme;MG
+3003;30361;Mathias Lobato;MG
+3004;504520;Matias Barbosa;MG
+3005;126136;Matias Cardoso;MG
+3006;67564;Matias Olímpio;PI
+3007;63139;Matina;BA
+3008;129813;Matinha;MA
+3009;42699;Matinhas;PB
+3010;883733;Matinhos;PR
+3011;367828;Matipó;MG
+3012;110310;Mato Castelhano;RS
+3013;20492;Mato Grosso;PB
+3014;132542;Mato Leitão;RS
+3015;44188;Mato Queimado;RS
+3016;51542;Mato Rico;PR
+3017;103565;Mato Verde;MG
+3018;140446;Matões;MA
+3019;69226;Matões do Norte;MA
+3020;36619;Matos Costa;SC
+3021;967797;Matozinhos;MG
+3022;86658;Matrinchã;GO
+3023;236672;Matriz de Camaragibe;AL
+3024;564158;Matupá;MT
+3025;43328;Maturéia;PB
+3026;61081;Matutina;MG
+3027;12429673;Mauá;SP
+3028;230157;Mauá da Serra;PR
+3029;380968;Maués;AM
+3030;181458;Maurilândia;GO
+3031;28358;Maurilândia do Tocantins;TO
+3032;317907;Mauriti;CE
+3033;98133;Maxaranguape;RN
+3034;92662;Maximiliano de Almeida;RS
+3035;201204;Mazagão;AP
+3036;105432;Medeiros;MG
+3037;300379;Medeiros Neto;BA
+3038;1482312;Medianeira;PR
+3039;623340;Medicilândia;PA
+3040;207717;Medina;MG
+3041;202550;Meleiro;SC
+3042;140150;Melgaço;PA
+3043;260066;Mendes;RJ
+3044;50468;Mendes Pimentel;MG
+3045;189103;Mendonça;SP
+3046;174428;Mercedes;PR
+3047;102265;Mercês;MG
+3048;250062;Meridiano;SP
+3049;79829;Meruoca;CE
+3050;45040;Mesópolis;SP
+3051;43425;Mesquita;MG
+3052;2084163;Mesquita;RJ
+3053;147326;Messias;AL
+3054;65622;Messias Targino;RN
+3055;181496;Miguel Alves;PI
+3056;199098;Miguel Calmon;BA
+3057;11439;Miguel Leão;PI
+3058;647328;Miguel Pereira;RJ
+3059;715500;Miguelópolis;SP
+3060;86033;Milagres;BA
+3061;191663;Milagres;CE
+3062;43850;Milagres do Maranhão;MA
+3063;90355;Milhã;CE
+3064;36187;Milton Brandão;PI
+3065;37431;Mimoso de Goiás;GO
+3066;444955;Mimoso do Sul;ES
+3067;1552807;Minaçu;GO
+3068;38907;Minador do Negrão;AL
+3069;164615;Minas do Leão;RS
+3070;283593;Minas Novas;MG
+3071;69040;Minduri;MG
+3072;2044236;Mineiros;GO
+3073;150794;Mineiros do Tietê;SP
+3074;171082;Ministro Andreazza;RO
+3075;45897;Mira Estrela;SP
+3076;105462;Mirabela;MG
+3077;384071;Miracatu;SP
+3078;455345;Miracema;RJ
+3079;502981;Miracema do Tocantins;TO
+3080;156568;Mirador;MA
+3081;87974;Mirador;PR
+3082;122263;Miradouro;MG
+3083;125988;Miraguaí;RS
+3084;219655;Miraí;MG
+3085;72891;Miraíma;CE
+3086;432659;Miranda;MS
+3087;464378;Miranda do Norte;MA
+3088;127255;Mirandiba;PE
+3089;556719;Mirandópolis;SP
+3090;107708;Mirangaba;BA
+3091;203374;Miranorte;TO
+3092;55371;Mirante;BA
+3093;179038;Mirante da Serra;RO
+3094;373559;Mirante do Paranapanema;SP
+3095;35612;Miraselva;PR
+3096;1549542;Mirassol;SP
+3097;588350;Mirassol d'Oeste;MT
+3098;71502;Mirassolândia;SP
+3099;31587;Miravânia;MG
+3100;48022;Mirim Doce;SC
+3101;77511;Mirinzal;MA
+3102;298290;Missal;PR
+3103;500781;Missão Velha;CE
+3104;244615;Mocajuba;PA
+3105;1802064;Mococa;SP
+3106;95992;Modelo;SC
+3107;49268;Moeda;MG
+3108;81894;Moema;MG
+3109;106338;Mogeiro;PB
+3110;14130976;Mogi das Cruzes;SP
+3111;5186002;Mogi Guaçu;SP
+3112;4020272;Mogi Mirim;SP
+3113;33341;Moiporá;GO
+3114;134917;Moita Bonita;SE
+3115;744613;Moju;PA
+3116;126225;Mojuí dos Campos;PA
+3117;258659;Mombaça;CE
+3118;61458;Mombuca;SP
+3119;169023;Monção;MA
+3120;71943;Monções;SP
+3121;504970;Mondaí;SC
+3122;864737;Mongaguá;SP
+3123;28192;Monjolos;MG
+3124;83684;Monsenhor Gil;PI
+3125;46036;Monsenhor Hipólito;PI
+3126;178560;Monsenhor Paulo;MG
+3127;106054;Monsenhor Tabosa;CE
+3128;54378;Montadas;PB
+3129;118808;Montalvânia;MG
+3130;319352;Montanha;ES
+3131;80487;Montanhas;RN
+3132;53741;Montauri;RS
+3133;615216;Monte Alegre;PA
+3134;177360;Monte Alegre;RN
+3135;77843;Monte Alegre de Goiás;GO
+3136;507857;Monte Alegre de Minas;MG
+3137;105273;Monte Alegre de Sergipe;SE
+3138;127730;Monte Alegre do Piauí;PI
+3139;183066;Monte Alegre do Sul;SP
+3140;57861;Monte Alegre dos Campos;RS
+3141;1615405;Monte Alto;SP
+3142;565970;Monte Aprazível;SP
+3143;172138;Monte Azul;MG
+3144;449319;Monte Azul Paulista;SP
+3145;215384;Monte Belo;MG
+3146;119822;Monte Belo do Sul;RS
+3147;147516;Monte Carlo;SC
+3148;1119257;Monte Carmelo;MG
+3149;172090;Monte Castelo;SC
+3150;82201;Monte Castelo;SP
+3151;19692;Monte das Gameleiras;RN
+3152;118779;Monte do Carmo;TO
+3153;28524;Monte Formoso;MG
+3154;32108;Monte Horebe;PB
+3155;2964709;Monte Mor;SP
+3156;230242;Monte Negro;RO
+3157;324622;Monte Santo;BA
+3158;366394;Monte Santo de Minas;MG
+3159;30049;Monte Santo do Tocantins;TO
+3160;397960;Monte Sião;MG
+3161;403638;Monteiro;PB
+3162;54277;Monteiro Lobato;SP
+3163;48050;Monteirópolis;AL
+3164;2832054;Montenegro;RS
+3165;55001;Montes Altos;MA
+3166;7965637;Montes Claros;MG
+3167;248408;Montes Claros de Goiás;GO
+3168;56744;Montezuma;MG
+3169;584461;Montividiu;GO
+3170;59211;Montividiu do Norte;GO
+3171;692521;Morada Nova;CE
+3172;211589;Morada Nova de Minas;MG
+3173;72562;Moraújo;CE
+3174;70081;Moreilândia;PE
+3175;232955;Moreira Sales;PR
+3176;561473;Moreno;PE
+3177;82709;Mormaço;RS
+3178;56529;Morpará;BA
+3179;249489;Morretes;PR
+3180;125654;Morrinhos;CE
+3181;1144143;Morrinhos;GO
+3182;51726;Morrinhos do Sul;RS
+3183;1062318;Morro Agudo;SP
+3184;32754;Morro Agudo de Goiás;GO
+3185;24930;Morro Cabeça no Tempo;PI
+3186;622568;Morro da Fumaça;SC
+3187;149622;Morro da Garça;MG
+3188;359754;Morro do Chapéu;BA
+3189;37336;Morro do Chapéu do Piauí;PI
+3190;34210;Morro do Pilar;MG
+3191;181334;Morro Grande;SC
+3192;88605;Morro Redondo;RS
+3193;148032;Morro Reuter;RS
+3194;94555;Morros;MA
+3195;74394;Mortugaba;BA
+3196;394927;Morungaba;SP
+3197;74805;Mossâmedes;GO
+3198;6046733;Mossoró;RN
+3199;283362;Mostardas;RS
+3200;70542;Motuca;SP
+3201;555209;Mozarlândia;GO
+3202;232120;Muaná;PA
+3203;247452;Mucajaí;RR
+3204;82923;Mucambo;CE
+3205;340134;Mucugê;BA
+3206;228022;Muçum;RS
+3207;1996398;Mucuri;BA
+3208;72932;Mucurici;ES
+3209;435274;Muitos Capões;RS
+3210;44267;Muliterno;RS
+3211;87727;Mulungu;CE
+3212;66497;Mulungu;PB
+3213;75583;Mulungu do Morro;BA
+3214;133006;Mundo Novo;BA
+3215;100864;Mundo Novo;GO
+3216;384329;Mundo Novo;MS
+3217;64523;Munhoz;MG
+3218;78996;Munhoz de Melo;PR
+3219;47691;Muniz Ferreira;BA
+3220;250114;Muniz Freire;ES
+3221;124293;Muquém do São Francisco;BA
+3222;156122;Muqui;ES
+3223;1892649;Muriaé;MG
+3224;135823;Muribeca;SE
+3225;242171;Murici;AL
+3226;50053;Murici dos Portelas;PI
+3227;38186;Muricilândia;TO
+3228;265388;Muritiba;BA
+3229;53897;Murutinga do Sul;SP
+3230;183951;Mutuípe;BA
+3231;299742;Mutum;MG
+3232;56376;Mutunópolis;GO
+3233;396487;Muzambinho;MG
+3234;27796;Nacip Raydan;MG
+3235;90100;Nantes;SP
+3236;638076;Nanuque;MG
+3237;983412;Não-Me-Toque;RS
+3238;65638;Naque;MG
+3239;208680;Narandiba;SP
+3240;20904276;Natal;RN
+3241;40635;Natalândia;MG
+3242;67167;Natércia;MG
+3243;223237;Natividade;RJ
+3244;121958;Natividade;TO
+3245;63751;Natividade da Serra;SP
+3246;67529;Natuba;PB
+3247;3274806;Navegantes;SC
+3248;1353132;Naviraí;MS
+3249;240766;Nazaré;BA
+3250;43040;Nazaré;TO
+3251;417810;Nazaré da Mata;PE
+3252;41478;Nazaré do Piauí;PI
+3253;313714;Nazaré Paulista;SP
+3254;219395;Nazareno;MG
+3255;50557;Nazarezinho;PB
+3256;64612;Nazária;PI
+3257;159483;Nazário;GO
+3258;231000;Neópolis;SE
+3259;395015;Nepomuceno;MG
+3260;633960;Nerópolis;GO
+3261;162140;Neves Paulista;SP
+3262;123759;Nhamundá;AM
+3263;256514;Nhandeara;SP
+3264;80206;Nicolau Vergueiro;RS
+3265;109390;Nilo Peçanha;BA
+3266;2525559;Nilópolis;RJ
+3267;50419;Nina Rodrigues;MA
+3268;69977;Ninheira;MG
+3269;230315;Nioaque;MS
+3270;75101;Nipoã;SP
+3271;1199152;Niquelândia;GO
+3272;334117;Nísia Floresta;RN
+3273;25718733;Niterói;RJ
+3274;462159;Nobres;MT
+3275;330498;Nonoai;RS
+3276;80471;Nordestina;BA
+3277;123805;Normandia;RR
+3278;94612;Nortelândia;MT
+3279;140594;Nossa Senhora Aparecida;SE
+3280;547317;Nossa Senhora da Glória;SE
+3281;289199;Nossa Senhora das Dores;SE
+3282;60431;Nossa Senhora das Graças;PR
+3283;55396;Nossa Senhora de Lourdes;SE
+3284;28546;Nossa Senhora de Nazaré;PI
+3285;157924;Nossa Senhora do Livramento;MT
+3286;2573162;Nossa Senhora do Socorro;SE
+3287;51399;Nossa Senhora dos Remédios;PI
+3288;93513;Nova Aliança;SP
+3289;35288;Nova Aliança do Ivaí;PR
+3290;136237;Nova Alvorada;RS
+3291;1138098;Nova Alvorada do Sul;MS
+3292;35139;Nova América;GO
+3293;75491;Nova América da Colina;PR
+3294;1567444;Nova Andradina;MS
+3295;292733;Nova Araçá;RS
+3296;44470;Nova Aurora;GO
+3297;436650;Nova Aurora;PR
+3298;189285;Nova Bandeirantes;MT
+3299;667175;Nova Bassano;RS
+3300;52967;Nova Belém;MG
+3301;74704;Nova Boa Vista;RS
+3302;59952;Nova Brasilândia;MT
+3303;272512;Nova Brasilândia D'Oeste;RO
+3304;89273;Nova Bréscia;RS
+3305;317841;Nova Campina;SP
+3306;120581;Nova Canaã;BA
+3307;335034;Nova Canaã do Norte;MT
+3308;30251;Nova Canaã Paulista;SP
+3309;116092;Nova Candelária;RS
+3310;177202;Nova Cantu;PR
+3311;30935;Nova Castilho;SP
+3312;49588;Nova Colinas;MA
+3313;335654;Nova Crixás;GO
+3314;410353;Nova Cruz;RN
+3315;323892;Nova Era;MG
+3316;134843;Nova Erechim;SC
+3317;589253;Nova Esperança;PR
+3318;174740;Nova Esperança do Piriá;PA
+3319;97921;Nova Esperança do Sudoeste;PR
+3320;122568;Nova Esperança do Sul;RS
+3321;280654;Nova Europa;SP
+3322;67889;Nova Fátima;BA
+3323;183174;Nova Fátima;PR
+3324;76421;Nova Floresta;PB
+3325;4423754;Nova Friburgo;RJ
+3326;100868;Nova Glória;GO
+3327;341388;Nova Granada;SP
+3328;71402;Nova Guarita;MT
+3329;27148;Nova Guataporanga;SP
+3330;652173;Nova Hartz;RS
+3331;79721;Nova Ibiá;BA
+3332;15948718;Nova Iguaçu;RJ
+3333;34880;Nova Iguaçu de Goiás;GO
+3334;105083;Nova Independência;SP
+3335;30491;Nova Iorque;MA
+3336;134422;Nova Ipixuna;PA
+3337;100620;Nova Itaberaba;SC
+3338;44945;Nova Itarana;BA
+3339;115670;Nova Lacerda;MT
+3340;167250;Nova Laranjeiras;PR
+3341;7288818;Nova Lima;MG
+3342;276074;Nova Londrina;PR
+3343;38340;Nova Luzitânia;SP
+3344;379063;Nova Mamoré;RO
+3345;171443;Nova Marilândia;MT
+3346;333080;Nova Maringá;MT
+3347;39321;Nova Módica;MG
+3348;150933;Nova Monte Verde;MT
+3349;2564804;Nova Mutum;MT
+3350;55245;Nova Nazaré;MT
+3351;2752344;Nova Odessa;SP
+3352;463159;Nova Olímpia;MT
+3353;67423;Nova Olímpia;PR
+3354;120662;Nova Olinda;CE
+3355;41494;Nova Olinda;PB
+3356;253938;Nova Olinda;TO
+3357;127041;Nova Olinda do Maranhão;MA
+3358;195765;Nova Olinda do Norte;AM
+3359;63142;Nova Pádua;RS
+3360;209274;Nova Palma;RS
+3361;36278;Nova Palmeira;PB
+3362;669217;Nova Petrópolis;RS
+3363;850963;Nova Ponte;MG
+3364;90787;Nova Porteirinha;MG
+3365;996130;Nova Prata;RS
+3366;252433;Nova Prata do Iguaçu;PR
+3367;100672;Nova Ramada;RS
+3368;45340;Nova Redenção;BA
+3369;274650;Nova Resende;MG
+3370;42371;Nova Roma;GO
+3371;156585;Nova Roma do Sul;RS
+3372;40653;Nova Rosalândia;TO
+3373;246784;Nova Russas;CE
+3374;67054;Nova Santa Bárbara;PR
+3375;91442;Nova Santa Helena;MT
+3376;28508;Nova Santa Rita;PI
+3377;1088248;Nova Santa Rita;RS
+3378;279219;Nova Santa Rosa;PR
+3379;1919361;Nova Serrana;MG
+3380;160840;Nova Soure;BA
+3381;102273;Nova Tebas;PR
+3382;99709;Nova Timboteua;PA
+3383;480092;Nova Trento;SC
+3384;700287;Nova Ubiratã;MT
+3385;62644;Nova União;MG
+3386;103205;Nova União;RO
+3387;989417;Nova Venécia;ES
+3388;158745;Nova Veneza;GO
+3389;625474;Nova Veneza;SC
+3390;444627;Nova Viçosa;BA
+3391;482754;Nova Xavantina;MT
+3392;45814;Novais;SP
+3393;40418;Novo Acordo;TO
+3394;116940;Novo Airão;AM
+3395;24095;Novo Alegre;TO
+3396;161302;Novo Aripuanã;AM
+3397;75441;Novo Barreiro;RS
+3398;57938;Novo Brasil;GO
+3399;82793;Novo Cabrais;RS
+3400;206700;Novo Cruzeiro;MG
+3401;799207;Novo Gama;GO
+3402;8122336;Novo Hamburgo;RS
+3403;67769;Novo Horizonte;BA
+3404;77302;Novo Horizonte;SC
+3405;969247;Novo Horizonte;SP
+3406;52378;Novo Horizonte do Norte;MT
+3407;134476;Novo Horizonte do Oeste;RO
+3408;138713;Novo Horizonte do Sul;MS
+3409;55345;Novo Itacolomi;PR
+3410;26497;Novo Jardim;TO
+3411;109057;Novo Lino;AL
+3412;107594;Novo Machado;RS
+3413;138468;Novo Mundo;MT
+3414;174443;Novo Oriente;CE
+3415;65227;Novo Oriente de Minas;MG
+3416;35220;Novo Oriente do Piauí;PI
+3417;74788;Novo Planalto;GO
+3418;468558;Novo Progresso;PA
+3419;739717;Novo Repartimento;PA
+3420;30336;Novo Santo Antônio;MT
+3421;20584;Novo Santo Antônio;PI
+3422;281561;Novo São Joaquim;MT
+3423;44134;Novo Tiradentes;RS
+3424;53893;Novo Triunfo;BA
+3425;46435;Novo Xingu;RS
+3426;40065;Novorizonte;MG
+3427;403833;Nuporanga;SP
+3428;535927;Óbidos;PA
+3429;140544;Ocara;CE
+3430;82357;Ocauçu;SP
+3431;333580;Oeiras;PI
+3432;360507;Oeiras do Pará;PA
+3433;300960;Oiapoque;AP
+3434;20319;Olaria;MG
+3435;83093;Óleo;SP
+3436;46280;Olho d'Água;PB
+3437;130329;Olho d'Água das Cunhãs;MA
+3438;193100;Olho d'Água das Flores;AL
+3439;33661;Olho d'Água do Borges;RN
+3440;54725;Olho d'Água do Casado;AL
+3441;16222;Olho D'Água do Piauí;PI
+3442;32628;Olho d'Água Grande;AL
+3443;84046;Olhos-d'Água;MG
+3444;1692186;Olímpia;SP
+3445;34397;Olímpio Noronha;MG
+3446;5264034;Olinda;PE
+3447;76222;Olinda Nova do Maranhão;MA
+3448;172270;Olindina;BA
+3449;28354;Olivedos;PB
+3450;725231;Oliveira;MG
+3451;18363;Oliveira de Fátima;TO
+3452;149651;Oliveira dos Brejinhos;BA
+3453;26997;Oliveira Fortes;MG
+3454;66908;Olivença;AL
+3455;50739;Onça de Pitangui;MG
+3456;183077;Onda Verde;SP
+3457;45294;Oratórios;MG
+3458;96005;Oriente;SP
+3459;347471;Orindiúva;SP
+3460;1726841;Oriximiná;PA
+3461;61254;Orizânia;MG
+3462;402139;Orizona;GO
+3463;1482382;Orlândia;SP
+3464;825618;Orleans;SC
+3465;247376;Orobó;PE
+3466;154975;Orocó;PE
+3467;170130;Orós;CE
+3468;977461;Ortigueira;PR
+3469;65872535;Osasco;SP
+3470;67774;Oscar Bressane;SP
+3471;1253523;Osório;RS
+3472;869106;Osvaldo Cruz;SP
+3473;620062;Otacílio Costa;SC
+3474;156468;Ourém;PA
+3475;50697;Ouriçangas;BA
+3476;501298;Ouricuri;PE
+3477;499781;Ourilândia do Norte;PA
+3478;2777683;Ourinhos;SP
+3479;89184;Ourizona;PR
+3480;139310;Ouro;SC
+3481;66576;Ouro Branco;AL
+3482;3191058;Ouro Branco;MG
+3483;41084;Ouro Branco;RN
+3484;570195;Ouro Fino;MG
+3485;3918827;Ouro Preto;MG
+3486;635796;Ouro Preto do Oeste;RO
+3487;27186;Ouro Velho;PB
+3488;68498;Ouro Verde;SC
+3489;89553;Ouro Verde;SP
+3490;81440;Ouro Verde de Goiás;GO
+3491;41804;Ouro Verde de Minas;MG
+3492;148945;Ouro Verde do Oeste;PR
+3493;378258;Ouroeste;SP
+3494;130876;Ourolândia;BA
+3495;509786;Ouvidor;GO
+3496;172570;Pacaembu;SP
+3497;424100;Pacajá;PA
+3498;938848;Pacajus;CE
+3499;146793;Pacaraima;RR
+3500;939390;Pacatuba;CE
+3501;178319;Pacatuba;SE
+3502;716925;Paço do Lumiar;MA
+3503;99165;Pacoti;CE
+3504;40007;Pacujá;CE
+3505;479875;Padre Bernardo;GO
+3506;56906;Padre Carvalho;MG
+3507;46419;Padre Marcos;PI
+3508;147851;Padre Paraíso;MG
+3509;31461;Paes Landim;PI
+3510;38665;Pai Pedro;MG
+3511;31477;Paial;SC
+3512;663699;Paiçandu;PR
+3513;94632;Paim Filho;RS
+3514;53248;Paineiras;MG
+3515;44183;Painel;SC
+3516;259681;Pains;MG
+3517;18864;Paiva;MG
+3518;22519;Pajeú do Piauí;PI
+3519;30786;Palestina;AL
+3520;274104;Palestina;SP
+3521;87881;Palestina de Goiás;GO
+3522;52134;Palestina do Pará;PA
+3523;61815;Palhano;CE
+3524;5076359;Palhoça;SC
+3525;58413;Palma;MG
+3526;173613;Palma Sola;SC
+3527;82681;Palmácia;CE
+3528;783570;Palmares;PE
+3529;407130;Palmares do Sul;RS
+3530;107849;Palmares Paulista;SP
+3531;979165;Palmas;PR
+3532;7400436;Palmas;TO
+3533;141928;Palmas de Monte Alto;BA
+3534;1028672;Palmeira;PR
+3535;96097;Palmeira;SC
+3536;1137975;Palmeira das Missões;RS
+3537;61805;Palmeira do Piauí;PI
+3538;157448;Palmeira d'Oeste;SP
+3539;935877;Palmeira dos Índios;AL
+3540;79798;Palmeirais;PI
+3541;109086;Palmeirândia;MA
+3542;74736;Palmeirante;TO
+3543;65629;Palmeiras;BA
+3544;867843;Palmeiras de Goiás;GO
+3545;58026;Palmeiras do Tocantins;TO
+3546;63392;Palmeirina;PE
+3547;104144;Palmeirópolis;TO
+3548;27719;Palmelo;GO
+3549;101809;Palminópolis;GO
+3550;223397;Palmital;PR
+3551;567661;Palmital;SP
+3552;156169;Palmitinho;RS
+3553;501872;Palmitos;SC
+3554;44714;Palmópolis;MG
+3555;1649384;Palotina;PR
+3556;68952;Panamá;GO
+3557;1682853;Panambi;RS
+3558;215740;Pancas;ES
+3559;159397;Panelas;PE
+3560;241743;Panorama;SP
+3561;271815;Pantano Grande;RS
+3562;160890;Pão de Açúcar;AL
+3563;222700;Papagaios;MG
+3564;444948;Papanduva;SC
+3565;23881;Paquetá;PI
+3566;2378099;Pará de Minas;MG
+3567;843386;Paracambi;RJ
+3568;2848220;Paracatu;MG
+3569;405319;Paracuru;CE
+3570;2403743;Paragominas;PA
+3571;376538;Paraguaçu;MG
+3572;985158;Paraguaçu Paulista;SP
+3573;249424;Paraí;RS
+3574;867223;Paraíba do Sul;RJ
+3575;130756;Paraibano;MA
+3576;254493;Paraibuna;SP
+3577;355038;Paraipaba;CE
+3578;79899;Paraíso;SC
+3579;193722;Paraíso;SP
+3580;440522;Paraíso das Águas;MS
+3581;239718;Paraíso do Norte;PR
+3582;142278;Paraíso do Sul;RS
+3583;1011802;Paraíso do Tocantins;TO
+3584;374577;Paraisópolis;MG
+3585;198313;Parambu;CE
+3586;158278;Paramirim;BA
+3587;74562;Paramoti;CE
+3588;29972;Paraná;RN
+3589;194740;Paranã;TO
+3590;264324;Paranacity;PR
+3591;7077094;Paranaguá;PR
+3592;1104587;Paranaíba;MS
+3593;147514;Paranaiguara;GO
+3594;709556;Paranaíta;MT
+3595;518120;Paranapanema;SP
+3596;52714;Paranapoema;PR
+3597;69296;Paranapuã;SP
+3598;103608;Paranatama;PE
+3599;646989;Paranatinga;MT
+3600;2131068;Paranavaí;PR
+3601;145315;Paranhos;MS
+3602;443851;Paraopeba;MG
+3603;294600;Parapuã;SP
+3604;16546;Parari;PB
+3605;186559;Paratinga;BA
+3606;2220893;Paraty;RJ
+3607;32661;Paraú;RN
+3608;11208942;Parauapebas;PA
+3609;624944;Paraúna;GO
+3610;225754;Parazinho;RN
+3611;227389;Pardinho;SP
+3612;78519;Pareci Novo;RS
+3613;84234;Parecis;RO
+3614;314194;Parelhas;RN
+3615;62981;Pariconha;AL
+3616;951340;Parintins;AM
+3617;317328;Paripiranga;BA
+3618;118530;Paripueira;AL
+3619;450736;Pariquera-Açu;SP
+3620;32136;Parisi;SP
+3621;70531;Parnaguá;PI
+3622;1795111;Parnaíba;PI
+3623;151641;Parnamirim;PE
+3624;4597280;Parnamirim;RN
+3625;196511;Parnarama;MA
+3626;1088756;Parobé;RS
+3627;99555;Passa e Fica;RN
+3628;301573;Passa Quatro;MG
+3629;89650;Passa Sete;RS
+3630;137710;Passa Tempo;MG
+3631;27736;Passa Vinte;MG
+3632;17876;Passabém;MG
+3633;21661;Passagem;PB
+3634;26610;Passagem;RN
+3635;110255;Passagem Franca;MA
+3636;34777;Passagem Franca do Piauí;PI
+3637;184775;Passira;PE
+3638;128718;Passo de Camaragibe;AL
+3639;97867;Passo de Torres;SC
+3640;146773;Passo do Sobrado;RS
+3641;7817962;Passo Fundo;RS
+3642;2153033;Passos;MG
+3643;107050;Passos Maia;SC
+3644;162306;Pastos Bons;MA
+3645;38340;Patis;MG
+3646;131198;Pato Bragado;PR
+3647;3067684;Pato Branco;PR
+3648;1457556;Patos;PB
+3649;3816282;Patos de Minas;MG
+3650;38637;Patos do Piauí;PI
+3651;2160546;Patrocínio;MG
+3652;83750;Patrocínio do Muriaé;MG
+3653;729993;Patrocínio Paulista;SP
+3654;106572;Patu;RN
+3655;537411;Paty do Alferes;RJ
+3656;88363;Pau Brasil;BA
+3657;73978;Pau D'Arco;PA
+3658;55384;Pau D'Arco;TO
+3659;23510;Pau D'Arco do Piauí;PI
+3660;402936;Pau dos Ferros;RN
+3661;673527;Paudalho;PE
+3662;135729;Pauini;AM
+3663;83304;Paula Cândido;MG
+3664;230307;Paula Freitas;PR
+3665;221388;Paulicéia;SP
+3666;27060732;Paulínia;SP
+3667;74054;Paulino Neves;MA
+3668;101342;Paulista;PB
+3669;3989857;Paulista;PE
+3670;170062;Paulistana;PI
+3671;23281;Paulistânia;SP
+3672;45091;Paulistas;MG
+3673;2225189;Paulo Afonso;BA
+3674;75847;Paulo Bento;RS
+3675;184898;Paulo de Faria;SP
+3676;238024;Paulo Frontin;PR
+3677;53221;Paulo Jacinto;AL
+3678;208440;Paulo Lopes;SC
+3679;135329;Paulo Ramos;MA
+3680;66982;Pavão;MG
+3681;150805;Paverama;RS
+3682;24329;Pavussu;PI
+3683;96538;Pé de Serra;BA
+3684;279752;Peabiru;PR
+3685;142884;Peçanha;MG
+3686;1811358;Pederneiras;SP
+3687;207957;Pedra;PE
+3688;223700;Pedra Azul;MG
+3689;68723;Pedra Bela;SP
+3690;53103;Pedra Bonita;MG
+3691;249300;Pedra Branca;CE
+3692;29341;Pedra Branca;PB
+3693;279611;Pedra Branca do Amapari;AP
+3694;33271;Pedra do Anta;MG
+3695;75761;Pedra do Indaiá;MG
+3696;30013;Pedra Dourada;MG
+3697;148457;Pedra Grande;RN
+3698;66880;Pedra Lavrada;PB
+3699;29580;Pedra Mole;SE
+3700;667146;Pedra Preta;MT
+3701;23153;Pedra Preta;RN
+3702;124024;Pedralva;MG
+3703;44983;Pedranópolis;SP
+3704;39750;Pedrão;BA
+3705;101809;Pedras Altas;RS
+3706;416071;Pedras de Fogo;PB
+3707;72898;Pedras de Maria da Cruz;MG
+3708;108987;Pedras Grandes;SC
+3709;685020;Pedregulho;SP
+3710;1074872;Pedreira;SP
+3711;427532;Pedreiras;MA
+3712;72725;Pedrinhas;SE
+3713;98350;Pedrinhas Paulista;SP
+3714;89367;Pedrinópolis;MG
+3715;589317;Pedro Afonso;TO
+3716;112912;Pedro Alexandre;BA
+3717;52439;Pedro Avelino;RN
+3718;290422;Pedro Canário;ES
+3719;139514;Pedro de Toledo;SP
+3720;125141;Pedro do Rosário;MA
+3721;196530;Pedro Gomes;MS
+3722;260615;Pedro II;PI
+3723;17807;Pedro Laurentino;PI
+3724;1496792;Pedro Leopoldo;MG
+3725;123841;Pedro Osório;RS
+3726;42561;Pedro Régis;PB
+3727;20339;Pedro Teixeira;MG
+3728;109868;Pedro Velho;RN
+3729;544038;Peixe;TO
+3730;48867;Peixe-Boi;PA
+3731;390333;Peixoto de Azevedo;MT
+3732;198221;Pejuçara;RS
+3733;7389940;Pelotas;RS
+3734;85471;Penaforte;CE
+3735;154173;Penalva;MA
+3736;1355825;Penápolis;SP
+3737;280435;Pendências;RN
+3738;740552;Penedo;AL
+3739;594255;Penha;SC
+3740;335076;Pentecoste;CE
+3741;39686;Pequeri;MG
+3742;54595;Pequi;MG
+3743;70664;Pequizeiro;TO
+3744;148907;Perdigão;MG
+3745;508931;Perdizes;MG
+3746;374157;Perdões;MG
+3747;692431;Pereira Barreto;SP
+3748;138723;Pereiras;SP
+3749;153928;Pereiro;CE
+3750;64640;Peri Mirim;MA
+3751;80071;Periquito;MG
+3752;72624;Peritiba;SC
+3753;140896;Peritoró;MA
+3754;136446;Perobal;PR
+3755;464109;Pérola;PR
+3756;137932;Pérola d'Oeste;PR
+3757;316344;Perolândia;GO
+3758;1284889;Peruíbe;SP
+3759;38521;Pescador;MG
+3760;73403;Pescaria Brava;SC
+3761;630230;Pesqueira;PE
+3762;853634;Petrolândia;PE
+3763;139193;Petrolândia;SC
+3764;5533900;Petrolina;PE
+3765;128068;Petrolina de Goiás;GO
+3766;11221042;Petrópolis;RJ
+3767;190117;Piaçabuçu;AL
+3768;78160;Piacatu;SP
+3769;163599;Piancó;PB
+3770;117539;Piatã;BA
+3771;54666;Piau;MG
+3772;306322;Picada Café;RS
+3773;182178;Piçarra;PA
+3774;1233058;Picos;PI
+3775;157198;Picuí;PB
+3776;1135248;Piedade;SP
+3777;78654;Piedade de Caratinga;MG
+3778;41888;Piedade de Ponte Nova;MG
+3779;66908;Piedade do Rio Grande;MG
+3780;57545;Piedade dos Gerais;MG
+3781;682655;Piên;PR
+3782;197106;Pilão Arcado;BA
+3783;437843;Pilar;AL
+3784;79249;Pilar;PB
+3785;175235;Pilar de Goiás;GO
+3786;541573;Pilar do Sul;SP
+3787;57356;Pilões;PB
+3788;32118;Pilões;RN
+3789;40132;Pilõezinhos;PB
+3790;154025;Pimenta;MG
+3791;910491;Pimenta Bueno;RO
+3792;67347;Pimenteiras;PI
+3793;79712;Pimenteiras do Oeste;RO
+3794;98740;Pindaí;BA
+3795;6640810;Pindamonhangaba;SP
+3796;373289;Pindaré-Mirim;MA
+3797;25755;Pindoba;AL
+3798;123573;Pindobaçu;BA
+3799;286573;Pindorama;SP
+3800;44239;Pindorama do Tocantins;TO
+3801;185468;Pindoretama;CE
+3802;36356;Pingo d'Água;MG
+3803;5090638;Pinhais;PR
+3804;64449;Pinhal;RS
+3805;384083;Pinhal da Serra;RS
+3806;40604;Pinhal de São Bento;PR
+3807;396139;Pinhal Grande;RS
+3808;148664;Pinhalão;PR
+3809;885289;Pinhalzinho;SC
+3810;227249;Pinhalzinho;SP
+3811;1240017;Pinhão;PR
+3812;58594;Pinhão;SE
+3813;323954;Pinheiral;RJ
+3814;73851;Pinheirinho do Vale;RS
+3815;682309;Pinheiro;MA
+3816;253229;Pinheiro Machado;RS
+3817;139203;Pinheiro Preto;SC
+3818;405037;Pinheiros;ES
+3819;73229;Pintadas;BA
+3820;46929;Pinto Bandeira;RS
+3821;53612;Pintópolis;MG
+3822;130502;Pio IX;PI
+3823;135991;Pio XII;MA
+3824;54377;Piquerobi;SP
+3825;105521;Piquet Carneiro;CE
+3826;144086;Piquete;SP
+3827;441545;Piracaia;SP
+3828;640089;Piracanjuba;GO
+3829;95815;Piracema;MG
+3830;21644884;Piracicaba;SP
+3831;220705;Piracuruca;PI
+3832;1718230;Piraí;RJ
+3833;61037;Piraí do Norte;BA
+3834;645056;Piraí do Sul;PR
+3835;557321;Piraju;SP
+3836;225403;Pirajuba;MG
+3837;336209;Pirajuí;SP
+3838;95311;Pirambu;SE
+3839;133971;Piranga;MG
+3840;215623;Pirangi;SP
+3841;48782;Piranguçu;MG
+3842;92272;Piranguinho;MG
+3843;179770;Piranhas;AL
+3844;367930;Piranhas;GO
+3845;93144;Pirapemas;MA
+3846;425260;Pirapetinga;MG
+3847;49895;Pirapó;RS
+3848;1508083;Pirapora;MG
+3849;371896;Pirapora do Bom Jesus;SP
+3850;742806;Pirapozinho;SP
+3851;1056835;Piraquara;PR
+3852;47242;Piraquê;TO
+3853;2333348;Pirassununga;SP
+3854;319331;Piratini;RS
+3855;184854;Piratininga;SP
+3856;718057;Piratuba;SC
+3857;138886;Piraúba;MG
+3858;373758;Pirenópolis;GO
+3859;743603;Pires do Rio;GO
+3860;44269;Pires Ferreira;CE
+3861;63960;Piripá;BA
+3862;586284;Piripiri;PI
+3863;137798;Piritiba;BA
+3864;73257;Pirpirituba;PB
+3865;706385;Pitanga;PR
+3866;71156;Pitangueiras;PR
+3867;888461;Pitangueiras;SP
+3868;404495;Pitangui;MG
+3869;153236;Pitimbu;PB
+3870;115697;Pium;TO
+3871;501187;Piúma;ES
+3872;705238;Piumhi;MG
+3873;227404;Placas;PA
+3874;252562;Plácido de Castro;AC
+3875;917297;Planaltina;GO
+3876;87641;Planaltina do Paraná;PR
+3877;56432;Planaltino;BA
+3878;239952;Planalto;BA
+3879;259269;Planalto;PR
+3880;167388;Planalto;RS
+3881;228451;Planalto;SP
+3882;56628;Planalto Alegre;SC
+3883;53481;Planalto da Serra;MT
+3884;383853;Planura;MG
+3885;65866;Platina;SP
+3886;4393670;Poá;SP
+3887;74179;Poção;PE
+3888;119205;Poção de Pedras;MA
+3889;206368;Pocinhos;PB
+3890;93389;Poço Branco;RN
+3891;27050;Poço Dantas;PB
+3892;62783;Poço das Antas;RS
+3893;78952;Poço das Trincheiras;AL
+3894;36071;Poço de José de Moura;PB
+3895;236101;Poço Fundo;MG
+3896;244653;Poço Redondo;SE
+3897;225284;Poço Verde;SE
+3898;443359;Poções;BA
+3899;438787;Poconé;MT
+3900;6503682;Poços de Caldas;MG
+3901;77611;Pocrane;MG
+3902;957128;Pojuca;BA
+3903;109228;Poloni;SP
+3904;338868;Pombal;PB
+3905;311259;Pombos;PE
+3906;1767466;Pomerode;SC
+3907;995488;Pompéia;SP
+3908;616109;Pompéu;MG
+3909;56605;Pongaí;SP
+3910;188368;Ponta de Pedras;PA
+3911;11805539;Ponta Grossa;PR
+3912;2254980;Ponta Porã;MS
+3913;861307;Pontal;SP
+3914;71250;Pontal do Araguaia;MT
+3915;425754;Pontal do Paraná;PR
+3916;416907;Pontalina;GO
+3917;60002;Pontalinda;SP
+3918;206712;Pontão;RS
+3919;97529;Ponte Alta;SC
+3920;41089;Ponte Alta do Bom Jesus;TO
+3921;73938;Ponte Alta do Norte;SC
+3922;69679;Ponte Alta do Tocantins;TO
+3923;28656;Ponte Branca;MT
+3924;1389884;Ponte Nova;MG
+3925;43705;Ponte Preta;RS
+3926;205564;Ponte Serrada;SC
+3927;1153231;Pontes e Lacerda;MT
+3928;125184;Pontes Gestal;SP
+3929;79734;Ponto Belo;ES
+3930;34777;Ponto Chique;MG
+3931;84483;Ponto dos Volantes;MG
+3932;104874;Ponto Novo;BA
+3933;72772;Populina;SP
+3934;66543;Poranga;CE
+3935;149234;Porangaba;SP
+3936;832622;Porangatu;GO
+3937;315968;Porciúncula;RJ
+3938;544696;Porecatu;PR
+3939;53364;Portalegre;RN
+3940;1140908;Portão;RS
+3941;159270;Porteirão;GO
+3942;106692;Porteiras;CE
+3943;300378;Porteirinha;MG
+3944;448683;Portel;PA
+3945;169066;Portelândia;GO
+3946;71713;Porto;PI
+3947;213122;Porto Acre;AC
+3948;68117224;Porto Alegre;RS
+3949;174095;Porto Alegre do Norte;MT
+3950;19881;Porto Alegre do Piauí;PI
+3951;27091;Porto Alegre do Tocantins;TO
+3952;92134;Porto Amazonas;PR
+3953;78944;Porto Barreiro;PR
+3954;857361;Porto Belo;SC
+3955;254159;Porto Calvo;AL
+3956;224856;Porto da Folha;SE
+3957;218783;Porto de Moz;PA
+3958;83211;Porto de Pedras;AL
+3959;123322;Porto do Mangue;RN
+3960;271435;Porto dos Gaúchos;MT
+3961;174932;Porto Esperidião;MT
+3962;49228;Porto Estrela;MT
+3963;1564988;Porto Feliz;SP
+3964;1732691;Porto Ferreira;SP
+3965;85786;Porto Firme;MG
+3966;421641;Porto Franco;MA
+3967;292899;Porto Grande;AP
+3968;87967;Porto Lucena;RS
+3969;50737;Porto Mauá;RS
+3970;291671;Porto Murtinho;MS
+3971;1373661;Porto Nacional;TO
+3972;2732057;Porto Real;RJ
+3973;144655;Porto Real do Colégio;AL
+3974;54410;Porto Rico;PR
+3975;34073;Porto Rico do Maranhão;MA
+3976;2297998;Porto Seguro;BA
+3977;569271;Porto União;SC
+3978;13946784;Porto Velho;RO
+3979;29553;Porto Vera Cruz;RS
+3980;59583;Porto Vitória;PR
+3981;98004;Porto Walter;AC
+3982;143039;Porto Xavier;RS
+3983;434654;Posse;GO
+3984;125460;Poté;MG
+3985;80665;Potengi;CE
+3986;191557;Potim;SP
+3987;80262;Potiraguá;BA
+3988;453740;Potirendaba;SP
+3989;43373;Potiretama;CE
+3990;6554233;Pouso Alegre;MG
+3991;128636;Pouso Alto;MG
+3992;37829;Pouso Novo;RS
+3993;447315;Pouso Redondo;SC
+3994;483071;Poxoréu;MT
+3995;25902;Pracinha;SP
+3996;55657;Pracuúba;AP
+3997;424027;Prado;BA
+3998;101254;Prado Ferreira;PR
+3999;335943;Pradópolis;SP
+4000;128094;Prados;MG
+4001;128302;Praia Grande;SC
+4002;6374523;Praia Grande;SP
+4003;59167;Praia Norte;TO
+4004;220819;Prainha;PA
+4005;163152;Pranchita;PR
+4006;824479;Prata;MG
+4007;35562;Prata;PB
+4008;19586;Prata do Piauí;PI
+4009;78374;Pratânia;SP
+4010;138860;Pratápolis;MG
+4011;71507;Pratinha;MG
+4012;68907;Presidente Alves;SP
+4013;40947;Presidente Bernardes;MG
+4014;233916;Presidente Bernardes;SP
+4015;43265;Presidente Castello Branco;SC
+4016;103461;Presidente Castelo Branco;PR
+4017;94461;Presidente Dutra;BA
+4018;453363;Presidente Dutra;MA
+4019;985556;Presidente Epitácio;SP
+4020;760558;Presidente Figueiredo;AM
+4021;498648;Presidente Getúlio;SC
+4022;71301;Presidente Jânio Quadros;BA
+4023;81800;Presidente Juscelino;MA
+4024;43245;Presidente Juscelino;MG
+4025;5803035;Presidente Kennedy;ES
+4026;45696;Presidente Kennedy;TO
+4027;23662;Presidente Kubitschek;MG
+4028;101286;Presidente Lucena;RS
+4029;40916;Presidente Médici;MA
+4030;363385;Presidente Médici;RO
+4031;44742;Presidente Nereu;SC
+4032;357932;Presidente Olegário;MG
+4033;6847376;Presidente Prudente;SP
+4034;126398;Presidente Sarney;MA
+4035;195819;Presidente Tancredo Neves;BA
+4036;55314;Presidente Vargas;MA
+4037;682581;Presidente Venceslau;SP
+4038;82370;Primavera;PA
+4039;138802;Primavera;PE
+4040;53455;Primavera de Rondônia;RO
+4041;3145819;Primavera do Leste;MT
+4042;68629;Primeira Cruz;MA
+4043;254342;Primeiro de Maio;PR
+4044;52505;Princesa;SC
+4045;184267;Princesa Isabel;PB
+4046;56336;Professor Jamil;GO
+4047;107883;Progresso;RS
+4048;1487765;Promissão;SP
+4049;452097;Propriá;SE
+4050;50517;Protásio Alves;RS
+4051;130449;Prudente de Morais;MG
+4052;931618;Prudentópolis;PR
+4053;44438;Pugmil;TO
+4054;70803;Pureza;RN
+4055;88047;Putinga;RS
+4056;87663;Puxinanã;PB
+4057;94746;Quadra;SP
+4058;406121;Quaraí;RS
+4059;41222;Quartel Geral;MG
+4060;189647;Quarto Centenário;PR
+4061;393934;Quatá;SP
+4062;158419;Quatiguá;PR
+4063;75773;Quatipuru;PA
+4064;241496;Quatis;RJ
+4065;1163438;Quatro Barras;PR
+4066;100513;Quatro Irmãos;RS
+4067;141646;Quatro Pontes;PR
+4068;85737;Quebrangulo;AL
+4069;1127042;Quedas do Iguaçu;PR
+4070;57534;Queimada Nova;PI
+4071;196324;Queimadas;BA
+4072;414058;Queimadas;PB
+4073;4851828;Queimados;RJ
+4074;395546;Queiroz;SP
+4075;210362;Queluz;SP
+4076;24481;Queluzito;MG
+4077;1173196;Querência;MT
+4078;188577;Querência do Norte;PR
+4079;131838;Quevedos;RS
+4080;189468;Quijingue;BA
+4081;348245;Quilombo;SC
+4082;146741;Quinta do Sol;PR
+4083;129088;Quintana;SP
+4084;128497;Quinze de Novembro;RS
+4085;170319;Quipapá;PE
+4086;1373730;Quirinópolis;GO
+4087;2416535;Quissamã;RJ
+4088;312169;Quitandinha;PR
+4089;124291;Quiterianópolis;CE
+4090;18108;Quixaba;PB
+4091;41127;Quixaba;PE
+4092;58403;Quixabeira;BA
+4093;893557;Quixadá;CE
+4094;107218;Quixelô;CE
+4095;754877;Quixeramobim;CE
+4096;385948;Quixeré;CE
+4097;38474;Rafael Fernandes;RN
+4098;23743;Rafael Godeiro;RN
+4099;199673;Rafael Jambeiro;BA
+4100;260312;Rafard;SP
+4101;76244;Ramilândia;PR
+4102;982980;Rancharia;SP
+4103;91024;Rancho Alegre;PR
+4104;118963;Rancho Alegre D'Oeste;PR
+4105;100754;Rancho Queimado;SC
+4106;191809;Raposa;MA
+4107;140860;Raposos;MG
+4108;261347;Raul Soares;MG
+4109;526951;Realeza;PR
+4110;303449;Rebouças;PR
+4111;48032463;Recife;PE
+4112;85595;Recreio;MG
+4113;38086;Recursolândia;TO
+4114;268448;Redenção;CE
+4115;1449958;Redenção;PA
+4116;51258;Redenção da Serra;SP
+4117;60583;Redenção do Gurguéia;PI
+4118;143009;Redentora;RS
+4119;78371;Reduto;MG
+4120;134500;Regeneração;PI
+4121;572119;Regente Feijó;SP
+4122;97254;Reginópolis;SP
+4123;1697609;Registro;SP
+4124;47065;Relvado;RS
+4125;308047;Remanso;BA
+4126;151695;Remígio;PB
+4127;219430;Renascença;PR
+4128;140149;Reriutaba;CE
+4129;6302521;Resende;RJ
+4130;120399;Resende Costa;MG
+4131;526854;Reserva;PR
+4132;199647;Reserva do Cabaçal;MT
+4133;122454;Reserva do Iguaçu;PR
+4134;226228;Resplendor;MG
+4135;163952;Ressaquinha;MG
+4136;151225;Restinga;SP
+4137;381598;Restinga Sêca;RS
+4138;107608;Retirolândia;BA
+4139;267419;Riachão;MA
+4140;26394;Riachão;PB
+4141;731632;Riachão das Neves;BA
+4142;36931;Riachão do Bacamarte;PB
+4143;179950;Riachão do Dantas;SE
+4144;280234;Riachão do Jacuípe;BA
+4145;38433;Riachão do Poço;PB
+4146;85117;Riachinho;MG
+4147;41612;Riachinho;TO
+4148;26377;Riacho da Cruz;RN
+4149;155000;Riacho das Almas;PE
+4150;219662;Riacho de Santana;BA
+4151;31235;Riacho de Santana;RN
+4152;19091;Riacho de Santo Antônio;PB
+4153;62114;Riacho dos Cavalos;PB
+4154;131713;Riacho dos Machados;MG
+4155;31031;Riacho Frio;PI
+4156;55957;Riachuelo;RN
+4157;156654;Riachuelo;SE
+4158;191714;Rialma;GO
+4159;94484;Rianápolis;GO
+4160;66375;Ribamar Fiquene;MA
+4161;876093;Ribas do Rio Pardo;MS
+4162;43370;Ribeira;SP
+4163;109710;Ribeira do Amparo;BA
+4164;24194;Ribeira do Piauí;PI
+4165;480204;Ribeira do Pombal;BA
+4166;366821;Ribeirão;PE
+4167;209136;Ribeirão Bonito;SP
+4168;368785;Ribeirão Branco;SP
+4169;247084;Ribeirão Cascalheira;MT
+4170;359157;Ribeirão Claro;PR
+4171;73357;Ribeirão Corrente;SP
+4172;3469745;Ribeirão das Neves;MG
+4173;89057;Ribeirão do Largo;BA
+4174;188652;Ribeirão do Pinhal;PR
+4175;121229;Ribeirão do Sul;SP
+4176;33891;Ribeirão dos Índios;SP
+4177;221302;Ribeirão Grande;SP
+4178;2813436;Ribeirão Pires;SP
+4179;27809706;Ribeirão Preto;SP
+4180;82443;Ribeirão Vermelho;MG
+4181;82648;Ribeirãozinho;MT
+4182;245173;Ribeiro Gonçalves;PI
+4183;233929;Ribeirópolis;SE
+4184;91831;Rifaina;SP
+4185;161086;Rincão;SP
+4186;243948;Rinópolis;SP
+4187;138667;Rio Acima;MG
+4188;468666;Rio Azul;PR
+4189;384909;Rio Bananal;ES
+4190;59780;Rio Bom;PR
+4191;1471667;Rio Bonito;RJ
+4192;231595;Rio Bonito do Iguaçu;PR
+4193;8266473;Rio Branco;AC
+4194;70847;Rio Branco;MT
+4195;78176;Rio Branco do Ivaí;PR
+4196;1175426;Rio Branco do Sul;PR
+4197;1682083;Rio Brilhante;MS
+4198;171603;Rio Casca;MG
+4199;325951;Rio Claro;RJ
+4200;8531051;Rio Claro;SP
+4201;78352;Rio Crespo;RO
+4202;16762;Rio da Conceição;TO
+4203;145764;Rio das Antas;SC
+4204;180144;Rio das Flores;RJ
+4205;8635755;Rio das Ostras;RJ
+4206;1028008;Rio das Pedras;SP
+4207;106247;Rio de Contas;BA
+4208;320774459;Rio de Janeiro;RJ
+4209;91569;Rio do Antônio;BA
+4210;137198;Rio do Campo;SC
+4211;110945;Rio do Fogo;RN
+4212;167941;Rio do Oeste;SC
+4213;72792;Rio do Pires;BA
+4214;38148;Rio do Prado;MG
+4215;2345506;Rio do Sul;SC
+4216;25389;Rio Doce;MG
+4217;37061;Rio dos Bois;TO
+4218;259249;Rio dos Cedros;SC
+4219;74220;Rio dos Índios;RS
+4220;39332;Rio Espera;MG
+4221;245494;Rio Formoso;PE
+4222;229261;Rio Fortuna;SC
+4223;7274580;Rio Grande;RS
+4224;533254;Rio Grande da Serra;SP
+4225;40109;Rio Grande do Piauí;PI
+4226;854864;Rio Largo;AL
+4227;69225;Rio Manso;MG
+4228;361687;Rio Maria;PA
+4229;996921;Rio Negrinho;SC
+4230;91812;Rio Negro;MS
+4231;967107;Rio Negro;PR
+4232;101000;Rio Novo;MG
+4233;192548;Rio Novo do Sul;ES
+4234;465942;Rio Paranaíba;MG
+4235;827565;Rio Pardo;RS
+4236;220655;Rio Pardo de Minas;MG
+4237;354837;Rio Piracicaba;MG
+4238;270697;Rio Pomba;MG
+4239;54372;Rio Preto;MG
+4240;443722;Rio Preto da Eva;AM
+4241;257052;Rio Quente;GO
+4242;693745;Rio Real;BA
+4243;41339;Rio Rufino;SC
+4244;53413;Rio Sono;TO
+4245;228838;Rio Tinto;PB
+4246;8078600;Rio Verde;GO
+4247;400195;Rio Verde de Mato Grosso;MS
+4248;103595;Rio Vermelho;MG
+4249;166715;Riolândia;SP
+4250;111212;Riozinho;RS
+4251;84944;Riqueza;SC
+4252;53273;Ritápolis;MG
+4253;54707;Riversul;SP
+4254;421060;Roca Sales;RS
+4255;139886;Rochedo;MS
+4256;22930;Rochedo de Minas;MG
+4257;249860;Rodeio;SC
+4258;143010;Rodeio Bonito;RS
+4259;279996;Rodeiro;MG
+4260;90995;Rodelas;BA
+4261;33956;Rodolfo Fernandes;RN
+4262;166925;Rodrigues Alves;AC
+4263;75006;Rolador;RS
+4264;2294628;Rolândia;PR
+4265;514157;Rolante;RS
+4266;1108800;Rolim de Moura;RO
+4267;117482;Romaria;MG
+4268;71860;Romelândia;SC
+4269;332308;Roncador;PR
+4270;261858;Ronda Alta;RS
+4271;163700;Rondinha;RS
+4272;64960;Rondolândia;MT
+4273;285027;Rondon;PR
+4274;483410;Rondon do Pará;PA
+4275;8358255;Rondonópolis;MT
+4276;572688;Roque Gonzales;RS
+4277;479388;Rorainópolis;RR
+4278;1709697;Rosana;SP
+4279;277393;Rosário;MA
+4280;41284;Rosário da Limeira;MG
+4281;650935;Rosário do Catete;SE
+4282;81843;Rosário do Ivaí;PR
+4283;847221;Rosário do Sul;RS
+4284;263152;Rosário Oeste;MT
+4285;233517;Roseira;SP
+4286;88937;Roteiro;AL
+4287;49263;Rubelita;MG
+4288;48689;Rubiácea;SP
+4289;336395;Rubiataba;GO
+4290;80342;Rubim;MG
+4291;58401;Rubinéia;SP
+4292;283099;Rurópolis;PA
+4293;903468;Russas;CE
+4294;266437;Ruy Barbosa;BA
+4295;28072;Ruy Barbosa;RN
+4296;2197456;Sabará;MG
+4297;368485;Sabáudia;PR
+4298;95745;Sabino;SP
+4299;151073;Sabinópolis;MG
+4300;86105;Saboeiro;CE
+4301;1191712;Sacramento;MG
+4302;54415;Sagrada Família;RS
+4303;37651;Sagres;SP
+4304;135806;Sairé;PE
+4305;119213;Saldanha Marinho;RS
+4306;104212;Sales;SP
+4307;285576;Sales Oliveira;SP
+4308;193193;Salesópolis;SP
+4309;164078;Salete;SC
+4310;23991;Salgadinho;PB
+4311;51595;Salgadinho;PE
+4312;167059;Salgado;SE
+4313;95591;Salgado de São Félix;PB
+4314;90297;Salgado Filho;PR
+4315;744427;Salgueiro;PE
+4316;531520;Salinas;MG
+4317;157188;Salinas da Margarida;BA
+4318;349185;Salinópolis;PA
+4319;99260;Salitre;CE
+4320;60282;Salmourão;SP
+4321;109995;Saloá;PE
+4322;58306;Saltinho;SC
+4323;193067;Saltinho;SP
+4324;5598539;Salto;SP
+4325;88936;Salto da Divisa;MG
+4326;1406400;Salto de Pirapora;SP
+4327;54987;Salto do Céu;MT
+4328;84542;Salto do Itararé;PR
+4329;470993;Salto do Jacuí;RS
+4330;303198;Salto do Lontra;PR
+4331;180101;Salto Grande;SP
+4332;171156;Salto Veloso;SC
+4333;57872793;Salvador;BA
+4334;98844;Salvador das Missões;RS
+4335;270072;Salvador do Sul;RS
+4336;144198;Salvaterra;PA
+4337;217307;Sambaíba;MA
+4338;31403;Sampaio;TO
+4339;461120;Sananduva;RS
+4340;120993;Sanclerlândia;GO
+4341;59954;Sandolândia;TO
+4342;372941;Sandovalina;SP
+4343;250128;Sangão;SC
+4344;168548;Sanharó;PE
+4345;281363;Santa Adélia;SP
+4346;161655;Santa Albertina;SP
+4347;64173;Santa Amélia;PR
+4348;150647;Santa Bárbara;BA
+4349;697703;Santa Bárbara;MG
+4350;95527;Santa Bárbara de Goiás;GO
+4351;69352;Santa Bárbara do Leste;MG
+4352;41955;Santa Bárbara do Monte Verde;MG
+4353;129470;Santa Bárbara do Pará;PA
+4354;544747;Santa Bárbara do Sul;RS
+4355;50506;Santa Bárbara do Tugúrio;MG
+4356;5280768;Santa Bárbara d'Oeste;SP
+4357;244065;Santa Branca;SP
+4358;89509;Santa Brígida;BA
+4359;218908;Santa Carmem;MT
+4360;52541;Santa Cecília;PB
+4361;391722;Santa Cecília;SC
+4362;96652;Santa Cecília do Pavão;PR
+4363;64646;Santa Cecília do Sul;RS
+4364;218271;Santa Clara do Sul;RS
+4365;43193;Santa Clara d'Oeste;SP
+4366;45673;Santa Cruz;PB
+4367;91199;Santa Cruz;PE
+4368;413499;Santa Cruz;RN
+4369;300045;Santa Cruz Cabrália;BA
+4370;70395;Santa Cruz da Baixa Verde;PE
+4371;125304;Santa Cruz da Conceição;SP
+4372;37650;Santa Cruz da Esperança;SP
+4373;51243;Santa Cruz da Vitória;BA
+4374;413688;Santa Cruz das Palmeiras;SP
+4375;99871;Santa Cruz de Goiás;GO
+4376;80673;Santa Cruz de Minas;MG
+4377;198484;Santa Cruz de Monte Castelo;PR
+4378;34437;Santa Cruz de Salinas;MG
+4379;61438;Santa Cruz do Arari;PA
+4380;1246845;Santa Cruz do Capibaribe;PE
+4381;39729;Santa Cruz do Escalvado;MG
+4382;41229;Santa Cruz do Piauí;PI
+4383;1682934;Santa Cruz do Rio Pardo;SP
+4384;7764848;Santa Cruz do Sul;RS
+4385;72275;Santa Cruz do Xingu;MT
+4386;27163;Santa Cruz dos Milagres;PI
+4387;33655;Santa Efigênia de Minas;MG
+4388;80435;Santa Ernestina;SP
+4389;221728;Santa Fé;PR
+4390;235354;Santa Fé de Goiás;GO
+4391;34853;Santa Fé de Minas;MG
+4392;91922;Santa Fé do Araguaia;TO
+4393;932778;Santa Fé do Sul;SP
+4394;75100;Santa Filomena;PE
+4395;203439;Santa Filomena;PI
+4396;40297;Santa Filomena do Maranhão;MA
+4397;1633398;Santa Gertrudes;SP
+4398;223580;Santa Helena;MA
+4399;43071;Santa Helena;PB
+4400;775483;Santa Helena;PR
+4401;54416;Santa Helena;SC
+4402;878487;Santa Helena de Goiás;GO
+4403;39636;Santa Helena de Minas;MG
+4404;65024;Santa Inês;BA
+4405;1144137;Santa Inês;MA
+4406;25483;Santa Inês;PB
+4407;32784;Santa Inês;PR
+4408;68399;Santa Isabel;GO
+4409;1514766;Santa Isabel;SP
+4410;155379;Santa Isabel do Ivaí;PR
+4411;153049;Santa Isabel do Rio Negro;AM
+4412;262342;Santa Izabel do Oeste;PR
+4413;611461;Santa Izabel do Pará;PA
+4414;667384;Santa Juliana;MG
+4415;172832;Santa Leopoldina;ES
+4416;91851;Santa Lúcia;PR
+4417;93732;Santa Lúcia;SP
+4418;36767;Santa Luz;PI
+4419;106257;Santa Luzia;BA
+4420;468395;Santa Luzia;MA
+4421;3244893;Santa Luzia;MG
+4422;165732;Santa Luzia;PB
+4423;166786;Santa Luzia do Itanhy;SE
+4424;108732;Santa Luzia do Norte;AL
+4425;139023;Santa Luzia do Pará;PA
+4426;211001;Santa Luzia do Paruá;MA
+4427;136040;Santa Luzia D'Oeste;RO
+4428;227258;Santa Margarida;MG
+4429;181539;Santa Margarida do Sul;RS
+4430;58085;Santa Maria;RN
+4431;6357789;Santa Maria;RS
+4432;471365;Santa Maria da Boa Vista;PE
+4433;133591;Santa Maria da Serra;SP
+4434;387669;Santa Maria da Vitória;BA
+4435;250931;Santa Maria das Barreiras;PA
+4436;133292;Santa Maria de Itabira;MG
+4437;1046341;Santa Maria de Jetibá;ES
+4438;84935;Santa Maria do Cambucá;PE
+4439;209055;Santa Maria do Herval;RS
+4440;152723;Santa Maria do Oeste;PR
+4441;204528;Santa Maria do Pará;PA
+4442;37155;Santa Maria do Salto;MG
+4443;116971;Santa Maria do Suaçuí;MG
+4444;45456;Santa Maria do Tocantins;TO
+4445;157567;Santa Maria Madalena;RJ
+4446;297041;Santa Mariana;PR
+4447;49265;Santa Mercedes;SP
+4448;60915;Santa Mônica;PR
+4449;366537;Santa Quitéria;CE
+4450;139641;Santa Quitéria do Maranhão;MA
+4451;241208;Santa Rita;MA
+4452;2180152;Santa Rita;PB
+4453;148006;Santa Rita de Caldas;MG
+4454;201186;Santa Rita de Cássia;BA
+4455;35723;Santa Rita de Ibitipoca;MG
+4456;50507;Santa Rita de Jacutinga;MG
+4457;78085;Santa Rita de Minas;MG
+4458;139885;Santa Rita do Araguaia;GO
+4459;88510;Santa Rita do Itueto;MG
+4460;61045;Santa Rita do Novo Destino;GO
+4461;238991;Santa Rita do Pardo;MS
+4462;595778;Santa Rita do Passa Quatro;SP
+4463;1427485;Santa Rita do Sapucaí;MG
+4464;45959;Santa Rita do Tocantins;TO
+4465;379372;Santa Rita do Trivelato;MT
+4466;49724;Santa Rita d'Oeste;SP
+4467;2407444;Santa Rosa;RS
+4468;43919;Santa Rosa da Serra;MG
+4469;39367;Santa Rosa de Goiás;GO
+4470;48827;Santa Rosa de Lima;SC
+4471;44521;Santa Rosa de Lima;SE
+4472;789831;Santa Rosa de Viterbo;SP
+4473;31678;Santa Rosa do Piauí;PI
+4474;58169;Santa Rosa do Purus;AC
+4475;112596;Santa Rosa do Sul;SC
+4476;109497;Santa Rosa do Tocantins;TO
+4477;22870;Santa Salete;SP
+4478;403819;Santa Teresa;ES
+4479;37646;Santa Teresinha;PB
+4480;36604;Santa Tereza;RS
+4481;54328;Santa Tereza de Goiás;GO
+4482;309565;Santa Tereza do Oeste;PR
+4483;24686;Santa Tereza do Tocantins;TO
+4484;67966;Santa Terezinha;BA
+4485;98126;Santa Terezinha;MT
+4486;66599;Santa Terezinha;PE
+4487;162638;Santa Terezinha;SC
+4488;124366;Santa Terezinha de Goiás;GO
+4489;516812;Santa Terezinha de Itaipu;PR
+4490;41508;Santa Terezinha do Progresso;SC
+4491;26799;Santa Terezinha do Tocantins;TO
+4492;593337;Santa Vitória;MG
+4493;834362;Santa Vitória do Palmar;RS
+4494;291344;Santaluz;BA
+4495;1990899;Santana;AP
+4496;207880;Santana;BA
+4497;166135;Santana da Boa Vista;RS
+4498;26218;Santana da Ponte Pensa;SP
+4499;114288;Santana da Vargem;MG
+4500;44734;Santana de Cataguases;MG
+4501;37809;Santana de Mangueira;PB
+4502;7832605;Santana de Parnaíba;SP
+4503;80791;Santana de Pirapama;MG
+4504;184352;Santana do Acaraú;CE
+4505;688109;Santana do Araguaia;PA
+4506;107438;Santana do Cariri;CE
+4507;35718;Santana do Deserto;MG
+4508;24781;Santana do Garambéu;MG
+4509;477562;Santana do Ipanema;AL
+4510;83841;Santana do Itararé;PR
+4511;67041;Santana do Jacaré;MG
+4512;1901220;Sant'Ana do Livramento;RS
+4513;85447;Santana do Manhuaçu;MG
+4514;53936;Santana do Maranhão;MA
+4515;118577;Santana do Matos;RN
+4516;385080;Santana do Mundaú;AL
+4517;471771;Santana do Paraíso;MG
+4518;28152;Santana do Piauí;PI
+4519;50670;Santana do Riacho;MG
+4520;55414;Santana do São Francisco;SE
+4521;32047;Santana do Seridó;RN
+4522;48818;Santana dos Garrotes;PB
+4523;32306;Santana dos Montes;MG
+4524;56214;Santanópolis;BA
+4525;3980292;Santarém;PA
+4526;39971;Santarém Novo;PA
+4527;1087186;Santiago;RS
+4528;29957;Santiago do Sul;SC
+4529;58388;Santo Afonso;MT
+4530;691285;Santo Amaro;BA
+4531;654833;Santo Amaro da Imperatriz;SC
+4532;115339;Santo Amaro das Brotas;SE
+4533;66108;Santo Amaro do Maranhão;MA
+4534;381155;Santo Anastácio;SP
+4535;21499;Santo André;PB
+4536;26240885;Santo André;SP
+4537;2033582;Santo Ângelo;RS
+4538;190416;Santo Antônio;RN
+4539;123795;Santo Antônio da Alegria;SP
+4540;146202;Santo Antônio da Barra;GO
+4541;1063059;Santo Antônio da Patrulha;RS
+4542;977726;Santo Antônio da Platina;PR
+4543;278499;Santo Antônio das Missões;RS
+4544;130063;Santo Antônio de Goiás;GO
+4545;1882647;Santo Antônio de Jesus;BA
+4546;46578;Santo Antônio de Lisboa;PI
+4547;1015713;Santo Antônio de Pádua;RJ
+4548;813300;Santo Antônio de Posse;SP
+4549;220383;Santo Antônio do Amparo;MG
+4550;215499;Santo Antônio do Aracanguá;SP
+4551;36838;Santo Antônio do Aventureiro;MG
+4552;40492;Santo Antônio do Caiuá;PR
+4553;572101;Santo Antônio do Descoberto;GO
+4554;53431;Santo Antônio do Grama;MG
+4555;149538;Santo Antônio do Içá;AM
+4556;30988;Santo Antônio do Itambé;MG
+4557;76810;Santo Antônio do Jacinto;MG
+4558;130960;Santo Antônio do Jardim;SP
+4559;300312;Santo Antônio do Leste;MT
+4560;445304;Santo Antônio do Leverger;MT
+4561;446998;Santo Antônio do Monte;MG
+4562;70591;Santo Antônio do Palma;RS
+4563;61807;Santo Antônio do Paraíso;PR
+4564;91450;Santo Antônio do Pinhal;SP
+4565;90976;Santo Antônio do Planalto;RS
+4566;46815;Santo Antônio do Retiro;MG
+4567;20120;Santo Antônio do Rio Abaixo;MG
+4568;414508;Santo Antônio do Sudoeste;PR
+4569;297028;Santo Antônio do Tauá;PA
+4570;933361;Santo Antônio dos Lopes;MA
+4571;12012;Santo Antônio dos Milagres;PI
+4572;466451;Santo Augusto;RS
+4573;429513;Santo Cristo;RS
+4574;582571;Santo Estêvão;BA
+4575;30878;Santo Expedito;SP
+4576;62039;Santo Expedito do Sul;RS
+4577;38136;Santo Hipólito;MG
+4578;272692;Santo Inácio;PR
+4579;24061;Santo Inácio do Piauí;PI
+4580;56954;Santópolis do Aguapeí;SP
+4581;19965592;Santos;SP
+4582;845706;Santos Dumont;MG
+4583;378749;São Benedito;CE
+4584;88965;São Benedito do Rio Preto;MA
+4585;79336;São Benedito do Sul;PE
+4586;37318;São Bentinho;PB
+4587;229656;São Bento;MA
+4588;341740;São Bento;PB
+4589;57686;São Bento Abade;MG
+4590;76776;São Bento do Norte;RN
+4591;173239;São Bento do Sapucaí;SP
+4592;2875186;São Bento do Sul;SC
+4593;43836;São Bento do Tocantins;TO
+4594;34878;São Bento do Trairí;RN
+4595;783915;São Bento do Una;PE
+4596;50345;São Bernardino;SC
+4597;230478;São Bernardo;MA
+4598;42745533;São Bernardo do Campo;SP
+4599;51300;São Bonifácio;SC
+4600;1612680;São Borja;RS
+4601;53813;São Brás;AL
+4602;65889;São Brás do Suaçuí;MG
+4603;26611;São Braz do Piauí;PI
+4604;114411;São Caetano de Odivelas;PA
+4605;13302120;São Caetano do Sul;SP
+4606;315077;São Caitano;PE
+4607;271676;São Carlos;SC
+4608;9760683;São Carlos;SP
+4609;235567;São Carlos do Ivaí;PR
+4610;862198;São Cristóvão;SE
+4611;115247;São Cristóvão do Sul;SC
+4612;2716777;São Desidério;BA
+4613;67636;São Domingos;BA
+4614;135865;São Domingos;GO
+4615;23004;São Domingos;PB
+4616;280679;São Domingos;SC
+4617;125569;São Domingos;SE
+4618;60044;São Domingos das Dores;MG
+4619;213206;São Domingos do Araguaia;PA
+4620;153720;São Domingos do Azeitão;MA
+4621;241995;São Domingos do Capim;PA
+4622;20753;São Domingos do Cariri;PB
+4623;268083;São Domingos do Maranhão;MA
+4624;196310;São Domingos do Norte;ES
+4625;190195;São Domingos do Prata;MG
+4626;59396;São Domingos do Sul;RS
+4627;173392;São Felipe;BA
+4628;78340;São Felipe D'Oeste;RO
+4629;164860;São Félix;BA
+4630;36430;São Félix de Balsas;MA
+4631;30145;São Félix de Minas;MG
+4632;472487;São Félix do Araguaia;MT
+4633;138975;São Félix do Coribe;BA
+4634;21050;São Félix do Piauí;PI
+4635;14973;São Félix do Tocantins;TO
+4636;1217776;São Félix do Xingu;PA
+4637;52031;São Fernando;RN
+4638;716498;São Fidélis;RJ
+4639;433613;São Francisco;MG
+4640;27427;São Francisco;PB
+4641;31669;São Francisco;SE
+4642;38911;São Francisco;SP
+4643;371625;São Francisco de Assis;RS
+4644;35703;São Francisco de Assis do Piauí;PI
+4645;91634;São Francisco de Goiás;GO
+4646;1225796;São Francisco de Itabapoana;RJ
+4647;85699;São Francisco de Paula;MG
+4648;526514;São Francisco de Paula;RS
+4649;122245;São Francisco de Sales;MG
+4650;85012;São Francisco do Brejão;MA
+4651;8646317;São Francisco do Conde;BA
+4652;54186;São Francisco do Glória;MG
+4653;293915;São Francisco do Guaporé;RO
+4654;60562;São Francisco do Maranhão;MA
+4655;31563;São Francisco do Oeste;RN
+4656;161910;São Francisco do Pará;PA
+4657;42224;São Francisco do Piauí;PI
+4658;3781303;São Francisco do Sul;SC
+4659;112828;São Gabriel;BA
+4660;1504215;São Gabriel;RS
+4661;265693;São Gabriel da Cachoeira;AM
+4662;567640;São Gabriel da Palha;ES
+4663;1375410;São Gabriel do Oeste;MS
+4664;148484;São Geraldo;MG
+4665;36749;São Geraldo da Piedade;MG
+4666;313422;São Geraldo do Araguaia;PA
+4667;35915;São Geraldo do Baixio;MG
+4668;16571312;São Gonçalo;RJ
+4669;174923;São Gonçalo do Abaeté;MG
+4670;1851347;São Gonçalo do Amarante;CE
+4671;1555781;São Gonçalo do Amarante;RN
+4672;25302;São Gonçalo do Gurguéia;PI
+4673;165549;São Gonçalo do Pará;MG
+4674;27851;São Gonçalo do Piauí;PI
+4675;1795384;São Gonçalo do Rio Abaixo;MG
+4676;27238;São Gonçalo do Rio Preto;MG
+4677;556864;São Gonçalo do Sapucaí;MG
+4678;617204;São Gonçalo dos Campos;BA
+4679;632609;São Gotardo;MG
+4680;535303;São Jerônimo;RS
+4681;186620;São Jerônimo da Serra;PR
+4682;165817;São João;PE
+4683;560519;São João;PR
+4684;102851;São João Batista;MA
+4685;692247;São João Batista;SC
+4686;123208;São João Batista do Glória;MG
+4687;124429;São João da Baliza;RR
+4688;7329728;São João da Barra;RJ
+4689;2697630;São João da Boa Vista;SP
+4690;27209;São João da Canabrava;PI
+4691;37297;São João da Fronteira;PI
+4692;41292;São João da Lagoa;MG
+4693;35417;São João da Mata;MG
+4694;41971;São João da Paraúna;GO
+4695;38098;São João da Ponta;PA
+4696;183149;São João da Ponte;MG
+4697;40262;São João da Serra;PI
+4698;113897;São João da Urtiga;RS
+4699;24415;São João da Varjota;PI
+4700;229562;São João d'Aliança;GO
+4701;32773;São João das Duas Pontes;SP
+4702;63765;São João das Missões;MG
+4703;30166;São João de Iracema;SP
+4704;7931134;São João de Meriti;RJ
+4705;130816;São João de Pirabas;PA
+4706;1665241;São João del Rei;MG
+4707;104580;São João do Araguaia;PA
+4708;39472;São João do Arraial;PI
+4709;99507;São João do Caiuá;PR
+4710;38577;São João do Cariri;PB
+4711;80135;São João do Carú;MA
+4712;141569;São João do Itaperiú;SC
+4713;234422;São João do Ivaí;PR
+4714;81893;São João do Jaguaribe;CE
+4715;149906;São João do Manhuaçu;MG
+4716;59202;São João do Manteninha;MG
+4717;179063;São João do Oeste;SC
+4718;72484;São João do Oriente;MG
+4719;31539;São João do Pacuí;MG
+4720;105784;São João do Paraíso;MA
+4721;195309;São João do Paraíso;MG
+4722;39587;São João do Pau d'Alho;SP
+4723;168487;São João do Piauí;PI
+4724;69238;São João do Polêsine;RS
+4725;153448;São João do Rio do Peixe;PB
+4726;51808;São João do Sabugi;RN
+4727;80053;São João do Soter;MA
+4728;133182;São João do Sul;SC
+4729;27957;São João do Tigre;PB
+4730;439390;São João do Triunfo;PR
+4731;222755;São João dos Patos;MA
+4732;160039;São João Evangelista;MG
+4733;357350;São João Nepomuceno;MG
+4734;666663;São Joaquim;SC
+4735;1396143;São Joaquim da Barra;SP
+4736;519917;São Joaquim de Bicas;MG
+4737;142603;São Joaquim do Monte;PE
+4738;73630;São Jorge;RS
+4739;254601;São Jorge do Ivaí;PR
+4740;105670;São Jorge do Patrocínio;PR
+4741;227184;São Jorge d'Oeste;PR
+4742;10055027;São José;SC
+4743;364125;São José da Barra;MG
+4744;115130;São José da Bela Vista;SP
+4745;125234;São José da Boa Vista;PR
+4746;179110;São José da Coroa Grande;PE
+4747;51997;São José da Lagoa Tapada;PB
+4748;316138;São José da Laje;AL
+4749;447073;São José da Lapa;MG
+4750;36131;São José da Safira;MG
+4751;196293;São José da Tapera;AL
+4752;80045;São José da Varginha;MG
+4753;44870;São José da Vitória;BA
+4754;50872;São José das Missões;RS
+4755;70124;São José das Palmeiras;PR
+4756;39332;São José de Caiana;PB
+4757;37913;São José de Espinharas;PB
+4758;692959;São José de Mipibu;RN
+4759;180968;São José de Piranhas;PB
+4760;24234;São José de Princesa;PB
+4761;1714914;São José de Ribamar;MA
+4762;179267;São José de Ubá;RJ
+4763;40303;São José do Alegre;MG
+4764;44699;São José do Barreiro;SP
+4765;220477;São José do Belmonte;PE
+4766;20179;São José do Bonfim;PB
+4767;17175;São José do Brejo do Cruz;PB
+4768;134523;São José do Calçado;ES
+4769;83269;São José do Campestre;RN
+4770;325457;São José do Cedro;SC
+4771;198123;São José do Cerrito;SC
+4772;34827;São José do Divino;MG
+4773;38128;São José do Divino;PI
+4774;295087;São José do Egito;PE
+4775;47585;São José do Goiabal;MG
+4776;42828;São José do Herval;RS
+4777;122118;São José do Hortêncio;RS
+4778;72553;São José do Inhacorá;RS
+4779;74870;São José do Jacuípe;BA
+4780;59906;São José do Jacuri;MG
+4781;26860;São José do Mantimento;MG
+4782;351390;São José do Norte;RS
+4783;241965;São José do Ouro;RS
+4784;28136;São José do Peixe;PI
+4785;44506;São José do Piauí;PI
+4786;37564;São José do Povo;MT
+4787;530799;São José do Rio Claro;MT
+4788;1656318;São José do Rio Pardo;SP
+4789;14951112;São José do Rio Preto;SP
+4790;37412;São José do Sabugi;PB
+4791;57333;São José do Seridó;RN
+4792;55022;São José do Sul;RS
+4793;396787;São José do Vale do Rio Preto;RJ
+4794;193087;São José do Xingu;MT
+4795;93685;São José dos Ausentes;RS
+4796;42209;São José dos Basílios;MA
+4797;36398100;São José dos Campos;SP
+4798;24348;São José dos Cordeiros;PB
+4799;22777412;São José dos Pinhais;PR
+4800;333651;São José dos Quatro Marcos;MT
+4801;40963;São José dos Ramos;PB
+4802;37345;São Julião;PI
+4803;6932552;São Leopoldo;RS
+4804;864907;São Lourenço;MG
+4805;975361;São Lourenço da Mata;PE
+4806;207484;São Lourenço da Serra;SP
+4807;751199;São Lourenço do Oeste;SC
+4808;27308;São Lourenço do Piauí;PI
+4809;943313;São Lourenço do Sul;RS
+4810;595245;São Ludgero;SC
+4811;26832481;São Luís;MA
+4812;721209;São Luís de Montes Belos;GO
+4813;90561;São Luís do Curu;CE
+4814;17043;São Luis do Piauí;PI
+4815;504362;São Luís do Quitunde;AL
+4816;134712;São Luís Gonzaga do Maranhão;MA
+4817;100539;São Luiz;RR
+4818;79486;São Luiz do Norte;GO
+4819;142300;São Luiz do Paraitinga;SP
+4820;954660;São Luiz Gonzaga;RS
+4821;62844;São Mamede;PB
+4822;43676;São Manoel do Paraná;PR
+4823;1004743;São Manuel;SP
+4824;624589;São Marcos;RS
+4825;177903;São Martinho;RS
+4826;68830;São Martinho;SC
+4827;157841;São Martinho da Serra;RS
+4828;2122095;São Mateus;ES
+4829;264937;São Mateus do Maranhão;MA
+4830;1133839;São Mateus do Sul;PR
+4831;192714;São Miguel;RN
+4832;575362;São Miguel Arcanjo;SP
+4833;16649;São Miguel da Baixa Grande;PI
+4834;29583;São Miguel da Boa Vista;SC
+4835;117933;São Miguel das Matas;BA
+4836;379749;São Miguel das Missões;RS
+4837;51173;São Miguel de Taipu;PB
+4838;36517;São Miguel do Aleixo;SE
+4839;65010;São Miguel do Anta;MG
+4840;439962;São Miguel do Araguaia;GO
+4841;19296;São Miguel do Fidalgo;PI
+4842;155946;São Miguel do Gostoso;RN
+4843;563509;São Miguel do Guamá;PA
+4844;468447;São Miguel do Guaporé;RO
+4845;1016190;São Miguel do Iguaçu;PR
+4846;1301958;São Miguel do Oeste;SC
+4847;107388;São Miguel do Passa Quatro;GO
+4848;104011;São Miguel do Tapuio;PI
+4849;81533;São Miguel do Tocantins;TO
+4850;1030071;São Miguel dos Campos;AL
+4851;93771;São Miguel dos Milagres;AL
+4852;116355;São Nicolau;RS
+4853;32900;São Patrício;GO
+4854;650544789;São Paulo;SP
+4855;122683;São Paulo das Missões;RS
+4856;193910;São Paulo de Olivença;AM
+4857;141024;São Paulo do Potengi;RN
+4858;52276;São Pedro;RN
+4859;606448;São Pedro;SP
+4860;76230;São Pedro da Água Branca;MA
+4861;1971119;São Pedro da Aldeia;RJ
+4862;43171;São Pedro da Cipa;MT
+4863;63176;São Pedro da Serra;RS
+4864;78918;São Pedro da União;MG
+4865;57212;São Pedro das Missões;RS
+4866;68291;São Pedro de Alcântara;SC
+4867;76914;São Pedro do Butiá;RS
+4868;156298;São Pedro do Iguaçu;PR
+4869;254055;São Pedro do Ivaí;PR
+4870;63093;São Pedro do Paraná;PR
+4871;97559;São Pedro do Piauí;PI
+4872;46539;São Pedro do Suaçuí;MG
+4873;317996;São Pedro do Sul;RS
+4874;129888;São Pedro do Turvo;SP
+4875;46863;São Pedro dos Crentes;MA
+4876;102410;São Pedro dos Ferros;MG
+4877;66074;São Rafael;RN
+4878;352906;São Raimundo das Mangabeiras;MA
+4879;30607;São Raimundo do Doca Bezerra;MA
+4880;353834;São Raimundo Nonato;PI
+4881;34496;São Roberto;MA
+4882;109826;São Romão;MG
+4883;2438279;São Roque;SP
+4884;142075;São Roque de Minas;MG
+4885;185925;São Roque do Canaã;ES
+4886;28945;São Salvador do Tocantins;TO
+4887;279321;São Sebastião;AL
+4888;3691904;São Sebastião;SP
+4889;178906;São Sebastião da Amoreira;PR
+4890;202979;São Sebastião da Bela Vista;MG
+4891;170309;São Sebastião da Boa Vista;PA
+4892;286535;São Sebastião da Grama;SP
+4893;55459;São Sebastião da Vargem Alegre;MG
+4894;75865;São Sebastião de Lagoa de Roça;PB
+4895;161327;São Sebastião do Alto;RJ
+4896;52916;São Sebastião do Anta;MG
+4897;597595;São Sebastião do Caí;RS
+4898;63300;São Sebastião do Maranhão;MG
+4899;384050;São Sebastião do Oeste;MG
+4900;1650997;São Sebastião do Paraíso;MG
+4901;669733;São Sebastião do Passé;BA
+4902;17905;São Sebastião do Rio Preto;MG
+4903;22936;São Sebastião do Rio Verde;MG
+4904;37125;São Sebastião do Tocantins;TO
+4905;84529;São Sebastião do Uatumã;AM
+4906;26207;São Sebastião do Umbuzeiro;PB
+4907;694675;São Sepé;RS
+4908;3106227;São Simão;GO
+4909;404808;São Simão;SP
+4910;82199;São Thomé das Letras;MG
+4911;135476;São Tiago;MG
+4912;104492;São Tomás de Aquino;MG
+4913;149447;São Tomé;PR
+4914;80729;São Tomé;RN
+4915;84225;São Valentim;RS
+4916;48825;São Valentim do Sul;RS
+4917;89382;São Valério;TO
+4918;48424;São Valério do Sul;RS
+4919;59436;São Vendelino;RS
+4920;52414;São Vicente;RN
+4921;5020187;São Vicente;SP
+4922;129070;São Vicente de Minas;MG
+4923;59511;São Vicente do Seridó;PB
+4924;230003;São Vicente do Sul;RS
+4925;115228;São Vicente Ferrer;MA
+4926;182030;São Vicente Férrer;PE
+4927;515929;Sapé;PB
+4928;169850;Sapeaçu;BA
+4929;1911315;Sapezal;MT
+4930;2845838;Sapiranga;RS
+4931;91670;Sapopema;PR
+4932;90017;Sapucaia;PA
+4933;730979;Sapucaia;RJ
+4934;3017001;Sapucaia do Sul;RS
+4935;83435;Sapucaí-Mirim;MG
+4936;2029252;Saquarema;RJ
+4937;1326752;Sarandi;PR
+4938;754694;Sarandi;RS
+4939;137227;Sarapuí;SP
+4940;48538;Sardoá;MG
+4941;53348;Sarutaiá;SP
+4942;739247;Sarzedo;MG
+4943;136453;Sátiro Dias;BA
+4944;114828;Satuba;AL
+4945;57858;Satubinha;MA
+4946;115962;Saubara;BA
+4947;613230;Saudade do Iguaçu;PR
+4948;263309;Saudades;SC
+4949;73328;Saúde;BA
+4950;409454;Schroeder;SC
+4951;410087;Seabra;BA
+4952;787601;Seara;SC
+4953;268857;Sebastianópolis do Sul;SP
+4954;31416;Sebastião Barros;PI
+4955;71026;Sebastião Laranjeiras;BA
+4956;68900;Sebastião Leal;PI
+4957;299534;Seberi;RS
+4958;83275;Sede Nova;RS
+4959;120244;Segredo;RS
+4960;188342;Selbach;RS
+4961;1590081;Selvíria;MS
+4962;26823;Sem-Peixe;MG
+4963;463085;Sena Madureira;AC
+4964;59088;Senador Alexandre Costa;MA
+4965;50411;Senador Amaral;MG
+4966;2685910;Senador Canedo;GO
+4967;20106;Senador Cortes;MG
+4968;38565;Senador Elói de Souza;RN
+4969;68688;Senador Firmino;MG
+4970;90631;Senador Georgino Avelino;RN
+4971;331996;Senador Guiomard;AC
+4972;23932;Senador José Bento;MG
+4973;104405;Senador José Porfírio;PA
+4974;127851;Senador La Rocque;MA
+4975;73119;Senador Modestino Gonçalves;MG
+4976;253285;Senador Pompeu;CE
+4977;76803;Senador Rui Palmeira;AL
+4978;40620;Senador Sá;CE
+4979;80278;Senador Salgado Filho;RS
+4980;358773;Sengés;PR
+4981;786666;Senhor do Bonfim;BA
+4982;51584;Senhora de Oliveira;MG
+4983;29751;Senhora do Porto;MG
+4984;78493;Senhora dos Remédios;MG
+4985;87251;Sentinela do Sul;RS
+4986;322388;Sento Sé;BA
+4987;577015;Serafina Corrêa;RS
+4988;80686;Sericita;MG
+4989;180802;Seringueiras;RO
+4990;36819;Sério;RS
+4991;51506;Seritinga;MG
+4992;2306345;Seropédica;RJ
+4993;17791955;Serra;ES
+4994;99780;Serra Alta;SC
+4995;125928;Serra Azul;SP
+4996;29751;Serra Azul de Minas;MG
+4997;109762;Serra Branca;PB
+4998;67173;Serra Caiada;RN
+4999;27147;Serra da Raiz;PB
+5000;16609;Serra da Saudade;MG
+5001;37131;Serra de São Bento;RN
+5002;106061;Serra do Mel;RN
+5003;55869;Serra do Navio;AP
+5004;236294;Serra do Ramalho;BA
+5005;231594;Serra do Salitre;MG
+5006;109908;Serra dos Aimorés;MG
+5007;140120;Serra Dourada;BA
+5008;42838;Serra Grande;PB
+5009;615165;Serra Negra;SP
+5010;70194;Serra Negra do Norte;RN
+5011;23931;Serra Nova Dourada;MT
+5012;94266;Serra Preta;BA
+5013;51026;Serra Redonda;PB
+5014;1227735;Serra Talhada;PE
+5015;835480;Serrana;SP
+5016;101375;Serrania;MG
+5017;55819;Serrano do Maranhão;MA
+5018;324427;Serranópolis;GO
+5019;30611;Serranópolis de Minas;MG
+5020;189540;Serranópolis do Iguaçu;PR
+5021;28631;Serranos;MG
+5022;50862;Serraria;PB
+5023;756269;Serrinha;BA
+5024;50968;Serrinha;RN
+5025;34145;Serrinha dos Pintos;RN
+5026;119162;Serrita;PE
+5027;204310;Serro;MG
+5028;85777;Serrolândia;BA
+5029;255468;Sertaneja;PR
+5030;270239;Sertânia;PE
+5031;582529;Sertanópolis;PR
+5032;233407;Sertão;RS
+5033;149598;Sertão Santana;RS
+5034;39754;Sertãozinho;PB
+5035;4743324;Sertãozinho;SP
+5036;241754;Sete Barras;SP
+5037;53381;Sete de Setembro;RS
+5038;7676457;Sete Lagoas;MG
+5039;187857;Sete Quedas;MS
+5040;65804;Setubinha;MG
+5041;91308;Severiano de Almeida;RS
+5042;38457;Severiano Melo;RN
+5043;278763;Severínia;SP
+5044;484134;Siderópolis;SC
+5045;1330264;Sidrolândia;MS
+5046;51378;Sigefredo Pacheco;PI
+5047;374073;Silva Jardim;RJ
+5048;531511;Silvânia;GO
+5049;116435;Silvanópolis;TO
+5050;45994;Silveira Martins;RS
+5051;23841;Silveirânia;MG
+5052;60099;Silveiras;SP
+5053;104903;Silves;AM
+5054;97911;Silvianópolis;MG
+5055;471961;Simão Dias;SE
+5056;60553;Simão Pereira;MG
+5057;98121;Simões;PI
+5058;4567979;Simões Filho;BA
+5059;86138;Simolândia;GO
+5060;167456;Simonésia;MG
+5061;115085;Simplício Mendes;PI
+5062;182826;Sinimbu;RS
+5063;4426992;Sinop;MT
+5064;427053;Siqueira Campos;PR
+5065;501753;Sirinhaém;PE
+5066;152151;Siriri;SE
+5067;38915;Sítio d'Abadia;GO
+5068;90839;Sítio do Mato;BA
+5069;81082;Sítio do Quinto;BA
+5070;117475;Sítio Novo;MA
+5071;35342;Sítio Novo;RN
+5072;74545;Sítio Novo do Tocantins;TO
+5073;362189;Sobradinho;BA
+5074;323049;Sobradinho;RS
+5075;71675;Sobrado;PB
+5076;4080276;Sobral;CE
+5077;48873;Sobrália;MG
+5078;684843;Socorro;SP
+5079;24397;Socorro do Piauí;PI
+5080;234545;Solânea;PB
+5081;161981;Soledade;PB
+5082;693400;Soledade;RS
+5083;51559;Soledade de Minas;MG
+5084;36911;Solidão;PE
+5085;135685;Solonópole;CE
+5086;613294;Sombrio;SC
+5087;589396;Sonora;MS
+5088;493810;Sooretama;ES
+5089;30566793;Sorocaba;SP
+5090;4655430;Sorriso;MT
+5091;27143;Sossêgo;PB
+5092;166399;Soure;PA
+5093;973825;Sousa;PB
+5094;81362;Souto Soares;BA
+5095;54735;Sucupira;TO
+5096;65091;Sucupira do Norte;MA
+5097;35159;Sucupira do Riachão;MA
+5098;198106;Sud Mennucci;SP
+5099;70585;Sul Brasil;SC
+5100;77459;Sulina;PR
+5101;12663337;Sumaré;SP
+5102;156263;Sumé;PB
+5103;348745;Sumidouro;RJ
+5104;654267;Surubim;PE
+5105;49318;Sussuapara;PI
+5106;116232;Suzanápolis;SP
+5107;10328167;Suzano;SP
+5108;80136;Tabaí;RS
+5109;336810;Tabaporã;MT
+5110;224264;Tabapuã;SP
+5111;381214;Tabatinga;AM
+5112;198072;Tabatinga;SP
+5113;210120;Tabira;PE
+5114;7709489;Taboão da Serra;SP
+5115;78318;Tabocas do Brejo Velho;BA
+5116;21161;Taboleiro Grande;RN
+5117;47007;Tabuleiro;MG
+5118;266927;Tabuleiro do Norte;CE
+5119;101388;Tacaimbó;PE
+5120;273888;Tacaratu;PE
+5121;113065;Taciba;SP
+5122;66617;Tacima;PB
+5123;175809;Tacuru;MS
+5124;178953;Taguaí;SP
+5125;266897;Taguatinga;TO
+5126;70605;Taiaçu;SP
+5127;792748;Tailândia;PA
+5128;499101;Taió;SC
+5129;393343;Taiobeiras;MG
+5130;20772;Taipas do Tocantins;TO
+5131;99033;Taipu;RN
+5132;86452;Taiúva;SP
+5133;66261;Talismã;TO
+5134;240999;Tamandaré;PE
+5135;277805;Tamarana;PR
+5136;498431;Tambaú;SP
+5137;91407;Tamboara;PR
+5138;164086;Tamboril;CE
+5139;19318;Tamboril do Piauí;PI
+5140;766174;Tanabi;SP
+5141;118080;Tangará;RN
+5142;355457;Tangará;SC
+5143;2482372;Tangará da Serra;MT
+5144;563859;Tanguá;RJ
+5145;195153;Tanhaçu;BA
+5146;41625;Tanque d'Arca;AL
+5147;20540;Tanque do Piauí;PI
+5148;132344;Tanque Novo;BA
+5149;52806;Tanquinho;BA
+5150;31818;Taparuba;MG
+5151;201183;Tapauá;AM
+5152;407653;Tapejara;PR
+5153;752233;Tapejara;RS
+5154;356130;Tapera;RS
+5155;171985;Taperoá;BA
+5156;110793;Taperoá;PB
+5157;324780;Tapes;RS
+5158;418861;Tapira;MG
+5159;102575;Tapira;PR
+5160;41438;Tapiraí;MG
+5161;147404;Tapiraí;SP
+5162;117118;Tapiramutá;BA
+5163;271815;Tapiratiba;SP
+5164;664313;Tapurah;MT
+5165;1204620;Taquara;RS
+5166;46026;Taquaraçu de Minas;MG
+5167;28367;Taquaral;SP
+5168;53799;Taquaral de Goiás;GO
+5169;175978;Taquarana;AL
+5170;675878;Taquari;RS
+5171;1187574;Taquaritinga;SP
+5172;203590;Taquaritinga do Norte;PE
+5173;525780;Taquarituba;SP
+5174;175048;Taquarivaí;SP
+5175;85755;Taquaruçu do Sul;RS
+5176;89614;Taquarussu;MS
+5177;87934;Tarabai;SP
+5178;399277;Tarauacá;AC
+5179;55151;Tarrafas;CE
+5180;164791;Tartarugalzinho;AP
+5181;872660;Tarumã;SP
+5182;129676;Tarumirim;MG
+5183;720217;Tasso Fragoso;MA
+5184;3609592;Tatuí;SP
+5185;497434;Tauá;CE
+5186;14703592;Taubaté;SP
+5187;98861;Tavares;PB
+5188;74924;Tavares;RS
+5189;710974;Tefé;AM
+5190;116657;Teixeira;PB
+5191;2111823;Teixeira de Freitas;BA
+5192;293744;Teixeira Soares;PR
+5193;112577;Teixeiras;MG
+5194;79740;Teixeirópolis;RO
+5195;98929;Tejuçuoca;CE
+5196;76642;Tejupá;SP
+5197;3055218;Telêmaco Borba;PR
+5198;28769;Telha;SE
+5199;75531;Tenente Ananias;RN
+5200;42777;Tenente Laurentino Cruz;RN
+5201;334699;Tenente Portela;RS
+5202;25358;Tenório;PB
+5203;67426;Teodoro Sampaio;BA
+5204;554430;Teodoro Sampaio;SP
+5205;140416;Teofilândia;BA
+5206;2266160;Teófilo Otoni;MG
+5207;112357;Teolândia;BA
+5208;395113;Teotônio Vilela;AL
+5209;393922;Terenos;MS
+5210;17627625;Teresina;PI
+5211;28470;Teresina de Goiás;GO
+5212;5020283;Teresópolis;RJ
+5213;47198;Terezinha;PE
+5214;176597;Terezópolis de Goiás;GO
+5215;63080;Terra Alta;PA
+5216;360441;Terra Boa;PR
+5217;185521;Terra de Areia;RS
+5218;99420;Terra Nova;BA
+5219;57900;Terra Nova;PE
+5220;209990;Terra Nova do Norte;MT
+5221;296333;Terra Rica;PR
+5222;593024;Terra Roxa;PR
+5223;110509;Terra Roxa;SP
+5224;485575;Terra Santa;PA
+5225;99838;Tesouro;MT
+5226;1043049;Teutônia;RS
+5227;153850;Theobroma;RO
+5228;867094;Tianguá;CE
+5229;807676;Tibagi;PR
+5230;86606;Tibau;RN
+5231;265388;Tibau do Sul;RN
+5232;1629950;Tietê;SP
+5233;30000;Tigrinhos;SC
+5234;1403817;Tijucas;SC
+5235;358156;Tijucas do Sul;PR
+5236;599549;Timbaúba;PE
+5237;28016;Timbaúba dos Batistas;RN
+5238;90576;Timbé do Sul;SC
+5239;126778;Timbiras;MA
+5240;1690840;Timbó;SC
+5241;172354;Timbó Grande;SC
+5242;45330;Timburi;SP
+5243;1344276;Timon;MA
+5244;2773989;Timóteo;MG
+5245;111675;Tio Hugo;RS
+5246;137880;Tiradentes;MG
+5247;110718;Tiradentes do Sul;RS
+5248;149032;Tiros;MG
+5249;423578;Tobias Barreto;SE
+5250;59662;Tocantínia;TO
+5251;242690;Tocantinópolis;TO
+5252;246804;Tocantins;MG
+5253;49792;Tocos do Moji;MG
+5254;53857;Toledo;MG
+5255;4872319;Toledo;PR
+5256;99967;Tomar do Geru;SE
+5257;142077;Tomazina;PR
+5258;97319;Tombos;MG
+5259;559215;Tomé-Açu;PA
+5260;114653;Tonantins;AM
+5261;571087;Toritama;PE
+5262;86281;Torixoréu;MT
+5263;61687;Toropi;RS
+5264;22284;Torre de Pedra;SP
+5265;977768;Torres;RS
+5266;178864;Torrinha;SP
+5267;399964;Touros;RN
+5268;32236;Trabiju;SP
+5269;180639;Tracuateua;PA
+5270;105772;Tracunhaém;PE
+5271;157121;Traipu;AL
+5272;227378;Trairão;PA
+5273;578173;Trairi;CE
+5274;175825;Trajano de Moraes;RJ
+5275;876973;Tramandaí;RS
+5276;58706;Travesseiro;RS
+5277;104471;Tremedal;BA
+5278;659009;Tremembé;SP
+5279;67780;Três Arroios;RS
+5280;833699;Três Barras;SC
+5281;281210;Três Barras do Paraná;PR
+5282;204651;Três Cachoeiras;RS
+5283;2010570;Três Corações;MG
+5284;917195;Três Coroas;RS
+5285;849661;Três de Maio;RS
+5286;50871;Três Forquilhas;RS
+5287;86066;Três Fronteiras;SP
+5288;7860658;Três Lagoas;MS
+5289;1482242;Três Marias;MG
+5290;108340;Três Palmeiras;RS
+5291;665229;Três Passos;RS
+5292;1042056;Três Pontas;MG
+5293;42069;Três Ranchos;GO
+5294;3352537;Três Rios;RJ
+5295;245374;Treviso;SC
+5296;112259;Treze de Maio;SC
+5297;507121;Treze Tílias;SC
+5298;1895382;Trindade;GO
+5299;283219;Trindade;PE
+5300;151101;Trindade do Sul;RS
+5301;65738;Triunfo;PB
+5302;109905;Triunfo;PE
+5303;7478984;Triunfo;RS
+5304;38702;Triunfo Potiguar;RN
+5305;147868;Trizidela do Vale;MA
+5306;43491;Trombas;GO
+5307;228701;Trombudo Central;SC
+5308;3205122;Tubarão;SC
+5309;392324;Tucano;BA
+5310;665814;Tucumã;PA
+5311;175708;Tucunduva;RS
+5312;4235410;Tucuruí;PA
+5313;37639;Tufilândia;MA
+5314;110698;Tuiuti;SP
+5315;50225;Tumiritinga;MG
+5316;99976;Tunápolis;SC
+5317;71287;Tunas;RS
+5318;106642;Tunas do Paraná;PR
+5319;165197;Tuneiras do Oeste;PR
+5320;250184;Tuntum;MA
+5321;1540662;Tupã;SP
+5322;519167;Tupaciguara;MG
+5323;150266;Tupanatinga;PE
+5324;38813;Tupanci do Sul;RS
+5325;1017560;Tupanciretã;RS
+5326;419744;Tupandi;RS
+5327;238159;Tuparendi;RS
+5328;64606;Tuparetama;PE
+5329;288559;Tupãssi;PR
+5330;247770;Tupi Paulista;SP
+5331;47458;Tupirama;TO
+5332;24486;Tupiratins;TO
+5333;253740;Turiaçu;MA
+5334;131014;Turilândia;MA
+5335;31703;Turiúba;SP
+5336;272018;Turmalina;MG
+5337;40906;Turmalina;SP
+5338;82508;Turuçu;RS
+5339;91657;Tururu;CE
+5340;84491;Turvânia;GO
+5341;269959;Turvelândia;GO
+5342;320393;Turvo;PR
+5343;485391;Turvo;SC
+5344;80901;Turvolândia;MG
+5345;320996;Tutóia;MA
+5346;130806;Uarini;AM
+5347;182658;Uauá;BA
+5348;2371216;Ubá;MG
+5349;82320;Ubaí;MG
+5350;168821;Ubaíra;BA
+5351;214352;Ubaitaba;BA
+5352;336284;Ubajara;CE
+5353;102782;Ubaporanga;MG
+5354;378215;Ubarana;SP
+5355;175808;Ubatã;BA
+5356;1705877;Ubatuba;SP
+5357;12524596;Uberaba;MG
+5358;29549558;Uberlândia;MG
+5359;62965;Ubirajara;SP
+5360;784847;Ubiratã;PR
+5361;50000;Ubiretama;RS
+5362;255085;Uchoa;SP
+5363;89572;Uibaí;BA
+5364;97318;Uiramutã;RR
+5365;41208;Uirapuru;GO
+5366;143793;Uiraúna;PB
+5367;1337659;Ulianópolis;PA
+5368;42832;Umari;CE
+5369;110493;Umarizal;RN
+5370;241319;Umbaúba;SE
+5371;108343;Umburanas;BA
+5372;36032;Umburatiba;MG
+5373;66497;Umbuzeiro;PB
+5374;109221;Umirim;CE
+5375;3108711;Umuarama;PR
+5376;282836;Una;BA
+5377;2439492;Unaí;MG
+5378;300213;União;PI
+5379;50150;União da Serra;RS
+5380;1259396;União da Vitória;PR
+5381;103933;União de Minas;MG
+5382;51905;União do Oeste;SC
+5383;107769;União do Sul;MT
+5384;771566;União dos Palmares;AL
+5385;40638;União Paulista;SP
+5386;58032;Uniflor;PR
+5387;54034;Unistalda;RS
+5388;140115;Upanema;RN
+5389;213248;Uraí;PR
+5390;137313;Urandi;BA
+5391;155789;Urânia;SP
+5392;142982;Urbano Santos;MA
+5393;32170;Uru;SP
+5394;711246;Uruaçu;GO
+5395;180950;Uruana;GO
+5396;43544;Uruana de Minas;MG
+5397;486505;Uruará;PA
+5398;217909;Urubici;SC
+5399;284165;Uruburetama;CE
+5400;153442;Urucânia;MG
+5401;310096;Urucará;AM
+5402;189467;Uruçuca;BA
+5403;1025704;Uruçuí;PI
+5404;112355;Urucuia;MG
+5405;113845;Urucurituba;AM
+5406;2624815;Uruguaiana;RS
+5407;105790;Uruoca;CE
+5408;183262;Urupá;RO
+5409;49228;Urupema;SC
+5410;285207;Urupês;SP
+5411;732852;Urussanga;SC
+5412;86083;Urutaí;GO
+5413;140092;Utinga;BA
+5414;1925245;Vacaria;RS
+5415;50456;Vale de São Domingos;MT
+5416;117919;Vale do Anari;RO
+5417;124803;Vale do Paraíso;RO
+5418;217580;Vale do Sol;RS
+5419;112182;Vale Real;RS
+5420;73805;Vale Verde;RS
+5421;1322004;Valença;BA
+5422;1728429;Valença;RJ
+5423;184843;Valença do Piauí;PI
+5424;196933;Valente;BA
+5425;310668;Valentim Gentil;SP
+5426;5242015;Valinhos;SP
+5427;706587;Valparaíso;SP
+5428;2155089;Valparaíso de Goiás;GO
+5429;51650;Vanini;RS
+5430;112519;Vargeão;SC
+5431;110746;Vargem;SC
+5432;105267;Vargem;SP
+5433;49723;Vargem Alegre;MG
+5434;350434;Vargem Alta;ES
+5435;36819;Vargem Bonita;MG
+5436;325449;Vargem Bonita;SC
+5437;256643;Vargem Grande;MA
+5438;50429;Vargem Grande do Rio Pardo;MG
+5439;839284;Vargem Grande do Sul;SP
+5440;1948504;Vargem Grande Paulista;SP
+5441;4609515;Varginha;MG
+5442;55744;Varjão;GO
+5443;146995;Varjão de Minas;MG
+5444;151120;Varjota;CE
+5445;146298;Varre-Sai;RJ
+5446;27387;Várzea;PB
+5447;37071;Várzea;RN
+5448;280904;Várzea Alegre;CE
+5449;28566;Várzea Branca;PI
+5450;506584;Várzea da Palma;MG
+5451;88196;Várzea da Roça;BA
+5452;68079;Várzea do Poço;BA
+5453;6267239;Várzea Grande;MT
+5454;26060;Várzea Grande;PI
+5455;99772;Várzea Nova;BA
+5456;2404586;Várzea Paulista;SP
+5457;87344;Varzedo;BA
+5458;139969;Varzelândia;MG
+5459;899419;Vassouras;RJ
+5460;537643;Vazante;MG
+5461;2836688;Venâncio Aires;RS
+5462;502338;Venda Nova do Imigrante;ES
+5463;30528;Venha-Ver;RN
+5464;224101;Ventania;PR
+5465;142541;Venturosa;PE
+5466;389832;Vera;MT
+5467;503911;Vera Cruz;BA
+5468;92986;Vera Cruz;RN
+5469;603747;Vera Cruz;RS
+5470;126824;Vera Cruz;SP
+5471;207207;Vera Cruz do Oeste;PR
+5472;19200;Vera Mendes;PI
+5473;1134478;Veranópolis;RS
+5474;58679;Verdejante;PE
+5475;73874;Verdelândia;MG
+5476;235396;Verê;PR
+5477;72676;Vereda;BA
+5478;50398;Veredinha;MG
+5479;93158;Veríssimo;MG
+5480;49047;Vermelho Novo;MG
+5481;61164;Vertente do Lério;PE
+5482;161009;Vertentes;PE
+5483;3095657;Vespasiano;MG
+5484;57480;Vespasiano Corrêa;RS
+5485;145555;Viadutos;RS
+5486;3238814;Viamão;RS
+5487;1807661;Viana;ES
+5488;351716;Viana;MA
+5489;312680;Vianópolis;GO
+5490;332643;Vicência;PE
+5491;78471;Vicente Dutra;RS
+5492;169344;Vicentina;MS
+5493;322594;Vicentinópolis;GO
+5494;231639;Viçosa;AL
+5495;1397620;Viçosa;MG
+5496;14837;Viçosa;RN
+5497;330777;Viçosa do Ceará;CE
+5498;145332;Victor Graeff;RS
+5499;243448;Vidal Ramos;SC
+5500;2108485;Videira;SC
+5501;39085;Vieiras;MG
+5502;34901;Vieirópolis;PB
+5503;346257;Vigia;PA
+5504;384835;Vila Bela da Santíssima Trindade;MT
+5505;104363;Vila Boa;GO
+5506;32296;Vila Flor;RN
+5507;145032;Vila Flores;RS
+5508;89711;Vila Lângaro;RS
+5509;183579;Vila Maria;RS
+5510;24226;Vila Nova do Piauí;PI
+5511;96770;Vila Nova do Sul;RS
+5512;91088;Vila Nova dos Martírios;MA
+5513;142438;Vila Pavão;ES
+5514;199087;Vila Propício;GO
+5515;385204;Vila Rica;MT
+5516;280825;Vila Valério;ES
+5517;11116467;Vila Velha;ES
+5518;2116491;Vilhena;RO
+5519;7635818;Vinhedo;SP
+5520;269870;Viradouro;SP
+5521;101917;Virgem da Lapa;MG
+5522;115813;Virgínia;MG
+5523;129325;Virginópolis;MG
+5524;45241;Virgolândia;MG
+5525;96739;Virmond;PR
+5526;990544;Visconde do Rio Branco;MG
+5527;436491;Viseu;PA
+5528;60034;Vista Alegre;RS
+5529;310135;Vista Alegre do Alto;SP
+5530;50730;Vista Alegre do Prata;RS
+5531;63794;Vista Gaúcha;RS
+5532;26735;Vista Serrana;PB
+5533;94361;Vitor Meireles;SC
+5534;23041070;Vitória;ES
+5535;27590;Vitória Brasil;SP
+5536;5761231;Vitória da Conquista;BA
+5537;72567;Vitória das Missões;RS
+5538;3072738;Vitória de Santo Antão;PE
+5539;147046;Vitória do Jari;AP
+5540;280866;Vitória do Mearim;MA
+5541;739674;Vitória do Xingu;PA
+5542;311138;Vitorino;PR
+5543;195904;Vitorino Freire;MA
+5544;58932;Volta Grande;MG
+5545;10322955;Volta Redonda;RJ
+5546;4670573;Votorantim;SP
+5547;2480537;Votuporanga;SP
+5548;63490;Wagner;BA
+5549;25695;Wall Ferraz;PI
+5550;138589;Wanderlândia;TO
+5551;133842;Wanderley;BA
+5552;24036;Wenceslau Braz;MG
+5553;403519;Wenceslau Braz;PR
+5554;263291;Wenceslau Guimarães;BA
+5555;120961;Westfália;RS
+5556;95923;Witmarsum;SC
+5557;312975;Xambioá;TO
+5558;73086;Xambrê;PR
+5559;425914;Xangri-lá;RS
+5560;1337101;Xanxerê;SC
+5561;201925;Xapuri;AC
+5562;175328;Xavantina;SC
+5563;818815;Xaxim;SC
+5564;102822;Xexéu;PE
+5565;1077529;Xinguara;PA
+5566;327014;Xique-Xique;BA
+5567;16224;Zabelê;PB
+5568;70716;Zacarias;SP
+5569;353046;Zé Doca;MA
+5570;61325;Zortéa;SC
